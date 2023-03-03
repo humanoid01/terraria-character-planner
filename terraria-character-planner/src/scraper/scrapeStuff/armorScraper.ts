@@ -19,6 +19,7 @@ import { getLabelToLower } from '../scraperFunctions/getLabelToLower.js';
 import { getImgName } from '../scraperFunctions/getImgName.js';
 import { getDebuffChance } from '../scraperFunctions/getDebuffChance.js';
 import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
+import { scrapeCrafting } from './craftingScraper.js';
 
 interface ArmorPiece {
   img: string | undefined;
@@ -82,10 +83,6 @@ const scrapeArmor = async (
     chance: undefined,
     duration: undefined,
     tooltip: undefined,
-  };
-  const projectile: Projectile = {
-    img: undefined,
-    name: undefined,
   };
 
   const { data } = await axios.get(url);
@@ -177,6 +174,9 @@ const scrapeArmor = async (
   });
   armor.set = scrapeSet(data);
 
+  armor.crafting = scrapeCrafting(data)[0];
+  armor.usedIn = scrapeCrafting(data)[1];
+
   console.log(armor);
 };
 
@@ -195,7 +195,7 @@ const scrapeSet = (html: string) => {
       rarity: undefined,
     };
 
-    if (isPCVersion(el) === null) {
+    if (isPCVersion(el)) {
       armorPiece.name = getName(el);
       armorPiece.img = getImg(el);
 
@@ -233,4 +233,4 @@ const scrapeSet = (html: string) => {
   return armorPieces;
 };
 
-scrapeArmor('https://terraria.fandom.com/wiki/Moon_Lord_Legs');
+scrapeArmor('https://terraria.fandom.com/wiki/Titanium_armor');

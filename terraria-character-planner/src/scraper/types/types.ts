@@ -27,13 +27,13 @@ export interface CraftingStation {
   name: string | undefined;
 }
 export interface Ingredient {
-  ingImg: string | undefined;
-  ingName: string | undefined;
-  ingQuantity: string | undefined;
+  img: string | undefined;
+  name: string | undefined;
+  quantity: string | undefined;
 }
 export interface Crafting {
-  cStations: CraftingStation[] | undefined;
-  ingredients: Ingredient[] | undefined;
+  cStations: CraftingStation[];
+  ingredients: Ingredient[][];
   result: Ingredient | undefined;
 }
 export interface DroppedBy {
