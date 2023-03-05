@@ -36,8 +36,10 @@ export interface Crafting {
   ingredients: Ingredient[][];
   result: Ingredient | undefined;
 }
+
 export interface DroppedBy {
-  entity: string | undefined;
+  entityName: string | undefined;
+  entityImg: string | undefined;
   quantity: string | undefined;
   rate: string | undefined;
 }

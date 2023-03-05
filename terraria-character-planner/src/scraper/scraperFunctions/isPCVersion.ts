@@ -6,16 +6,14 @@ export const isPCVersion = (el: cheerio.Element): boolean => {
   const divVersion = $('div.version-note');
 
   if (divVersion.text().length) {
-    let isPC = false;
     divVersion.find('a').each((i, el) => {
       const ver = $(el).attr('title');
-      if (ver?.includes('pc')) isPC = true;
+      if (ver?.includes('pc')) return true;
     });
-    return isPC;
+    return false;
   }
 
-  if (!version) return true;
-  if (version.includes('pc')) return true;
+  if (!version || version.includes('pc')) return true;
 
   return false;
 };

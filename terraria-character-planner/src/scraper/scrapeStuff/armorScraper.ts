@@ -20,6 +20,7 @@ import { getImgName } from '../scraperFunctions/getImgName.js';
 import { getDebuffChance } from '../scraperFunctions/getDebuffChance.js';
 import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
 import { scrapeCrafting } from './craftingScraper.js';
+import { scrapeDroppedBy } from './droppedByScrapper.js';
 
 interface ArmorPiece {
   img: string | undefined;
@@ -103,12 +104,15 @@ const scrapeArmor = async (
             case 'type':
               armor.type = getType(el);
               break;
+
             case 'defense':
               armor.defense = value;
               break;
+
             case 'set bonus':
               armor.setBonus = getTooltip(el);
               break;
+
             case 'tooltip':
               armor.setBonus = getTooltip(el);
               break;
@@ -177,6 +181,8 @@ const scrapeArmor = async (
   armor.crafting = scrapeCrafting(data)[0];
   armor.usedIn = scrapeCrafting(data)[1];
 
+  armor.droppedBy = scrapeDroppedBy(data);
+
   console.log(armor);
 };
 
@@ -233,4 +239,4 @@ const scrapeSet = (html: string) => {
   return armorPieces;
 };
 
-scrapeArmor('https://terraria.fandom.com/wiki/Titanium_armor');
+scrapeArmor('https://terraria.fandom.com/wiki/Vampire_Frog_Staff');

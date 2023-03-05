@@ -4,8 +4,8 @@ import { getImg } from '../scraperFunctions/getImg.js';
 import { getImgName } from '../scraperFunctions/getImgName.js';
 import { getQuantity } from './../scraperFunctions/getQuantity.js';
 import { isPCVersion } from './../scraperFunctions/isPCVersion.js';
-export const scrapeCrafting = (data: string): Crafting[][] => {
-  const $ = cheerio.load(data);
+export const scrapeCrafting = (html: string): Crafting[][] => {
+  const $ = cheerio.load(html);
   const usedIn: Crafting[] = [];
   const crafting: Crafting[] = [];
   $('table.crafts table tbody').each((i, el) => {
@@ -16,7 +16,6 @@ export const scrapeCrafting = (data: string): Crafting[][] => {
     }
   });
 
-  // console.log('CRAFTING', crafting, 'USED IN', usedIn);
   return [crafting, usedIn];
 };
 
@@ -41,8 +40,6 @@ const getRecipe = (el: cheerio.Element): Crafting[] => {
         if (crafting.ingredients.length) craftings.push({ ...crafting });
       });
   }
-
-  // craftings.forEach(el => console.log(el.ingredients));
 
   return craftings;
 };
@@ -101,7 +98,7 @@ const getIngredients = (el: cheerio.Element): Ingredient[][] => {
   return ingredients;
 };
 
-const getResult = (el: cheerio.Element) => {
+const getResult = (el: cheerio.Element): Ingredient => {
   const $ = cheerio.load(el);
   const result: Ingredient = {
     img: undefined,
