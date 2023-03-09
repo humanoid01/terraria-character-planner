@@ -36,8 +36,6 @@ export const scrapeWeapon = async (
   id?: number,
   isModded: boolean = false
 ) => {
-  const { data } = await axios.get(url);
-  const $ = cheerio.load(data);
   const buffs: Buffs = {
     name: undefined,
     img: undefined,
@@ -72,6 +70,8 @@ export const scrapeWeapon = async (
     droppedBy: [],
     summons: [],
   };
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
 
   $('div.infobox.item').each((i, el) => {
     if (isPCVersion(el) || isModded) {
@@ -177,12 +177,12 @@ export const scrapeWeapon = async (
     weapon.projectiles = getProjectiles(el);
   });
 
-  weapon.crafting = scrapeCrafting(data)[0];
-  weapon.usedIn = scrapeCrafting(data)[1];
+  const [crafting, usedIn] = scrapeCrafting(data);
+
+  weapon.crafting = crafting;
+  weapon.usedIn = usedIn;
 
   weapon.droppedBy = scrapeDroppedBy(data);
-
-  console.log(weapon);
 };
 
 scrapeWeapon('https://terraria.fandom.com/wiki/Daybreak');

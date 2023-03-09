@@ -29,6 +29,58 @@ interface Armor extends Item {
   set: ArmorPiece[];
 }
 
+const scrapeSet = (html: string) => {
+  const $ = cheerio.load(html);
+  const armorPieces: ArmorPiece[] = [];
+
+  $('div.infobox.item').each((i, el) => {
+    const armorPiece: ArmorPiece = {
+      img: undefined,
+      name: undefined,
+      type: undefined,
+      defense: undefined,
+      bodySlot: undefined,
+      tooltip: [],
+      rarity: undefined,
+    };
+
+    if (isPCVersion(el)) {
+      armorPiece.name = getName(el);
+      armorPiece.img = getImg(el);
+
+      $(el)
+        .find('tr')
+        .each((i, el) => {
+          const lowerLabel = getLabelToLower(el);
+          const value = $(el).find('td').text();
+          switch (lowerLabel) {
+            case 'type':
+              armorPiece.type = getType(el);
+              break;
+            case 'defense':
+              armorPiece.defense = value;
+              break;
+            case 'body slot':
+              armorPiece.bodySlot = value;
+              break;
+            case 'tooltip':
+              armorPiece.tooltip = getTooltip(el);
+              break;
+
+            case 'rarity':
+              armorPiece.rarity = getRarity(el);
+              break;
+
+            default:
+              break;
+          }
+        });
+
+      armorPieces.push(armorPiece);
+    }
+  });
+  return armorPieces;
+};
 const scrapeArmor = async (
   url: string,
   id?: number,
@@ -157,65 +209,14 @@ const scrapeArmor = async (
   });
   armor.set = scrapeSet(data);
 
-  armor.crafting = scrapeCrafting(data)[0];
-  armor.usedIn = scrapeCrafting(data)[1];
+  const [crafting, usedIn] = scrapeCrafting(data);
+
+  armor.crafting = crafting;
+  armor.usedIn = usedIn;
 
   armor.droppedBy = scrapeDroppedBy(data);
 
   console.log(armor);
-};
-
-const scrapeSet = (html: string) => {
-  const $ = cheerio.load(html);
-  const armorPieces: ArmorPiece[] = [];
-
-  $('div.infobox.item').each((i, el) => {
-    const armorPiece: ArmorPiece = {
-      img: undefined,
-      name: undefined,
-      type: undefined,
-      defense: undefined,
-      bodySlot: undefined,
-      tooltip: [],
-      rarity: undefined,
-    };
-
-    if (isPCVersion(el)) {
-      armorPiece.name = getName(el);
-      armorPiece.img = getImg(el);
-
-      $(el)
-        .find('tr')
-        .each((i, el) => {
-          const lowerLabel = getLabelToLower(el);
-          const value = $(el).find('td').text();
-          switch (lowerLabel) {
-            case 'type':
-              armorPiece.type = getType(el);
-              break;
-            case 'defense':
-              armorPiece.defense = value;
-              break;
-            case 'body slot':
-              armorPiece.bodySlot = value;
-              break;
-            case 'tooltip':
-              armorPiece.tooltip = getTooltip(el);
-              break;
-
-            case 'rarity':
-              armorPiece.rarity = getRarity(el);
-              break;
-
-            default:
-              break;
-          }
-        });
-
-      armorPieces.push(armorPiece);
-    }
-  });
-  return armorPieces;
 };
 
 scrapeArmor('https://terraria.fandom.com/wiki/Vampire_Frog_Staff');

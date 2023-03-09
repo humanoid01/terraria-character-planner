@@ -20,7 +20,6 @@ export const scrapeCrafting = (html: string): Crafting[][] => {
       isRecipe = true;
     }
   });
-
   $('table.crafts table tbody').each((i, el) => {
     if (i === 0) {
       if (isRecipe) {
@@ -43,7 +42,6 @@ const getRecipe = (el: cheerio.Element): Crafting[] => {
     result: undefined,
     cStations: [],
   };
-
   if (isPCVersion(el)) {
     // use as reference
     crafting.cStations = getCraftingStations(el);

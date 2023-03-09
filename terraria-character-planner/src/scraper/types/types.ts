@@ -68,9 +68,3 @@ export interface Item {
   droppedBy: DroppedBy[];
   summons: Summons[];
 }
-
-interface Accessory extends Item {
-  defense: string | undefined;
-  bodySlot: string | undefined;
-  damage: string | undefined;
-}
