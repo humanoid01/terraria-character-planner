@@ -1,14 +1,6 @@
 import * as cheerio from 'cheerio';
 import axios from 'axios';
-import {
-  Debuffs,
-  Buffs,
-  Projectile,
-  Crafting,
-  DroppedBy,
-  Summons,
-  Rarity,
-} from '../types/types';
+import { Debuffs, Buffs, Rarity, Item } from '../types/types';
 import { getTooltip } from '../scraperFunctions/getTooltip.js';
 import { getImg } from '../scraperFunctions/getImg.js';
 import { getRarity } from '../scraperFunctions/getRarity.js';
@@ -20,7 +12,7 @@ import { getImgName } from '../scraperFunctions/getImgName.js';
 import { getDebuffChance } from '../scraperFunctions/getDebuffChance.js';
 import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
 import { scrapeCrafting } from './craftingScraper.js';
-import { scrapeDroppedBy } from './droppedByScrapper.js';
+import { scrapeDroppedBy } from './droppedByScraper.js';
 
 interface ArmorPiece {
   img: string | undefined;
@@ -32,22 +24,9 @@ interface ArmorPiece {
   rarity: Rarity | undefined;
 }
 
-interface Armor {
-  img: string | undefined;
-  name: string | undefined;
-  type: string | undefined;
+interface Armor extends Item {
   defense: string | undefined;
-  setBonus: string[][];
-  debuffs: Debuffs[];
-  buffs: Buffs[];
-  rarity: Rarity | undefined;
-  projectiles: Projectile[];
-  crafting: Crafting[];
-  usedIn: Crafting[];
   set: ArmorPiece[];
-  helmVars: ArmorPiece[];
-  droppedBy: DroppedBy[];
-  summons: Summons[];
 }
 
 const scrapeArmor = async (
@@ -56,11 +35,12 @@ const scrapeArmor = async (
   isModded: boolean = false
 ) => {
   const armor: Armor = {
+    id: undefined,
     img: undefined,
     name: undefined,
     type: undefined,
     defense: undefined,
-    setBonus: [],
+    tooltip: [],
     debuffs: [],
     buffs: [],
     rarity: undefined,
@@ -68,7 +48,6 @@ const scrapeArmor = async (
     crafting: [],
     usedIn: [],
     set: [],
-    helmVars: [],
     droppedBy: [],
     summons: [],
   };
@@ -110,11 +89,11 @@ const scrapeArmor = async (
               break;
 
             case 'set bonus':
-              armor.setBonus = getTooltip(el);
+              armor.tooltip = getTooltip(el);
               break;
 
             case 'tooltip':
-              armor.setBonus = getTooltip(el);
+              armor.tooltip = getTooltip(el);
               break;
 
             case isModded ? 'inflicts debuff' : 'debuff':

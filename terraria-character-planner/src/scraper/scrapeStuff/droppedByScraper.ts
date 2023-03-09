@@ -1,8 +1,8 @@
 import * as cheerio from 'cheerio';
 import { DroppedBy } from '../types/types';
-import { getImg } from './../scraperFunctions/getImg.js';
-import { getImgName } from './../scraperFunctions/getImgName.js';
-import { isPCVersion } from './../scraperFunctions/isPCVersion.js';
+import { getImg } from '../scraperFunctions/getImg.js';
+import { getImgName } from '../scraperFunctions/getImgName.js';
+import { isPCVersion } from '../scraperFunctions/isPCVersion.js';
 
 export const scrapeDroppedBy = (html: string): DroppedBy[] => {
   const $ = cheerio.load(html);

@@ -15,8 +15,8 @@ export const getProjectiles = (el: cheerio.Element): ProjectileInfo[] => {
   const getProjectileImgAndName = (isModded: boolean = false) => {
     const projectiles: ProjectileInfo[] = [];
 
-    $(isModded ? 'div.proj' : 'div.section.projectile').each(
-      (i, el: cheerio.Element) => {
+    if (isModded) {
+      $('div.proj').each((i, el: cheerio.Element) => {
         const projInfo: ProjectileInfo = {
           img: undefined,
           name: undefined,
@@ -26,10 +26,26 @@ export const getProjectiles = (el: cheerio.Element): ProjectileInfo[] => {
         projInfo.name = getImgName(el);
 
         projectiles.push({ ...projInfo });
-      }
-    );
+      });
 
-    return projectiles;
+      return projectiles;
+    } else {
+      $('div.section.projectile ul.infobox-inline li').each(
+        (i, el: cheerio.Element) => {
+          const projInfo: ProjectileInfo = {
+            img: undefined,
+            name: undefined,
+          };
+
+          projInfo.img = getImg(el);
+          projInfo.name = getImgName(el);
+
+          projectiles.push({ ...projInfo });
+        }
+      );
+
+      return projectiles;
+    }
   };
 
   if (calamity.length) return getProjectileImgAndName(true);

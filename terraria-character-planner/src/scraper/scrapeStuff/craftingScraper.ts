@@ -8,14 +8,30 @@ export const scrapeCrafting = (html: string): Crafting[][] => {
   const $ = cheerio.load(html);
   const usedIn: Crafting[] = [];
   const crafting: Crafting[] = [];
-  $('table.crafts table tbody').each((i, el) => {
-    if (i === 0) {
-      crafting.push(...getRecipe(el));
-    } else {
-      usedIn.push(...getRecipe(el));
+  let isUsedIn: boolean = false;
+  let isRecipe: boolean = false;
+
+  $('h3').each((i, el) => {
+    const text = $(el).text().toLowerCase();
+    if (text.includes('used in')) {
+      isUsedIn = true;
+    }
+    if (text.includes('recipes')) {
+      isRecipe = true;
     }
   });
 
+  $('table.crafts table tbody').each((i, el) => {
+    if (i === 0) {
+      if (isRecipe) {
+        crafting.push(...getRecipe(el));
+      } else {
+        usedIn.push(...getRecipe(el));
+      }
+    } else {
+      if (isUsedIn) usedIn.push(...getRecipe(el));
+    }
+  });
   return [crafting, usedIn];
 };
 

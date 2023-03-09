@@ -53,43 +53,24 @@ export interface Rarity {
   tier: string;
 }
 
-interface Weapon {
-  id: number;
+export interface Item {
+  id?: number;
   name: string | undefined;
   img: string | undefined;
   type: string | undefined;
-  damage: string | undefined;
-  mana: string | undefined;
-  useTime: string | undefined;
-  knockback: string | undefined;
-  critChance: string | undefined;
-  velocity: string | undefined;
   tooltip: string[][];
   debuffs: Debuffs[];
   buffs: Buffs[];
-  rarity: string[];
+  rarity: Rarity | undefined;
   projectiles: Projectile[];
-  crafting: Crafting | undefined;
-  usedIn: Crafting | undefined;
-  droppedBy: DroppedBy | undefined;
-  summons: Summons | undefined;
+  crafting: Crafting[];
+  usedIn: Crafting[];
+  droppedBy: DroppedBy[];
+  summons: Summons[];
 }
 
-interface Accessory {
-  id: number;
-  name: string | undefined;
-  img: string | undefined;
-  type: string | undefined;
+interface Accessory extends Item {
   defense: string | undefined;
   bodySlot: string | undefined;
   damage: string | undefined;
-  tooltip: string[][];
-  debuffs: Debuffs[];
-  buffs: Buffs[];
-  rarity: string[];
-  projectiles: Projectile[];
-  crafting: Crafting | undefined;
-  usedIn: Crafting | undefined;
-  droppedBy: DroppedBy | undefined;
-  summons: Summons | undefined;
 }
