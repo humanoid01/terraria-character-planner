@@ -81,15 +81,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Werewolf",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Werewolf.png",
+        "entityName": "Angler Fish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/af/Angler_Fish.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Werewolf",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Werewolf.png",
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
         "quantity": "1",
         "rate": "1"
       },
@@ -257,6 +257,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ankh_Shield.png",
     "name": "Ankh Shield",
     "type": "Shield Accessory",
+    "defense": "4",
     "tooltip": [
       [
         "Grants immunity to knockback and fire blocks",
@@ -536,8 +537,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Blue Armored Bones",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Blue_Armored_Bones.gif",
+        "entityName": "Armored Skeleton",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7f/Armored_Skeleton.png",
         "quantity": "1",
         "rate": "1"
       },
@@ -927,6 +928,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Berserker%27s_Glove.png",
     "name": "Berserker's Glove",
     "type": "Accessory",
+    "defense": "8 ",
     "tooltip": [
       [
         "Increases melee knockback",
@@ -1060,15 +1062,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Toxic Sludge",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Toxic_Sludge.gif",
+        "entityName": "Hornet",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Hornet.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Toxic Sludge",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Toxic_Sludge.gif",
+        "entityName": "Moss Hornet",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Moss_Hornet.png",
         "quantity": "1",
         "rate": "1"
       },
@@ -1285,36 +1287,36 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Slimeling",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Slimeling.png",
+        "entityName": "Corrupt Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Corrupt_Slime.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Slimeling",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Slimeling.png",
+        "entityName": "Shadow Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Shadow_Slime.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Slimeling",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Slimeling.png",
+        "entityName": "Crimslime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Crimslime.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Slimeling",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Slimeling.png",
+        "entityName": "Blood Mummy",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Blood_Mummy.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Slimeling",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Slimeling.png",
+        "entityName": "Dark Mummy",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Dark_Mummy.png",
         "quantity": "1",
         "rate": "1"
       },
@@ -1672,6 +1674,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Cobalt_Shield.png",
     "name": "Cobalt Shield",
     "type": "Shield Accessory Crafting material",
+    "defense": "1",
     "tooltip": [
       [
         "Grants immunity to knockback"
@@ -2071,8 +2074,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Golem)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "entityName": "Golem",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Golem.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -2168,15 +2171,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wraith",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Wraith.png",
+        "entityName": "Mummy",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Mummy.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Wraith",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Wraith.png",
+        "entityName": "Pixie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Pixie.png",
         "quantity": "1",
         "rate": "1"
       },
@@ -2243,17 +2246,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Jungle Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "entityName": "Bramble Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Bramble_Crate.png",
         "quantity": "1",
         "rate": "19*19/100 (19"
       },
       {
         "itemsName": [],
-        "entityName": "Jungle Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "entityName": "Ivy Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Ivy_Chest.png",
         "quantity": "1",
-        "rate": "19*19/100 (19"
+        "rate": "21.72"
       },
       {
         "itemsName": [],
@@ -2333,6 +2336,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Flesh_Knuckles.png",
     "name": "Flesh Knuckles",
     "type": "Accessory Crafting material",
+    "defense": "8  / 7 ",
     "tooltip": [
       [
         "Enemies are more likely to target you"
@@ -2489,6 +2493,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Frozen_Shield.png",
     "name": "Frozen Shield",
     "type": "Shield Accessory",
+    "defense": "6",
     "tooltip": [
       [
         "Grants immunity to knockback",
@@ -2586,6 +2591,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Hero_Shield.png",
     "name": "Hero Shield",
     "type": "Shield Accessory",
+    "defense": "10 ",
     "tooltip": [
       [
         "Grants immunity to knockback",
@@ -2788,8 +2794,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Queen Bee)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Treasure_Bag_%28Queen_Bee%29.png",
+        "entityName": "Queen Bee",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Queen_Bee.gif",
         "quantity": "1",
         "rate": "33"
       },
@@ -3131,10 +3137,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Lava Bat",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Lava_Bat.png",
+        "entityName": "Hellbat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Hellbat.png",
         "quantity": "1",
-        "rate": "2"
+        "rate": "0.67"
       },
       {
         "itemsName": [],
@@ -3462,22 +3468,22 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Pixie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Pixie.png",
+        "entityName": "Green Jellyfish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Green_Jellyfish.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Pixie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Pixie.png",
+        "entityName": "Blood Mummy",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Blood_Mummy.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Pixie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Pixie.png",
+        "entityName": "Dark Mummy",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Dark_Mummy.png",
         "quantity": "1",
         "rate": "1"
       },
@@ -3544,8 +3550,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Vampire Bat",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Vampire_Bat.png",
+        "entityName": "Vampire",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Vampire.png",
         "quantity": "1",
         "rate": "2.86"
       },
@@ -3912,6 +3918,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Obsidian_Shield.png",
     "name": "Obsidian Shield",
     "type": "Shield Accessory Crafting material",
+    "defense": "2",
     "tooltip": [
       [
         "Grants immunity to knockback",
@@ -3995,6 +4002,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Obsidian_Skull.png",
     "name": "Obsidian Skull",
     "type": "Accessory Crafting material",
+    "defense": "1",
     "tooltip": [
       [
         "Grants immunity to fire blocks"
@@ -4323,6 +4331,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Paladin%27s_Shield.png",
     "name": "Paladin's Shield",
     "type": "Shield Accessory Crafting material",
+    "defense": "6",
     "tooltip": [
       [
         "Absorbs 25% of damage done to players on your team when above 25% life",
@@ -4544,15 +4553,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Hematic Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "entityName": "Crimson Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Crimson_Crate.png",
         "quantity": "1",
         "rate": "20"
       },
       {
         "itemsName": [],
-        "entityName": "Hematic Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "entityName": "Crimson Heart (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Crimson_Heart_%28placed%29.png",
         "quantity": "1",
         "rate": "20"
       },
@@ -5048,8 +5057,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wall of Flesh Mouth",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "entityName": "Treasure Bag (Wall of Flesh)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Treasure_Bag_%28Wall_of_Flesh%29.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -5184,6 +5193,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Shackle.png",
     "name": "Shackle",
     "type": "Accessory Crafting material",
+    "defense": "1",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
@@ -5227,22 +5237,22 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Zombie.png",
+        "entityName": "Frozen Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Frozen_Zombie.png",
         "quantity": "1",
         "rate": "2"
       },
       {
         "itemsName": [],
-        "entityName": "Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Zombie.png",
+        "entityName": "Armed Frozen Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Armed_Frozen_Zombie.png",
         "quantity": "1",
         "rate": "2"
       },
       {
         "itemsName": [],
-        "entityName": "Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Zombie.png",
+        "entityName": "Raincoat Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Raincoat_Zombie.png",
         "quantity": "1",
         "rate": "2"
       },
@@ -5308,8 +5318,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Drippler",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Drippler.gif",
+        "entityName": "Blood Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Blood_Zombie.png",
         "quantity": "1",
         "rate": "0.67"
       },
@@ -5565,8 +5575,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wall of Flesh Mouth",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "entityName": "Treasure Bag (Wall of Flesh)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Treasure_Bag_%28Wall_of_Flesh%29.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -6008,8 +6018,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wall of Flesh Mouth",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "entityName": "Treasure Bag (Wall of Flesh)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Treasure_Bag_%28Wall_of_Flesh%29.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -6076,8 +6086,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Golem)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "entityName": "Golem",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Golem.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -6448,8 +6458,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Floaty Gross",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Floaty_Gross.png",
+        "entityName": "Corruptor (animated)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Corruptor.gif",
         "quantity": "1",
         "rate": "1"
       },
@@ -6599,8 +6609,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wall of Flesh Mouth",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "entityName": "Treasure Bag (Wall of Flesh)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Treasure_Bag_%28Wall_of_Flesh%29.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -6640,7 +6650,7 @@
         "entityName": "Ogre",
         "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
         "quantity": "1",
-        "rate": "4.17"
+        "rate": "8.33"
       },
       {
         "itemsName": [],
@@ -6678,7 +6688,7 @@
         "entityName": "Ogre",
         "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
         "quantity": "1",
-        "rate": "4.17"
+        "rate": "8.33"
       },
       {
         "itemsName": [],
@@ -6716,7 +6726,7 @@
         "entityName": "Ogre",
         "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
         "quantity": "1",
-        "rate": "4.17"
+        "rate": "8.33"
       },
       {
         "itemsName": [],
@@ -6754,7 +6764,7 @@
         "entityName": "Ogre",
         "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
         "quantity": "1",
-        "rate": "4.17"
+        "rate": "8.33"
       },
       {
         "itemsName": [],

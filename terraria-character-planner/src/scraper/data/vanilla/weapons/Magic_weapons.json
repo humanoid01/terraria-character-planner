@@ -576,17 +576,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Sandstone Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "entityName": "Mirage Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Mirage_Crate.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "12.5"
       },
       {
         "itemsName": [],
-        "entityName": "Sandstone Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "entityName": "Oasis Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Oasis_Crate.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "12.5"
       },
       {
         "itemsName": [],
@@ -635,15 +635,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Shadow Orb (placed)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "entityName": "Corrupt Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7d/Corrupt_Crate.png",
         "quantity": "1",
         "rate": "20"
       },
       {
         "itemsName": [],
-        "entityName": "Shadow Orb (placed)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "entityName": "Defiled Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/63/Defiled_Crate.png",
         "quantity": "1",
         "rate": "20"
       },
@@ -814,8 +814,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Deerclops)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "entityName": "Deerclops",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Deerclops.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -870,10 +870,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Shadow Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "entityName": "Obsidian Lock Box",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Obsidian_Lock_Box.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "16.67*1/6 (16.67"
       },
       {
         "itemsName": [],
@@ -926,10 +926,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Shadow Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "entityName": "Obsidian Lock Box",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Obsidian_Lock_Box.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "16.67*1/6 (16.67"
       },
       {
         "itemsName": [],
@@ -1096,8 +1096,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Queen Bee)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Treasure_Bag_%28Queen_Bee%29.png",
+        "entityName": "Queen Bee",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Queen_Bee.gif",
         "quantity": "1",
         "rate": "33"
       },
@@ -1144,15 +1144,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Voodoo Demon",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Voodoo_Demon.png",
+        "entityName": "Arch Demon",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Arch_Demon.png",
         "quantity": "1",
-        "rate": "2.86"
+        "rate": "2"
       },
       {
         "itemsName": [],
-        "entityName": "Voodoo Demon",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Voodoo_Demon.png",
+        "entityName": "Demon",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Demon.png",
         "quantity": "1",
         "rate": "2.86"
       },
@@ -1199,10 +1199,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Skeletron)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Treasure_Bag_%28Skeletron%29.png",
+        "entityName": "Skeletron Head",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Skeletron_Head.png",
         "quantity": "1",
-        "rate": "33"
+        "rate": "10.5"
       },
       {
         "itemsName": [],
@@ -1288,15 +1288,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Hematic Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "entityName": "Crimson Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Crimson_Crate.png",
         "quantity": "1",
         "rate": "20"
       },
       {
         "itemsName": [],
-        "entityName": "Hematic Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "entityName": "Crimson Heart (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Crimson_Heart_%28placed%29.png",
         "quantity": "1",
         "rate": "20"
       },
@@ -1668,8 +1668,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Black Recluse",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Black_Recluse.png",
+        "entityName": "Black Recluse (ground)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Black_Recluse_%28ground%29.png",
         "quantity": "1",
         "rate": "2.5"
       },
@@ -1716,8 +1716,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Icy Merman",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Icy_Merman.png",
+        "entityName": "Ice Elemental",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Ice_Elemental.png",
         "quantity": "1",
         "rate": "2"
       },
@@ -2011,7 +2011,7 @@
         "entityName": "Ogre",
         "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
         "quantity": "1",
-        "rate": "3.33"
+        "rate": "6.67"
       },
       {
         "itemsName": [],
@@ -2064,8 +2064,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Plantera)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "entityName": "Plantera",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Plantera.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -2187,8 +2187,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Necromancer 2",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Necromancer_2.png",
+        "entityName": "Necromancer 1",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Necromancer_1.png",
         "quantity": "1",
         "rate": "5"
       },
@@ -2247,8 +2247,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Diabolist 2",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Diabolist_2.png",
+        "entityName": "Diabolist 1",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6e/Diabolist_1.png",
         "quantity": "1",
         "rate": "5"
       },
@@ -2295,8 +2295,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Ragged Caster 2",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Ragged_Caster_2.png",
+        "entityName": "Ragged Caster 1",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Ragged_Caster_1.png",
         "quantity": "1",
         "rate": "5"
       },
@@ -2495,8 +2495,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Golem)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "entityName": "Golem",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Golem.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -2551,8 +2551,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Betsy)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Treasure_Bag_%28Betsy%29.png",
+        "entityName": "Betsy",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Betsy.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -2595,8 +2595,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wall of Flesh Mouth",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "entityName": "Treasure Bag (Wall of Flesh)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Treasure_Bag_%28Wall_of_Flesh%29.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -2676,8 +2676,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Plantera)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "entityName": "Plantera",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Plantera.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -2724,8 +2724,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Plantera)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "entityName": "Plantera",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Plantera.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -2810,8 +2810,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Golem)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "entityName": "Golem",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Golem.png",
         "quantity": "1",
         "rate": "14.29"
       },
@@ -2903,50 +2903,50 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Brain Scrambler",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Brain_Scrambler.png",
         "quantity": "1",
         "rate": "0.13"
       },
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Gigazapper",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Gigazapper.png",
         "quantity": "1",
         "rate": "0.13"
       },
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Gray Grunt",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Gray_Grunt.png",
         "quantity": "1",
         "rate": "0.13"
       },
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Martian Engineer",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Martian_Engineer.png",
         "quantity": "1",
         "rate": "0.13"
       },
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Martian Officer",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Martian_Officer.png",
         "quantity": "1",
         "rate": "0.13"
       },
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Martian Saucer",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Martian_Saucer.png",
         "quantity": "1",
-        "rate": "0.13"
+        "rate": "11.11"
       },
       {
         "itemsName": [],
-        "entityName": "Ray Gunner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "entityName": "Martian Walker",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Martian_Walker.png",
         "quantity": "1",
         "rate": "0.13"
       },
@@ -2993,8 +2993,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Duke Fishron)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "entityName": "Duke Fishron",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Duke_Fishron.png",
         "quantity": "1",
         "rate": "20"
       },
@@ -3165,15 +3165,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Rusty Armored Bones",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "entityName": "Blue Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Blue_Armored_Bones.gif",
         "quantity": "1",
         "rate": "0.33"
       },
       {
         "itemsName": [],
-        "entityName": "Rusty Armored Bones",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "entityName": "Hell Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Hell_Armored_Bones.gif",
         "quantity": "1",
         "rate": "0.33"
       },
@@ -3220,8 +3220,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Duke Fishron)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "entityName": "Duke Fishron",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Duke_Fishron.png",
         "quantity": "1",
         "rate": "20"
       },
@@ -3268,8 +3268,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Moon Lord)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "entityName": "Moon Lord's Head",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Moon_Lord%27s_Head.gif",
         "quantity": "1",
         "rate": "22.2"
       },
@@ -4064,8 +4064,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Moon Lord)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "entityName": "Moon Lord's Head",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Moon_Lord%27s_Head.gif",
         "quantity": "1",
         "rate": "22.2"
       },

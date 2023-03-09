@@ -130,6 +130,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Yoraiz0r%27s_Scowl.gif",
     "name": "Yoraiz0r's Scowl",
     "type": "Vanity Accessory",
+    "bodySlot": "Social Pants",
     "tooltip": [
       [
         "'Great for impersonating devs!'",
@@ -153,6 +154,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Leinfors%27_Luxury_Shampoo.png",
     "name": "Leinfors' Luxury Shampoo",
     "type": "Vanity Accessory",
+    "bodySlot": "Social Pants",
     "tooltip": [
       [
         "'Great for impersonating devs!'",
@@ -259,8 +261,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Obsidian Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Obsidian_Crate.png",
+        "entityName": "Hellstone Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Hellstone_Crate.png",
         "quantity": "1",
         "rate": "19*19/100 (19"
       },
@@ -301,6 +303,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Bunny_Tail.png",
     "name": "Bunny Tail",
     "type": "Vanity Accessory",
+    "bodySlot": "Social Helmet",
     "tooltip": [
       [
         "'That's why they call me Thumper'"
@@ -323,6 +326,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Fox_Tail.png",
     "name": "Fox Tail",
     "type": "Vanity Accessory",
+    "bodySlot": "Social Helmet",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
@@ -341,6 +345,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Dog_Tail.png",
     "name": "Dog Tail",
     "type": "Vanity Accessory",
+    "bodySlot": "Social Helmet",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
@@ -359,6 +364,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Lizard_Tail.png",
     "name": "Lizard Tail",
     "type": "Vanity Accessory",
+    "bodySlot": "Social Helmet",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],

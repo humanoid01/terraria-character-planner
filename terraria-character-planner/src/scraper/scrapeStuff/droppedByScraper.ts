@@ -27,6 +27,7 @@ export const scrapeDroppedBy = (html: string): DroppedBy[] => {
     $(el)
       .find('tbody tr')
       .each((i, el) => {
+        // skip first iteration because there's no useful data
         if (i === 0) return;
         if (isPCVersion(el)) {
           droppedBy.entityImg = getImg(el);
@@ -39,10 +40,9 @@ export const scrapeDroppedBy = (html: string): DroppedBy[] => {
             droppedBy.quantity ||
             droppedBy.rate
           )
-            allDrops.push(droppedBy);
+            allDrops.push({ ...droppedBy });
         }
       });
-    // skip first iteration because there's no useful data
   });
   return allDrops;
 };

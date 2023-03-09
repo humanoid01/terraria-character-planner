@@ -63,7 +63,6 @@ export const scrapeWeapon = async (
     droppedBy: [],
     summons: [],
   };
-  console.log(url);
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 

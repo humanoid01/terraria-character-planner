@@ -1,9 +1,10 @@
 [
   {
     "id": 30000,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Mining_Pants.png",
-    "name": "Mining Pants",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Mining_armor.png",
+    "name": "Mining armor",
+    "type": "Armor Set",
+    "defense": "4 (set)",
     "tooltip": [
       [
         "10% increased mining speed"
@@ -48,6 +49,73 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a4/Mining_Helmet.png",
+        "name": "Mining Helmet",
+        "type": "Armor Crafting material",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Provides light when worn"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Ultrabright_Helmet.png",
+        "name": "Ultrabright Helmet",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Improves vision and provides light when worn",
+            "'The darkness holds no secrets for you'"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Mining_Shirt.png",
+        "name": "Mining Shirt",
+        "type": "Armor Crafting material",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "10% increased mining speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Mining_Pants.png",
+        "name": "Mining Pants",
+        "type": "Armor Crafting material",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased mining speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [
@@ -63,10 +131,10 @@
           "Mining Shirt",
           "Mining Pants"
         ],
-        "entityName": "Vampire Miner",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Vampire_Miner.png",
+        "entityName": "Undead Miner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Undead_Miner.png",
         "quantity": "1",
-        "rate": "2.4"
+        "rate": "12"
       },
       {
         "itemsName": [
@@ -83,10 +151,15 @@
   },
   {
     "id": 30001,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dd/Wood_Greaves.png",
-    "name": "Wood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Wood_armor.png",
+    "name": "Wood armor",
+    "type": "Armor Set",
+    "defense": "3 (2+1) (set) 4 (3+1) (set) ",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -163,15 +236,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Wood_Helmet.png",
+        "name": "Wood Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Wood_Breastplate.png",
+        "name": "Wood Breastplate",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dd/Wood_Greaves.png",
+        "name": "Wood Greaves",
+        "type": "Armor",
+        "defense": "0 1 ",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30002,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rich_Mahogany_Greaves.png",
-    "name": "Rich Mahogany Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Rich_Mahogany_armor.png",
+    "name": "Rich Mahogany armor",
+    "type": "Armor Set",
+    "defense": "4 (3+1) (set)",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -248,15 +364,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Rich_Mahogany_Helmet.png",
+        "name": "Rich Mahogany Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Rich_Mahogany_Breastplate.png",
+        "name": "Rich Mahogany Breastplate",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rich_Mahogany_Greaves.png",
+        "name": "Rich Mahogany Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30003,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Boreal_Wood_Greaves.png",
-    "name": "Boreal Wood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Boreal_Wood_armor.png",
+    "name": "Boreal Wood armor",
+    "type": "Armor Set",
+    "defense": "4 (3+1) (set)",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -333,15 +492,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Boreal_Wood_Helmet.png",
+        "name": "Boreal Wood Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Boreal_Wood_Breastplate.png",
+        "name": "Boreal Wood Breastplate",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Boreal_Wood_Greaves.png",
+        "name": "Boreal Wood Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30004,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Palm_Wood_Greaves.png",
-    "name": "Palm Wood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Palm_Wood_armor.png",
+    "name": "Palm Wood armor",
+    "type": "Armor Set",
+    "defense": "4 (3+1) (set)",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -418,15 +620,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Palm_Wood_Helmet.png",
+        "name": "Palm Wood Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Palm_Wood_Breastplate.png",
+        "name": "Palm Wood Breastplate",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Palm_Wood_Greaves.png",
+        "name": "Palm Wood Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30005,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ebonwood_Greaves.png",
-    "name": "Ebonwood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9b/Ebonwood_armor.png",
+    "name": "Ebonwood armor",
+    "type": "Armor Set",
+    "defense": "5 (4+1) (set)",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -503,15 +748,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Ebonwood_Helmet.png",
+        "name": "Ebonwood Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Ebonwood_Breastplate.png",
+        "name": "Ebonwood Breastplate",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ebonwood_Greaves.png",
+        "name": "Ebonwood Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30006,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Shadewood_Greaves.png",
-    "name": "Shadewood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Shadewood_armor.png",
+    "name": "Shadewood armor",
+    "type": "Armor Set",
+    "defense": "5 (4+1) (set)",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -588,15 +876,57 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Shadewood_Helmet.png",
+        "name": "Shadewood Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Shadewood_Breastplate.png",
+        "name": "Shadewood Breastplate",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Shadewood_Greaves.png",
+        "name": "Shadewood Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30007,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Ash_Wood_Greaves.png",
-    "name": "Ash Wood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Ash_Wood_armor.png",
+    "name": "Ash Wood armor",
+    "type": "Armor Set",
+    "tooltip": [
+      [
+        "Reduces damage from touching lava"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -671,24 +1001,111 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Ash_Wood_Helmet.png",
+        "name": "Ash Wood Helmet",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Ash_Wood_Breasplate.png",
+        "name": "Ash Wood Breasplate",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Ash_Wood_Greaves.png",
+        "name": "Ash Wood Greaves",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30008,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Rain_Coat.png",
-    "name": "Rain Coat",
-    "type": "Vanity",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Rain_armor.png",
+    "name": "Rain armor",
+    "type": "Armor Set",
+    "defense": "3 (set)",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
     "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
     },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e3/Rain_Hat.png",
+        "name": "Rain Hat",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Rain_Coat.png",
+        "name": "Rain Coat",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e3/Rain_Hat.png",
+        "name": "Rain Hat",
+        "type": "Vanity",
+        "bodySlot": "Social Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Rain_Coat.png",
+        "name": "Rain Coat",
+        "type": "Vanity",
+        "bodySlot": "Social Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
@@ -702,10 +1119,15 @@
   },
   {
     "id": 30009,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Snow_Pants.png",
-    "name": "Snow Pants",
-    "type": "Armor Crafting material",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Snow_armor.png",
+    "name": "Snow armor",
+    "type": "Armor Set",
+    "defense": "9 (set)",
+    "tooltip": [
+      [
+        "Cannot be frozen or chilled"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -803,11 +1225,49 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Snow_Hood.png",
+        "name": "Snow Hood",
+        "type": "Armor Crafting material",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Snow_Coat.png",
+        "name": "Snow Coat",
+        "type": "Armor Crafting material",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Snow_Pants.png",
+        "name": "Snow Pants",
+        "type": "Armor Crafting material",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Armed Frozen Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Armed_Frozen_Zombie.png",
+        "entityName": "Frozen Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Frozen_Zombie.png",
         "quantity": "1",
         "rate": "0.67"
       },
@@ -823,10 +1283,15 @@
   },
   {
     "id": 30010,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Pink_Snow_Pants.png",
-    "name": "Pink Snow Pants",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Pink_Snow_armor.png",
+    "name": "Pink Snow armor",
+    "type": "Armor Set",
+    "defense": "9 (set)",
+    "tooltip": [
+      [
+        "Cannot be frozen or chilled"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -924,17 +1389,56 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/Pink_Snow_Hood.png",
+        "name": "Pink Snow Hood",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Pink_Snow_Coat.png",
+        "name": "Pink Snow Coat",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Pink_Snow_Pants.png",
+        "name": "Pink Snow Pants",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30011,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Angler_Pants.png",
-    "name": "Angler Pants",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/90/Angler_armor.png",
+    "name": "Angler armor",
+    "type": "Armor Set",
+    "defense": "4 (set)",
     "tooltip": [
       [
-        "Increases fishing power by 5"
+        "Decreased enemy spawn rate"
       ]
     ],
     "debuffs": [],
@@ -946,15 +1450,70 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Angler_Hat.png",
+        "name": "Angler Hat",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases fishing power by 5"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Angler_Vest.png",
+        "name": "Angler Vest",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases fishing power by 5"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Angler_Pants.png",
+        "name": "Angler Pants",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases fishing power by 5"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30012,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Cactus_Leggings.png",
-    "name": "Cactus Leggings",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Cactus_armor.png",
+    "name": "Cactus armor",
+    "type": "Armor Set",
+    "defense": "3 (set)",
+    "tooltip": [
+      [
+        "Attackers take damage from the cactus spines"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1031,15 +1590,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Cactus_Helmet.png",
+        "name": "Cactus Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Cactus_Breastplate.png",
+        "name": "Cactus Breastplate",
+        "type": "Armor",
+        "defense": "1  / 2 ",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Cactus_Leggings.png",
+        "name": "Cactus Leggings",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30013,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Copper_Greaves.png",
-    "name": "Copper Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9d/Copper_armor.png",
+    "name": "Copper armor",
+    "type": "Armor Set",
+    "defense": "6 (4+2) (set)",
+    "tooltip": [
+      [
+        "2 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1206,15 +1808,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Copper_Helmet.png",
+        "name": "Copper Helmet",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Copper_Chainmail.png",
+        "name": "Copper Chainmail",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Copper_Greaves.png",
+        "name": "Copper Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30014,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Tin_Greaves.png",
-    "name": "Tin Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Tin_armor.png",
+    "name": "Tin armor",
+    "type": "Armor Set",
+    "defense": "7 (5+2) (set)",
+    "tooltip": [
+      [
+        "2 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1381,15 +2026,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Tin_Helmet.png",
+        "name": "Tin Helmet",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Tin_Chainmail.png",
+        "name": "Tin Chainmail",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Tin_Greaves.png",
+        "name": "Tin Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30015,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Pumpkin_Leggings.png",
-    "name": "Pumpkin Leggings",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Pumpkin_armor.png",
+    "name": "Pumpkin armor",
+    "type": "Armor Set",
+    "defense": "7 (set)",
+    "tooltip": [
+      [
+        "10% increased damage"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1466,42 +2154,212 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Pumpkin_Helmet.png",
+        "name": "Pumpkin Helmet",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d6/Pumpkin_Breastplate.png",
+        "name": "Pumpkin Breastplate",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Pumpkin_Leggings.png",
+        "name": "Pumpkin Leggings",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30016,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Ninja_Pants.png",
-    "name": "Ninja Pants",
-    "type": "Vanity",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Ninja_armor.png",
+    "name": "Ninja armor",
+    "type": "Armor Set",
+    "defense": "9 (set)",
     "tooltip": [
       [
-        "10% increased throwing crit chance"
+        "20% increased movement speed"
       ]
     ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
-      "tier": "0"
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
     },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Ninja_Hood.png",
+        "name": "Ninja Hood",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "3% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Ninja_Shirt.png",
+        "name": "Ninja Shirt",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "3% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Ninja_Pants.png",
+        "name": "Ninja Pants",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "3% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Ninja_Hood.png",
+        "name": "Ninja Hood",
+        "type": "Vanity",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased throwing velocity"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Ninja_Shirt.png",
+        "name": "Ninja Shirt",
+        "type": "Vanity",
+        "defense": "4",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "15% increase throwing damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Ninja_Pants.png",
+        "name": "Ninja Pants",
+        "type": "Vanity",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased throwing crit chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Ninja_Hood.png",
+        "name": "Ninja Hood",
+        "type": "Vanity",
+        "bodySlot": "Social Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Ninja_Shirt.png",
+        "name": "Ninja Shirt",
+        "type": "Vanity",
+        "bodySlot": "Social Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Ninja_Pants.png",
+        "name": "Ninja Pants",
+        "type": "Vanity",
+        "bodySlot": "Social Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (King Slime)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Treasure_Bag_%28King_Slime%29.png",
+        "entityName": "King Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/93/King_Slime.gif",
         "quantity": "1",
-        "rate": "67"
+        "rate": "33.33"
       },
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (King Slime)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Treasure_Bag_%28King_Slime%29.png",
+        "entityName": "Windows Phone.svg",
+        "entityImg": "https://static.wikia.nocookie.net/ucp-internal-test-starter-commons/images/8/8b/Windows_Phone.svg",
         "quantity": "1",
-        "rate": "67"
+        "rate": "3"
       },
       {
         "itemsName": [],
@@ -1515,10 +2373,15 @@
   },
   {
     "id": 30017,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Iron_Greaves.png",
-    "name": "Iron Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Iron_armor.png",
+    "name": "Iron armor",
+    "type": "Armor Set",
+    "defense": "9 (7+2) (set)",
+    "tooltip": [
+      [
+        "2 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1739,6 +2602,56 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f7/Iron_Helmet.png",
+        "name": "Iron Helmet",
+        "type": "Armor Crafting material",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Ancient_Iron_Helmet.png",
+        "name": "Ancient Iron Helmet",
+        "type": "Armor Crafting material",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Iron_Chainmail.png",
+        "name": "Iron Chainmail",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Iron_Greaves.png",
+        "name": "Iron Greaves",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
@@ -1752,10 +2665,15 @@
   },
   {
     "id": 30018,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Lead_Greaves.png",
-    "name": "Lead Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Lead_armor.png",
+    "name": "Lead armor",
+    "type": "Armor Set",
+    "defense": "11 (8+3) (set)",
+    "tooltip": [
+      [
+        "3 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1922,15 +2840,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Lead_Helmet.png",
+        "name": "Lead Helmet",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Lead_Chainmail.png",
+        "name": "Lead Chainmail",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Lead_Greaves.png",
+        "name": "Lead Greaves",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30019,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8c/Silver_Greaves.png",
-    "name": "Silver Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Silver_armor.png",
+    "name": "Silver armor",
+    "type": "Armor Set",
+    "defense": "13 (10+3) (set)",
+    "tooltip": [
+      [
+        "3 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2097,15 +3058,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Silver_Helmet.png",
+        "name": "Silver Helmet",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Silver_Chainmail.png",
+        "name": "Silver Chainmail",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8c/Silver_Greaves.png",
+        "name": "Silver Greaves",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30020,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Tungsten_Greaves.png",
-    "name": "Tungsten Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Tungsten_armor.png",
+    "name": "Tungsten armor",
+    "type": "Armor Set",
+    "defense": "15 (12+3) (set)",
+    "tooltip": [
+      [
+        "3 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2272,15 +3276,58 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Tungsten_Helmet.png",
+        "name": "Tungsten Helmet",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Tungsten_Chainmail.png",
+        "name": "Tungsten Chainmail",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Tungsten_Greaves.png",
+        "name": "Tungsten Greaves",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30021,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Gold_Greaves.png",
-    "name": "Gold Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/30/Gold_armor.png",
+    "name": "Gold armor",
+    "type": "Armor Set",
+    "defense": "16 (13+3) (set)",
+    "tooltip": [
+      [
+        "3 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2501,15 +3548,70 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Gold_Helmet.png",
+        "name": "Gold Helmet",
+        "type": "Armor Crafting material",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Ancient_Gold_Helmet.png",
+        "name": "Ancient Gold Helmet",
+        "type": "Armor Crafting material",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Gold_Chainmail.png",
+        "name": "Gold Chainmail",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Gold_Greaves.png",
+        "name": "Gold Greaves",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30022,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Platinum_Greaves.png",
-    "name": "Platinum Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Platinum_armor.png",
+    "name": "Platinum armor",
+    "type": "Armor Set",
+    "defense": "20 (16+4) (set)",
+    "tooltip": [
+      [
+        "4 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2676,23 +3778,56 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Platinum_Helmet.png",
+        "name": "Platinum Helmet",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Platinum_Chainmail.png",
+        "name": "Platinum Chainmail",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Platinum_Greaves.png",
+        "name": "Platinum Greaves",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30023,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Fossil_Greaves.png",
-    "name": "Fossil Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Fossil_armor.png",
+    "name": "Fossil armor",
+    "type": "Armor Set",
+    "defense": "13 (set)",
     "tooltip": [
       [
-        "4% increased ranged critical strike chance"
-      ],
-      [
-        ""
-      ],
-      [
-        ""
+        "20% chance to not consume ammo"
       ]
     ],
     "debuffs": [],
@@ -2861,17 +3996,86 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Fossil_Helmet.png",
+        "name": "Fossil Helmet",
+        "type": "Armor",
+        "defense": "4  / 3 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "4% increased ranged critical strike chance"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Fossil_Plate.png",
+        "name": "Fossil Plate",
+        "type": "Armor",
+        "defense": "5  / 6 ",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased ranged damage"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Fossil_Greaves.png",
+        "name": "Fossil Greaves",
+        "type": "Armor",
+        "defense": "4  ",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "4% increased ranged critical strike chance"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30024,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Bee_Greaves.png",
-    "name": "Bee Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Bee_armor.png",
+    "name": "Bee armor",
+    "type": "Armor Set",
+    "defense": "13 (set)",
     "tooltip": [
       [
-        "Increases minion damage by 5%"
+        "Increases minion damage by 10%"
       ]
     ],
     "debuffs": [],
@@ -2962,17 +4166,71 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Bee_Headgear.png",
+        "name": "Bee Headgear",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases minion damage by 4%",
+            "Increases your max number of minions by 1"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/60/Bee_Breastplate.png",
+        "name": "Bee Breastplate",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases minion damage by 4%",
+            "Increases your max number of minions by 1"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Bee_Greaves.png",
+        "name": "Bee Greaves",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases minion damage by 5%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30025,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/Obsidian_Pants.png",
-    "name": "Obsidian Pants",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Obsidian_armor.png",
+    "name": "Obsidian armor",
+    "type": "Armor Set",
+    "defense": "15  / 13   (set)",
     "tooltip": [
       [
-        "Increases minion damage by 8%"
+        "Increases whip range by 30% and speed by 15%,",
+        "Increases summon damage by 15%"
       ]
     ],
     "debuffs": [],
@@ -3312,15 +4570,70 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a4/Obsidian_Outlaw_Hat.png",
+        "name": "Obsidian Outlaw Hat",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases minion damage by 8%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Obsidian_Longcoat.png",
+        "name": "Obsidian Longcoat",
+        "type": "Armor",
+        "defense": "6  / 5 ",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/Obsidian_Pants.png",
+        "name": "Obsidian Pants",
+        "type": "Armor",
+        "defense": "5  / 4 ",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases minion damage by 8%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30026,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Gladiator_Leggings.png",
-    "name": "Gladiator Leggings",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Gladiator_armor.png",
+    "name": "Gladiator armor",
+    "type": "Armor Set",
+    "defense": "16  / 7   (set)",
+    "tooltip": [
+      [
+        "Grants immunity to knockback"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -3330,6 +4643,44 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Gladiator_Helmet.png",
+        "name": "Gladiator Helmet",
+        "type": "Armor",
+        "defense": "5  / 2 ",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Gladiator_Breastplate.png",
+        "name": "Gladiator Breastplate",
+        "type": "Armor",
+        "defense": "6  / 3 ",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Gladiator_Leggings.png",
+        "name": "Gladiator Leggings",
+        "type": "Armor",
+        "defense": "5  / 2 ",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
@@ -3343,12 +4694,13 @@
   },
   {
     "id": 30027,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Meteor_Leggings.png",
-    "name": "Meteor Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Meteor_armor.png",
+    "name": "Meteor armor",
+    "type": "Armor Set",
+    "defense": "16 (set)",
     "tooltip": [
       [
-        "9% increased magic damage"
+        "Space Gun costs 0 mana"
       ]
     ],
     "debuffs": [],
@@ -3517,18 +4869,68 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Meteor_Helmet.png",
+        "name": "Meteor Helmet",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "9% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Meteor_Suit.png",
+        "name": "Meteor Suit",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "9% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Meteor_Leggings.png",
+        "name": "Meteor Leggings",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "9% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30028,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Jungle_Pants.png",
-    "name": "Jungle Pants",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Jungle_armor.png",
+    "name": "Jungle armor",
+    "type": "Armor Set",
+    "defense": "17 (set)  / 15 (set) ",
     "tooltip": [
       [
-        "Increases maximum mana by 20",
-        "6% increased magic critical strike chance"
+        "16% reduced mana usage"
       ]
     ],
     "debuffs": [],
@@ -3772,18 +5174,71 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Jungle_Hat.png",
+        "name": "Jungle Hat",
+        "type": "Armor Crafting material",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "6% increased magic critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f3/Jungle_Shirt.png",
+        "name": "Jungle Shirt",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 20",
+            "6% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Jungle_Pants.png",
+        "name": "Jungle Pants",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases maximum mana by 20",
+            "6% increased magic critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30029,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Ancient_Cobalt_Leggings.png",
-    "name": "Ancient Cobalt Leggings",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Ancient_Cobalt_armor.png",
+    "name": "Ancient Cobalt armor",
+    "type": "Armor Set",
+    "defense": "17 (set)",
     "tooltip": [
       [
-        "Increases maximum mana by 20",
-        "6% increased magic critical strike chance"
+        "16% reduced mana usage"
       ]
     ],
     "debuffs": [],
@@ -3862,11 +5317,64 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Ancient_Cobalt_Helmet.png",
+        "name": "Ancient Cobalt Helmet",
+        "type": "Armor Crafting material",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "6% increased magic critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Ancient_Cobalt_Breastplate.png",
+        "name": "Ancient Cobalt Breastplate",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 20",
+            "6% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Ancient_Cobalt_Leggings.png",
+        "name": "Ancient Cobalt Leggings",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases maximum mana by 20",
+            "6% increased magic critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Man Eater",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Man_Eater.png",
+        "entityName": "Hornet",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Hornet.png",
         "quantity": "1",
         "rate": "0.33"
       },
@@ -3882,12 +5390,13 @@
   },
   {
     "id": 30030,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Necro_Greaves.png",
-    "name": "Necro Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Necro_armor.png",
+    "name": "Necro armor",
+    "type": "Armor Set",
+    "defense": "19  / 16   (set)",
     "tooltip": [
       [
-        "5% increased ranged damage"
+        "10% increased ranged critical strike chance"
       ]
     ],
     "debuffs": [],
@@ -4025,17 +5534,90 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Necro_Helmet.png",
+        "name": "Necro Helmet",
+        "type": "Armor Crafting material",
+        "defense": "6  / 5 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased ranged damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Ancient_Necro_Helmet.png",
+        "name": "Ancient Necro Helmet",
+        "type": "Armor Crafting material",
+        "defense": "6  / 5 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased ranged damage"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Necro_Breastplate.png",
+        "name": "Necro Breastplate",
+        "type": "Armor",
+        "defense": "7  / 6 ",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased ranged damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Necro_Greaves.png",
+        "name": "Necro Greaves",
+        "type": "Armor",
+        "defense": "6  / 5 ",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased ranged damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30031,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Shadow_Greaves.png",
-    "name": "Shadow Greaves",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Shadow_armor.png",
+    "name": "Shadow armor",
+    "type": "Armor Set",
+    "defense": "19 (set)",
     "tooltip": [
       [
-        "5% increased critical strike chance"
+        "15% increased movement speed"
       ]
     ],
     "debuffs": [],
@@ -4316,17 +5898,68 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Shadow_Helmet.png",
+        "name": "Shadow Helmet",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Shadow_Scalemail.png",
+        "name": "Shadow Scalemail",
+        "type": "Armor Crafting material",
+        "defense": "7",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Shadow_Greaves.png",
+        "name": "Shadow Greaves",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30032,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Ancient_Shadow_Greaves.png",
-    "name": "Ancient Shadow Greaves",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Ancient_Shadow_armor.png",
+    "name": "Ancient Shadow armor",
+    "type": "Armor Set",
+    "defense": "19 (set)",
     "tooltip": [
       [
-        "5% increased critical strike chance"
+        "15% increased movement speed"
       ]
     ],
     "debuffs": [],
@@ -4405,6 +6038,56 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Ancient_Shadow_Helmet.png",
+        "name": "Ancient Shadow Helmet",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Ancient_Shadow_Scalemail.png",
+        "name": "Ancient Shadow Scalemail",
+        "type": "Armor Crafting material",
+        "defense": "7",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Ancient_Shadow_Greaves.png",
+        "name": "Ancient Shadow Greaves",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
@@ -4418,12 +6101,13 @@
   },
   {
     "id": 30033,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Crimson_Greaves.png",
-    "name": "Crimson Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Crimson_armor.png",
+    "name": "Crimson armor",
+    "type": "Armor Set",
+    "defense": "19 (set)",
     "tooltip": [
       [
-        "3% increased damage"
+        "Greatly increased life regen"
       ]
     ],
     "debuffs": [],
@@ -4535,20 +6219,69 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Crimson_Helmet.png",
+        "name": "Crimson Helmet",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "3% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Crimson_Scalemail.png",
+        "name": "Crimson Scalemail",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "3% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Crimson_Greaves.png",
+        "name": "Crimson Greaves",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "3% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30034,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Molten_Greaves.png",
-    "name": "Molten Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Molten_armor.png",
+    "name": "Molten armor",
+    "type": "Armor Set",
+    "defense": "25 (set)",
     "tooltip": [
       [
-        "7% increased melee speed"
-      ],
-      [
-        ""
+        "10% extra melee damage,",
+        "Cannot be set on fire"
       ]
     ],
     "debuffs": [],
@@ -4639,15 +6372,79 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Molten_Helmet.png",
+        "name": "Molten Helmet",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "7% increased melee critical strike chance"
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Molten_Breastplate.png",
+        "name": "Molten Breastplate",
+        "type": "Armor",
+        "defense": "9",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "7% increased melee damage"
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Molten_Greaves.png",
+        "name": "Molten Greaves",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "7% increased melee speed"
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+          "tier": "3"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30035,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Pearlwood_Greaves.png",
-    "name": "Pearlwood Greaves",
-    "type": "Armor",
-    "tooltip": [],
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Pearlwood_armor.png",
+    "name": "Pearlwood armor",
+    "type": "Armor Set",
+    "defense": "8 (7+1) (set)",
+    "tooltip": [
+      [
+        "1 defense"
+      ]
+    ],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -4724,18 +6521,56 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Pearlwood_Helmet.png",
+        "name": "Pearlwood Helmet",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Pearlwood_Breastplate.png",
+        "name": "Pearlwood Breastplate",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Pearlwood_Greaves.png",
+        "name": "Pearlwood Greaves",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Pants",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30036,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Spider_Greaves.png",
-    "name": "Spider Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Spider_armor.png",
+    "name": "Spider armor",
+    "type": "Armor Set",
+    "defense": "20 (set)",
     "tooltip": [
       [
-        "Increases your max number of minions by 1",
-        "Increases minion damage by 6%"
+        "Increases minion damage by 12%"
       ]
     ],
     "debuffs": [],
@@ -4826,18 +6661,71 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Spider_Mask.png",
+        "name": "Spider Mask",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 5%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/Spider_Breastplate.png",
+        "name": "Spider Breastplate",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 5%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Spider_Greaves.png",
+        "name": "Spider Greaves",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 6%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30037,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Cobalt_Mask.png",
-    "name": "Cobalt Mask",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Cobalt_armor.png",
+    "name": "Cobalt armor",
+    "type": "Armor Set",
+    "defense": " : 21 /  : 32 /  : 23 (set)",
     "tooltip": [
       [
-        "10% increased ranged damage",
-        "10% increased ranged critical strike chance"
+        "14% reduced mana usage"
       ]
     ],
     "debuffs": [],
@@ -4980,18 +6868,104 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Cobalt_Breastplate.png",
+        "name": "Cobalt Breastplate",
+        "type": "Armor Crafting material",
+        "defense": "10",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Cobalt_Leggings.png",
+        "name": "Cobalt Leggings",
+        "type": "Armor Crafting material",
+        "defense": "8",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased movement speed and 3% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Cobalt_Hat.png",
+        "name": "Cobalt Hat",
+        "type": "Armor Crafting material",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "10% increased magic damage",
+            "9% increased magic critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Cobalt_Helmet.png",
+        "name": "Cobalt Helmet",
+        "type": "Armor Crafting material",
+        "defense": "14",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased movement speed",
+            "15% increased melee damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Cobalt_Mask.png",
+        "name": "Cobalt Mask",
+        "type": "Armor Crafting material",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased ranged damage",
+            "10% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30038,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Palladium_Helmet.png",
-    "name": "Palladium Helmet",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Palladium_armor.png",
+    "name": "Palladium armor",
+    "type": "Armor Set",
+    "defense": " : 32 /  : 23 /  : 21 (set)",
     "tooltip": [
       [
-        "9% increased ranged damage",
-        "9% increased ranged critical strike chance"
+        "Greatly increases life regeneration after striking an enemy"
       ]
     ],
     "debuffs": [],
@@ -5141,18 +7115,105 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Palladium_Breastplate.png",
+        "name": "Palladium Breastplate",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "3% increased damage",
+            "2% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Palladium_Leggings.png",
+        "name": "Palladium Leggings",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "2% increased damage",
+            "1% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Palladium_Headgear.png",
+        "name": "Palladium Headgear",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "9% increased magic damage and critical strike chance",
+            "Increases maximum mana by 60"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Palladium_Mask.png",
+        "name": "Palladium Mask",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased melee damage",
+            "12% increased melee speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Palladium_Helmet.png",
+        "name": "Palladium Helmet",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "9% increased ranged damage",
+            "9% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30039,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Mythril_Hat.png",
-    "name": "Mythril Hat",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e1/Mythril_armor.png",
+    "name": "Mythril armor",
+    "type": "Armor Set",
+    "defense": " : 24 /  : 37 /  : 27 (set)",
     "tooltip": [
       [
-        "12% increased ranged damage",
-        "7% increased ranged critical strike chance"
+        "17% reduced mana usage"
       ]
     ],
     "debuffs": [],
@@ -5295,18 +7356,103 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Mythril_Chainmail.png",
+        "name": "Mythril Chainmail",
+        "type": "Armor Crafting material",
+        "defense": "12",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "7% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Mythril_Greaves.png",
+        "name": "Mythril Greaves",
+        "type": "Armor Crafting material",
+        "defense": "9",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Mythril_Hood.png",
+        "name": "Mythril Hood",
+        "type": "Armor Crafting material",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 60",
+            "15% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Mythril_Helmet.png",
+        "name": "Mythril Helmet",
+        "type": "Armor Crafting material",
+        "defense": "16",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "8% increased melee critical strike chance",
+            "10% increased melee damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Mythril_Hat.png",
+        "name": "Mythril Hat",
+        "type": "Armor Crafting material",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased ranged damage",
+            "7% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30040,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Orichalcum_Helmet.png",
-    "name": "Orichalcum Helmet",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a7/Orichalcum_armor.png",
+    "name": "Orichalcum armor",
+    "type": "Armor Set",
+    "defense": " : 42 /  : 30 /  : 27 (set)",
     "tooltip": [
       [
-        "15% increased ranged critical strike chance",
-        "8% increased movement speed"
+        "Flower petals will fall on your target for extra damage"
       ]
     ],
     "debuffs": [],
@@ -5315,7 +7461,12 @@
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
       "tier": "4"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cc/Flower_Petal.png",
+        "name": "Flower Petal"
+      }
+    ],
     "crafting": [
       {
         "ingredients": [
@@ -5449,18 +7600,104 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Orichalcum_Breastplate.png",
+        "name": "Orichalcum Breastplate",
+        "type": "Armor",
+        "defense": "13",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "6% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Orichalcum_Leggings.png",
+        "name": "Orichalcum Leggings",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "11% increased movement speed ",
+            " 8% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Orichalcum_Headgear.png",
+        "name": "Orichalcum Headgear",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "18% increased magic critical strike chance",
+            "Increases maximum mana by 80"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Orichalcum_Mask.png",
+        "name": "Orichalcum Mask",
+        "type": "Armor",
+        "defense": "19",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "11% increased melee damage and melee speed",
+            "7% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Orichalcum_Helmet.png",
+        "name": "Orichalcum Helmet",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased ranged critical strike chance",
+            "8% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30041,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Adamantite_Mask.png",
-    "name": "Adamantite Mask",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Adamantite_armor.png",
+    "name": "Adamantite armor",
+    "type": "Armor Set",
+    "defense": " : 32 /  : 50 /  : 36 (set) 28/46/32 (set) ",
     "tooltip": [
       [
-        "14% increased ranged damage",
-        "10% increased ranged critical strike chance"
+        "19% reduced mana usage"
       ]
     ],
     "debuffs": [],
@@ -5603,18 +7840,104 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Adamantite_Breastplate.png",
+        "name": "Adamantite Breastplate",
+        "type": "Armor Crafting material",
+        "defense": "16  / 14 ",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "8% increased damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Adamantite_Leggings.png",
+        "name": "Adamantite Leggings",
+        "type": "Armor Crafting material",
+        "defense": "12  / 10 ",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "7% increased critical strike chance",
+            "5% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Adamantite_Headgear.png",
+        "name": "Adamantite Headgear",
+        "type": "Armor Crafting material",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 80",
+            "12% increased magic damage and critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/90/Adamantite_Helmet.png",
+        "name": "Adamantite Helmet",
+        "type": "Armor Crafting material",
+        "defense": "22",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "7% increased melee critical strike chance",
+            "14% increased melee damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Adamantite_Mask.png",
+        "name": "Adamantite Mask",
+        "type": "Armor Crafting material",
+        "defense": "8",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "14% increased ranged damage",
+            "10% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30042,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Titanium_Helmet.png",
-    "name": "Titanium Helmet",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Titanium_armor.png",
+    "name": "Titanium armor",
+    "type": "Armor Set",
+    "defense": " : 49 /  : 34 /  : 30 (set)",
     "tooltip": [
       [
-        "16% increased ranged damage",
-        "7% increased ranged critical strike chance"
+        "Attacking generates a defensive barrier of titanium shards"
       ]
     ],
     "debuffs": [],
@@ -5630,7 +7953,12 @@
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
       "tier": "4"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Titanium_Shard.png",
+        "name": "Titanium Shard"
+      }
+    ],
     "crafting": [
       {
         "ingredients": [
@@ -5764,18 +8092,106 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1e/Titanium_Breastplate.png",
+        "name": "Titanium Breastplate",
+        "type": "Armor Crafting material",
+        "defense": "15",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "4% increased damage",
+            "3% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Titanium_Leggings.png",
+        "name": "Titanium Leggings",
+        "type": "Armor Crafting material",
+        "defense": "11",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "3% increased damage and critical strike chance",
+            "6% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Titanium_Headgear.png",
+        "name": "Titanium Headgear",
+        "type": "Armor Crafting material",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "16% increased magic damage and 7% increased magic critical strike chance",
+            "Increases maximum mana by 100"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Titanium_Mask.png",
+        "name": "Titanium Mask",
+        "type": "Armor Crafting material",
+        "defense": "23",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "9% increased melee damage and critical strike chance",
+            "9% increased melee speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Titanium_Helmet.png",
+        "name": "Titanium Helmet",
+        "type": "Armor Crafting material",
+        "defense": "8",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "16% increased ranged damage",
+            "7% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+          "tier": "4"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30043,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Crystal_Assassin_Pants.png",
-    "name": "Crystal Assassin Pants",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Crystal_Assassin_armor.png",
+    "name": "Crystal Assassin armor",
+    "type": "Armor Set",
+    "defense": "36 (set)",
     "tooltip": [
       [
-        "20% increased movement speed",
-        "10% increased melee speed"
+        "Allows the ability to dash",
+        "10% increased damage and critical strike chance"
       ]
     ],
     "debuffs": [],
@@ -5787,13 +8203,66 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Crystal_Assassin_Hood.png",
+        "name": "Crystal Assassin Hood",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased critical strike chance",
+            "Reduces mana usage by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Crystal_Assassin_Shirt.png",
+        "name": "Crystal Assassin Shirt",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased damage",
+            "Reduces ammo usage by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Crystal_Assassin_Pants.png",
+        "name": "Crystal Assassin Pants",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "20% increased movement speed",
+            "10% increased melee speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Queen Slime)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Treasure_Bag_%28Queen_Slime%29.png",
+        "entityName": "Queen Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Queen_Slime.png",
         "quantity": "1",
-        "rate": "67"
+        "rate": "33.33"
       },
       {
         "itemsName": [],
@@ -5807,13 +8276,13 @@
   },
   {
     "id": 30044,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Frost_Leggings.png",
-    "name": "Frost Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Frost_armor.png",
+    "name": "Frost armor",
+    "type": "Armor Set",
+    "defense": "43 (set)",
     "tooltip": [
       [
-        "8% increased movement speed",
-        "10% increased melee attack speed"
+        ""
       ]
     ],
     "debuffs": [
@@ -6126,19 +8595,69 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Frost_Helmet.png",
+        "name": "Frost Helmet",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "16% increased melee and ranged damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Frost_Breastplate.png",
+        "name": "Frost Breastplate",
+        "type": "Armor",
+        "defense": "20",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "11% increased melee and ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Frost_Leggings.png",
+        "name": "Frost Leggings",
+        "type": "Armor",
+        "defense": "13",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "8% increased movement speed",
+            "10% increased melee attack speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30045,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Forbidden_Treads.png",
-    "name": "Forbidden Treads",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Forbidden_armor.png",
+    "name": "Forbidden armor",
+    "type": "Armor Set",
+    "defense": "26 (set)",
     "tooltip": [
       [
-        "Increases maximum mana by 40",
-        "10% increased magic damage",
-        "Increases your max number of minions by 1"
+        "Double tap ▼ Down/▲ Up[1] to call an ancient storm to the cursor location"
       ]
     ],
     "debuffs": [],
@@ -6337,17 +8856,73 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Forbidden_Mask.png",
+        "name": "Forbidden Mask",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased magic and minion damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Forbidden_Robes.png",
+        "name": "Forbidden Robes",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "10% increased minion damage",
+            "Increases your max number of minions by 1"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Forbidden_Treads.png",
+        "name": "Forbidden Treads",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "10% increased magic damage",
+            "Increases your max number of minions by 1"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30046,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Squire%27s_Greaves.png",
-    "name": "Squire's Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Squire_armor.png",
+    "name": "Squire armor",
+    "type": "Armor Set",
+    "defense": "58 (set)",
     "tooltip": [
       [
-        "15% increased minion damage, 15% increased melee critical strike chance and movement speed"
+        "Increases your max number of sentries",
+        "Ballista pierces more targets and panics when you take damage"
       ]
     ],
     "debuffs": [],
@@ -6359,18 +8934,69 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Squire%27s_Great_Helm.png",
+        "name": "Squire's Great Helm",
+        "type": "Armor",
+        "defense": "13",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 1 and increases your life regeneration"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Squire%27s_Plating.png",
+        "name": "Squire's Plating",
+        "type": "Armor",
+        "defense": "27",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "15% increased minion and melee damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Squire%27s_Greaves.png",
+        "name": "Squire's Greaves",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "15% increased minion damage, 15% increased melee critical strike chance and movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30047,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Monk%27s_Pants.png",
-    "name": "Monk's Pants",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Monk_armor.png",
+    "name": "Monk armor",
+    "type": "Armor Set",
+    "defense": "46 (set)",
     "tooltip": [
       [
-        "10% increased minion damage,",
-        "15% increased melee critical strike chance and 20% increased movement speed"
+        "Increases your max number of sentries",
+        "Lightning Aura can now crit and strikes faster"
       ]
     ],
     "debuffs": [],
@@ -6382,17 +9008,71 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Monk%27s_Bushy_Brow_Bald_Cap.png",
+        "name": "Monk's Bushy Brow Bald Cap",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 1 and increases melee attack speed by 20%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Monk%27s_Shirt.png",
+        "name": "Monk's Shirt",
+        "type": "Armor",
+        "defense": "22",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "20% increased minion and melee damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Monk%27s_Pants.png",
+        "name": "Monk's Pants",
+        "type": "Armor",
+        "defense": "16",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased minion damage,",
+            "15% increased melee critical strike chance and 20% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30048,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Huntress%27s_Pants.png",
-    "name": "Huntress's Pants",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Huntress_armor.png",
+    "name": "Huntress armor",
+    "type": "Armor Set",
+    "defense": "36 (set)",
     "tooltip": [
       [
-        "10% increased minion damage and 20% increased movement speed"
+        "Increases your max number of sentries",
+        "Explosive Traps recharge faster and oil enemies",
+        "Set oiled enemies on fire for extra damage"
       ]
     ],
     "debuffs": [],
@@ -6404,17 +9084,69 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Huntress%27s_Wig.png",
+        "name": "Huntress's Wig",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 1 and increases ranged critical strike chance by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Huntress%27s_Jerkin.png",
+        "name": "Huntress's Jerkin",
+        "type": "Armor",
+        "defense": "17",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "20% increased minion and ranged damage and 10% chance to not consume ammo"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Huntress%27s_Pants.png",
+        "name": "Huntress's Pants",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased minion damage and 20% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30049,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Apprentice%27s_Trousers.png",
-    "name": "Apprentice's Trousers",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Apprentice_armor.png",
+    "name": "Apprentice armor",
+    "type": "Armor Set",
+    "defense": "32 (set)",
     "tooltip": [
       [
-        "10% increased minion damage, 20% increased magic critical strike chance and movement speed"
+        "Increases your max number of sentries",
+        "Flameburst field of view and range are dramatically increased"
       ]
     ],
     "debuffs": [],
@@ -6426,18 +9158,68 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Apprentice%27s_Hat.png",
+        "name": "Apprentice's Hat",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 1, 10% increased magic damage and reduces mana costs by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Apprentice%27s_Robe.png",
+        "name": "Apprentice's Robe",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "20% increased minion damage and 10% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Apprentice%27s_Trousers.png",
+        "name": "Apprentice's Trousers",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased minion damage, 20% increased magic critical strike chance and movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30050,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Hallowed_Hood.png",
-    "name": "Hallowed Hood",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Hallowed_armor.png",
+    "name": "Hallowed armor",
+    "type": "Armor Set",
+    "defense": " : 31 /  : 50 /  : 35 /  : 27 (set)",
     "tooltip": [
       [
-        "Increases your max number of minions by 1",
-        "Increases minion damage by 10%"
+        "Become immune after striking an enemy"
       ]
     ],
     "debuffs": [],
@@ -6817,18 +9599,121 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Hallowed_Plate_Mail.png",
+        "name": "Hallowed Plate Mail",
+        "type": "Armor Crafting material",
+        "defense": "15",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "7% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Hallowed_Greaves.png",
+        "name": "Hallowed Greaves",
+        "type": "Armor Crafting material",
+        "defense": "11",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "7% increased damage",
+            "8% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Hallowed_Mask.png",
+        "name": "Hallowed Mask",
+        "type": "Armor Crafting material",
+        "defense": "24",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased melee damage and critical strike chance",
+            "10% increased melee speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Hallowed_Helmet.png",
+        "name": "Hallowed Helmet",
+        "type": "Armor Crafting material",
+        "defense": "9",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased ranged damage",
+            "8% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Hallowed_Headgear.png",
+        "name": "Hallowed Headgear",
+        "type": "Armor Crafting material",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 100",
+            "12% increased magic damage and critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Hallowed_Hood.png",
+        "name": "Hallowed Hood",
+        "type": "Armor Crafting material",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30051,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Ancient_Hallowed_Hood.png",
-    "name": "Ancient Hallowed Hood",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Ancient_Hallowed_armor.png",
+    "name": "Ancient Hallowed armor",
+    "type": "Armor Set",
+    "defense": " : 50 /  : 35 /  : 31 /  : 27 (set)",
     "tooltip": [
       [
-        "Increases your max number of minions by 1",
-        "Increases minion damage by 10%"
+        "Become immune after striking an enemy"
       ]
     ],
     "debuffs": [],
@@ -7334,18 +10219,121 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Ancient_Hallowed_Plate_Mail.png",
+        "name": "Ancient Hallowed Plate Mail",
+        "type": "Armor Crafting material",
+        "defense": "15",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "7% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Ancient_Hallowed_Greaves.png",
+        "name": "Ancient Hallowed Greaves",
+        "type": "Armor Crafting material",
+        "defense": "11",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "7% increased damage",
+            "8% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Ancient_Hallowed_Mask.png",
+        "name": "Ancient Hallowed Mask",
+        "type": "Armor Crafting material",
+        "defense": "24",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased melee damage and critical strike chance",
+            "10% increased melee speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/43/Ancient_Hallowed_Helmet.png",
+        "name": "Ancient Hallowed Helmet",
+        "type": "Armor Crafting material",
+        "defense": "9",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased ranged damage",
+            "8% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Ancient_Hallowed_Headgear.png",
+        "name": "Ancient Hallowed Headgear",
+        "type": "Armor Crafting material",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 100",
+            "12% increased magic damage and critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Ancient_Hallowed_Hood.png",
+        "name": "Ancient Hallowed Hood",
+        "type": "Armor Crafting material",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30052,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Chlorophyte_Headgear.png",
-    "name": "Chlorophyte Headgear",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Chlorophyte_armor.png",
+    "name": "Chlorophyte armor",
+    "type": "Armor Set",
+    "defense": " : 51 /  : 44 /  : 38 (set)",
     "tooltip": [
       [
-        "Increases maximum mana by 80 and reduces mana usage by 17%",
-        "16% increased magic damage"
+        "Summons a powerful leaf crystal to shoot at nearby enemies"
       ]
     ],
     "debuffs": [],
@@ -7361,7 +10349,16 @@
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
       "tier": "7"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Crystal_Leaf.png",
+        "name": "Crystal Leaf"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Crystal_Leaf_%28projectile%29.png",
+        "name": "Crystal Leaf Shot"
+      }
+    ],
     "crafting": [
       {
         "ingredients": [
@@ -7495,18 +10492,106 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Chlorophyte_Plate_Mail.png",
+        "name": "Chlorophyte Plate Mail",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased damage",
+            "7% increased critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+          "tier": "7"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Chlorophyte_Greaves.png",
+        "name": "Chlorophyte Greaves",
+        "type": "Armor",
+        "defense": "13",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "8% increased critical strike chance",
+            "5% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+          "tier": "7"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7d/Chlorophyte_Mask.png",
+        "name": "Chlorophyte Mask",
+        "type": "Armor",
+        "defense": "20",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "16% increased melee damage",
+            "6% increased melee critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+          "tier": "7"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Chlorophyte_Helmet.png",
+        "name": "Chlorophyte Helmet",
+        "type": "Armor",
+        "defense": "13",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "16% increased ranged damage",
+            "20% chance to not consume ammo"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+          "tier": "7"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Chlorophyte_Headgear.png",
+        "name": "Chlorophyte Headgear",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 80 and reduces mana usage by 17%",
+            "16% increased magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+          "tier": "7"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30053,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Turtle_Leggings.png",
-    "name": "Turtle Leggings",
-    "type": "Armor Crafting material",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dd/Turtle_armor.png",
+    "name": "Turtle armor",
+    "type": "Armor Set",
+    "defense": "65 (set)",
     "tooltip": [
       [
-        "4% increased melee critical strike chance",
-        "Enemies are more likely to target you"
+        "Attackers also take double damage",
+        "Reduces damage taken by 15%"
       ]
     ],
     "debuffs": [],
@@ -7751,18 +10836,71 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Turtle_Helmet.png",
+        "name": "Turtle Helmet",
+        "type": "Armor Crafting material",
+        "defense": "21",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "6% increased melee damage",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Turtle_Scale_Mail.png",
+        "name": "Turtle Scale Mail",
+        "type": "Armor Crafting material",
+        "defense": "27",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "8% increased melee damage and critical strike chance",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Turtle_Leggings.png",
+        "name": "Turtle Leggings",
+        "type": "Armor Crafting material",
+        "defense": "17",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "4% increased melee critical strike chance",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30054,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Beetle_Shell.png",
-    "name": "Beetle Shell",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/Beetle_armor.png",
+    "name": "Beetle armor",
+    "type": "Armor Set",
+    "defense": " : 61 /  : 73 (set)",
     "tooltip": [
       [
-        "5% increased melee damage and critical strike chance",
-        "Enemies are more likely to target you"
+        "Beetles increase your melee damage and speed"
       ]
     ],
     "debuffs": [],
@@ -7907,18 +11045,89 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Beetle_Helmet.png",
+        "name": "Beetle Helmet",
+        "type": "Armor",
+        "defense": "23",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "6% increased melee damage",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Beetle_Leggings.png",
+        "name": "Beetle Leggings",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "6% increased movement and melee speed",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Beetle_Scale_Mail.png",
+        "name": "Beetle Scale Mail",
+        "type": "Armor",
+        "defense": "20",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "8% increased melee damage and critical strike chance",
+            "6% increased movement and melee speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Beetle_Shell.png",
+        "name": "Beetle Shell",
+        "type": "Armor",
+        "defense": "32",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased melee damage and critical strike chance",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30055,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Shroomite_Mask.png",
-    "name": "Shroomite Mask",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Shroomite_armor.png",
+    "name": "Shroomite armor",
+    "type": "Armor Set",
+    "defense": "51 (set)",
     "tooltip": [
       [
-        "15% increased bullet damage",
-        "5% increased ranged critical strike chance"
+        "Not moving puts you in stealth,",
+        "increasing ranged ability and reducing chance for enemies to target you"
       ]
     ],
     "debuffs": [],
@@ -8061,19 +11270,106 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Shroomite_Breastplate.png",
+        "name": "Shroomite Breastplate",
+        "type": "Armor",
+        "defense": "24",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "13% increased ranged damage &amp; critical strike chance",
+            "20% chance to not consume ammo"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Shroomite_Leggings.png",
+        "name": "Shroomite Leggings",
+        "type": "Armor",
+        "defense": "16",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "7% increased ranged critical strike chance",
+            "12% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Shroomite_Headgear.png",
+        "name": "Shroomite Headgear",
+        "type": "Armor",
+        "defense": "11",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased arrow damage",
+            "5% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Shroomite_Helmet.png",
+        "name": "Shroomite Helmet",
+        "type": "Armor",
+        "defense": "11",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased damage from specialist ranged weapons",
+            "These are launchers, dartguns, or anything else that doesn't shoot arrows/bullets",
+            "5% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Shroomite_Mask.png",
+        "name": "Shroomite Mask",
+        "type": "Armor",
+        "defense": "11",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased bullet damage",
+            "5% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30056,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Spooky_Leggings.png",
-    "name": "Spooky Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Spooky_armor.png",
+    "name": "Spooky armor",
+    "type": "Armor Set",
+    "defense": "30 (set)",
     "tooltip": [
       [
-        "Increases your max number of minions by 1",
-        "Increases minion damage by 11%",
-        "20% increased movement speed"
+        "Increases minion damage by 25%"
       ]
     ],
     "debuffs": [],
@@ -8152,23 +11448,73 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Spooky_Helmet.png",
+        "name": "Spooky Helmet",
+        "type": "Armor",
+        "defense": "9  / 8 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 11%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Spooky_Breastplate.png",
+        "name": "Spooky Breastplate",
+        "type": "Armor",
+        "defense": "11  / 10 ",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 2",
+            "Increases minion damage by 11%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Spooky_Leggings.png",
+        "name": "Spooky Leggings",
+        "type": "Armor",
+        "defense": "10  / 9 ",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 11%",
+            "20% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30057,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Valhalla_Knight%27s_Greaves.png",
-    "name": "Valhalla Knight's Greaves",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Valhalla_Knight_armor.png",
+    "name": "Valhalla Knight armor",
+    "type": "Armor Set",
+    "defense": "68 (set)  / 64 ",
     "tooltip": [
       [
-        "20% increased minion damage and melee critical strike chance and movement speed"
-      ],
-      [
-        ""
-      ],
-      [
-        ""
+        "Increases your max number of sentries",
+        "Greatly enhances Ballista effectiveness"
       ]
     ],
     "debuffs": [],
@@ -8180,18 +11526,81 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Valhalla_Knight%27s_Helm.png",
+        "name": "Valhalla Knight's Helm",
+        "type": "Armor",
+        "defense": "20  / 14 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 2 and increases minion and melee damage by 10%"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/52/Valhalla_Knight%27s_Breastplate.png",
+        "name": "Valhalla Knight's Breastplate",
+        "type": "Armor",
+        "defense": "24  / 30 ",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "30% increased minion damage and massively increased life regeneration"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Valhalla_Knight%27s_Greaves.png",
+        "name": "Valhalla Knight's Greaves",
+        "type": "Armor",
+        "defense": "24  / 20 ",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "20% increased minion damage and melee critical strike chance and movement speed"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30058,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Shinobi_Infiltrator%27s_Pants.png",
-    "name": "Shinobi Infiltrator's Pants",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Shinobi_Infiltrator_armor.png",
+    "name": "Shinobi Infiltrator armor",
+    "type": "Armor Set",
+    "defense": "54 (set)",
     "tooltip": [
       [
-        "20% increased minion damage and melee critical strike chance",
-        "30% increased movement speed"
+        "Increases your max number of sentries",
+        "Greatly enhances Lightning Aura effectiveness"
       ]
     ],
     "debuffs": [],
@@ -8203,18 +11612,71 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Shinobi_Infiltrator%27s_Helmet.png",
+        "name": "Shinobi Infiltrator's Helmet",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 2 and increases 20% melee &amp; minion damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Shinobi_Infiltrator%27s_Torso.png",
+        "name": "Shinobi Infiltrator's Torso",
+        "type": "Armor",
+        "defense": "26",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "20% increased minion damage and melee speed",
+            "5% increased melee critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Shinobi_Infiltrator%27s_Pants.png",
+        "name": "Shinobi Infiltrator's Pants",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "20% increased minion damage and melee critical strike chance",
+            "30% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30059,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Red_Riding_Leggings.png",
-    "name": "Red Riding Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Red_Riding_armor.png",
+    "name": "Red Riding armor",
+    "type": "Armor Set",
+    "defense": "48 (set)",
     "tooltip": [
       [
-        "25% increased minion damage and 10% increased ranged critical strike chance",
-        "20% increased movement speed"
+        "Increases your max number of sentries",
+        "Greatly enhances Explosive Traps effectiveness"
       ]
     ],
     "debuffs": [],
@@ -8226,18 +11688,71 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Red_Riding_Hood.png",
+        "name": "Red Riding Hood",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 2",
+            "10% increased minion damage and ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Red_Riding_Dress.png",
+        "name": "Red Riding Dress",
+        "type": "Armor",
+        "defense": "24",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "25% increased minion &amp; ranged damage and 20% chance to not consume ammo"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Red_Riding_Leggings.png",
+        "name": "Red Riding Leggings",
+        "type": "Armor",
+        "defense": "16",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "25% increased minion damage and 10% increased ranged critical strike chance",
+            "20% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30060,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Dark_Artist%27s_Leggings.png",
-    "name": "Dark Artist's Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Dark_Artist_armor.png",
+    "name": "Dark Artist armor",
+    "type": "Armor Set",
+    "defense": "42 (set)",
     "tooltip": [
       [
-        "20% increased minion damage and 25% increased magic critical strike chance",
-        "20% increased movement speed"
+        "Increases your max number of sentries",
+        "Greatly enhances Flameburst effectiveness"
       ]
     ],
     "debuffs": [],
@@ -8249,19 +11764,73 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Dark_Artist%27s_Hat.png",
+        "name": "Dark Artist's Hat",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of sentries by 2",
+            "15% increased minion &amp; magic damage"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Dark_Artist%27s_Robes.png",
+        "name": "Dark Artist's Robes",
+        "type": "Armor",
+        "defense": "21",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "25% increased minion damage and 10% increased magic damage",
+            "Reduces mana costs by 15%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Dark_Artist%27s_Leggings.png",
+        "name": "Dark Artist's Leggings",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "20% increased minion damage and 25% increased magic critical strike chance",
+            "20% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+          "tier": "8"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30061,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cc/Solar_Flare_Leggings.png",
-    "name": "Solar Flare Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Solar_Flare_armor.png",
+    "name": "Solar Flare armor",
+    "type": "Armor Set",
+    "defense": "78 (set)",
     "tooltip": [
       [
-        "15% increased movement and melee speed",
-        "Grants minor life regeneration",
-        "Enemies are more likely to target you"
+        "Solar shields charge over time to protect you &amp; let you dash",
+        "A charge is used to damage enemies you touch",
+        "Consumed charges explode &amp; damage enemies"
       ]
     ],
     "debuffs": [],
@@ -8361,18 +11930,75 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a7/Solar_Flare_Helmet.png",
+        "name": "Solar Flare Helmet",
+        "type": "Armor",
+        "defense": "24",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "26% increased melee critical strike chance",
+            "Grants minor life regeneration",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Solar_Flare_Breastplate.png",
+        "name": "Solar Flare Breastplate",
+        "type": "Armor",
+        "defense": "34",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "29% increased melee damage",
+            "Grants minor life regeneration",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cc/Solar_Flare_Leggings.png",
+        "name": "Solar Flare Leggings",
+        "type": "Armor",
+        "defense": "20",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "15% increased movement and melee speed",
+            "Grants minor life regeneration",
+            "Enemies are more likely to target you"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30062,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/31/Vortex_Leggings.png",
-    "name": "Vortex Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6e/Vortex_armor.png",
+    "name": "Vortex armor",
+    "type": "Armor Set",
+    "defense": "62 (set)",
     "tooltip": [
       [
-        "8% increased ranged damage and critical strike chance",
-        "10% increased movement speed"
+        "Double tap ▼ Down to toggle stealth,",
+        "increasing ranged ability and reducing chance for enemies to target you but slowing movement speed"
       ]
     ],
     "debuffs": [],
@@ -8472,18 +12098,72 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Vortex_Helmet.png",
+        "name": "Vortex Helmet",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "16% increased ranged damage",
+            "7% increased ranged critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Vortex_Breastplate.png",
+        "name": "Vortex Breastplate",
+        "type": "Armor",
+        "defense": "28",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "12% increased ranged damage and critical strike chance",
+            "25% chance not to consume ammo"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/31/Vortex_Leggings.png",
+        "name": "Vortex Leggings",
+        "type": "Armor",
+        "defense": "20",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "8% increased ranged damage and critical strike chance",
+            "10% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30063,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Nebula_Leggings.png",
-    "name": "Nebula Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Nebula_armor.png",
+    "name": "Nebula armor",
+    "type": "Armor Set",
+    "defense": "46 (set)",
     "tooltip": [
       [
-        "10% increased magic damage",
-        "10% increased movement speed"
+        "Magic damage has a chance to spawn buff boosters,",
+        "pick boosters up to get stacking buffs"
       ]
     ],
     "debuffs": [],
@@ -8583,18 +12263,70 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Nebula_Helmet.png",
+        "name": "Nebula Helmet",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases maximum mana by 60 and reduces mana usage by 15% ",
+            "7% increased magic damage and critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Nebula_Breastplate.png",
+        "name": "Nebula Breastplate",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "9% increased magic damage and critical strike chance"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Nebula_Leggings.png",
+        "name": "Nebula Leggings",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased magic damage",
+            "10% increased movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30064,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/Stardust_Leggings.png",
-    "name": "Stardust Leggings",
-    "type": "Armor",
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Stardust_armor.png",
+    "name": "Stardust armor",
+    "type": "Armor Set",
+    "defense": "38 (set)",
     "tooltip": [
       [
-        "Increases your max number of minions by 2",
-        "Increases minion damage by 22%"
+        "A stardust guardian will protect you from nearby enemies"
       ]
     ],
     "debuffs": [],
@@ -8603,7 +12335,12 @@
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
       "tier": "0"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Stardust_Guardian_minion.png",
+        "name": "Stardust Guardian"
+      }
+    ],
     "crafting": [
       {
         "ingredients": [
@@ -8694,62 +12431,129 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Stardust_Helmet.png",
+        "name": "Stardust Helmet",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 1",
+            "Increases minion damage by 22%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Stardust_Plate.png",
+        "name": "Stardust Plate",
+        "type": "Armor",
+        "defense": "16",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 2",
+            "Increases minion damage by 22%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3f/Stardust_Leggings.png",
+        "name": "Stardust Leggings",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Increases your max number of minions by 2",
+            "Increases minion damage by 22%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30065,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Magic_Hat.png",
-    "name": "Magic Hat",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "6% increased magic damage and critical strike chance"
-      ],
-      [
-        ""
-      ],
-      [
-        ""
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Magic_Hat.png",
+        "name": "Magic Hat",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "6% increased magic damage and critical strike chance"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30066,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Wizard_Hat.png",
-    "name": "Wizard Hat",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "5% increased magic damage"
-      ],
-      [
-        ""
-      ],
-      [
-        ""
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Wizard_Hat.png",
+        "name": "Wizard Hat",
+        "type": "Armor",
+        "defense": "4  / 2 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased magic damage"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
@@ -8763,21 +12567,9 @@
   },
   {
     "id": 30067,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Amethyst_Robe.png",
-    "name": "Amethyst Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 20",
-        "Reduces mana usage by 5%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
-      "tier": "0"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -8811,26 +12603,32 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Amethyst_Robe.png",
+        "name": "Amethyst Robe",
+        "type": "Armor",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 20",
+            "Reduces mana usage by 5%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30068,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Topaz_Robe.png",
-    "name": "Topaz Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 40",
-        "Reduces mana usage by 7%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
-      "tier": "0"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -8864,26 +12662,33 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Topaz_Robe.png",
+        "name": "Topaz Robe",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "Reduces mana usage by 7%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30069,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Sapphire_Robe.png",
-    "name": "Sapphire Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 40",
-        "Reduces mana usage by 9%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -8917,26 +12722,33 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Sapphire_Robe.png",
+        "name": "Sapphire Robe",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 40",
+            "Reduces mana usage by 9%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30070,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Emerald_Robe.png",
-    "name": "Emerald Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 60",
-        "Reduces mana usage by 11%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -8970,26 +12782,33 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Emerald_Robe.png",
+        "name": "Emerald Robe",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 60",
+            "Reduces mana usage by 11%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30071,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Ruby_Robe.png",
-    "name": "Ruby Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 60",
-        "Reduces mana usage by 13%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -9023,26 +12842,33 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Ruby_Robe.png",
+        "name": "Ruby Robe",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 60",
+            "Reduces mana usage by 13%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30072,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Amber_Robe.png",
-    "name": "Amber Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 60",
-        "Reduces mana usage by 13%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -9076,26 +12902,33 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Amber_Robe.png",
+        "name": "Amber Robe",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 60",
+            "Reduces mana usage by 13%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30073,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Diamond_Robe.png",
-    "name": "Diamond Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases maximum mana by 80",
-        "Reduces mana usage by 15%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -9129,50 +12962,63 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Diamond_Robe.png",
+        "name": "Diamond Robe",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases maximum mana by 80",
+            "Reduces mana usage by 15%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30074,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Mystic_Robe.png",
-    "name": "Mystic Robe",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "6% increased magic damage and critical strike chance",
-        "Reduces mana usage by 10%"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Mystic_Robe.png",
+        "name": "Mystic Robe",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "6% increased magic damage and critical strike chance",
+            "Reduces mana usage by 10%"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30075,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Honey_Bucket.png",
-    "name": "Honey Bucket",
-    "type": "Miscellaneous Crafting material",
-    "useTime": "15 (Very fast)",
-    "tooltip": [
-      [
-        "Contains a small amount of honey",
-        "Can be poured out"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
-      "tier": "0"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -13229,21 +17075,87 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Empty_Bucket.png",
+        "name": "Buckets",
+        "type": "Tool Miscellaneous",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Empty_Bucket.png",
+        "name": "Empty Bucket",
+        "type": "Tool Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Can be used to scoop up a small amount of liquid"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Water_Bucket.png",
+        "name": "Water Bucket",
+        "type": "Miscellaneous Crafting material",
+        "tooltip": [
+          [
+            "Contains a small amount of water",
+            "Can be poured out"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Lava_Bucket.png",
+        "name": "Lava Bucket",
+        "type": "Miscellaneous Crafting material",
+        "tooltip": [
+          [
+            "Contains a small amount of lava",
+            "Can be poured out"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Honey_Bucket.png",
+        "name": "Honey Bucket",
+        "type": "Miscellaneous Crafting material",
+        "tooltip": [
+          [
+            "Contains a small amount of honey",
+            "Can be poured out"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30076,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Goggles.png",
-    "name": "Goggles",
-    "type": "Armor",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
-      "tier": "0"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -13308,25 +17220,28 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Goggles.png",
+        "name": "Goggles",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+          "tier": "0"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30077,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Night_Vision_Helmet.png",
-    "name": "Night Vision Helmet",
-    "type": "Armor Crafting material",
-    "tooltip": [
-      [
-        "Improves vision"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [
@@ -13360,11 +17275,29 @@
         ]
       }
     ],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Night_Vision_Helmet.png",
+        "name": "Night Vision Helmet",
+        "type": "Armor Crafting material",
+        "defense": "4  / 2 ",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Improves vision"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Granite Golem",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Granite_Golem.png",
+        "entityName": "Granite Elemental",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Granite_Elemental.gif",
         "quantity": "1",
         "rate": "3.3"
       },
@@ -13380,19 +17313,26 @@
   },
   {
     "id": 30078,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Viking_Helmet.png",
-    "name": "Viking Helmet",
-    "type": "Armor",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Viking_Helmet.png",
+        "name": "Viking Helmet",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],
@@ -13406,21 +17346,9 @@
   },
   {
     "id": 30079,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Ultrabright_Helmet.png",
-    "name": "Ultrabright Helmet",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Improves vision and provides light when worn",
-        "'The darkness holds no secrets for you'"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
-      "tier": "5"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -13454,26 +17382,33 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Ultrabright_Helmet.png",
+        "name": "Ultrabright Helmet",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Improves vision and provides light when worn",
+            "'The darkness holds no secrets for you'"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+          "tier": "5"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30080,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/93/Flinx_Fur_Coat.png",
-    "name": "Flinx Fur Coat",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Increases minion damage by 5%",
-        "Increases your max number of minions by 1"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [
       {
@@ -13546,70 +17481,110 @@
       }
     ],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/93/Flinx_Fur_Coat.png",
+        "name": "Flinx Fur Coat",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Increases minion damage by 5%",
+            "Increases your max number of minions by 1"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30081,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Gi.png",
-    "name": "Gi",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "5% increased damage and critical strike chance",
-        "10% increased melee and movement speed"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Gi.png",
+        "name": "Gi",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased damage and critical strike chance",
+            "10% increased melee and movement speed"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30082,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Moon_Lord_Legs.png",
-    "name": "Moon Lord Legs",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Slightly increases mobility",
-        "'These might be Steve's'"
-      ]
-    ],
+    "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Moon_Lord_Legs.png",
+        "name": "Moon Lord Legs",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Slightly increases mobility",
+            "'These might be Steve's'"
+          ]
+        ],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+          "tier": "2"
+        }
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 30083,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Green_Cap.png",
-    "name": "Green Cap",
-    "type": "Vanity",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
-      "tier": "1"
-    },
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Green_Cap.png",
+        "name": "Green Cap",
+        "type": "Vanity",
+        "defense": "2 ",
+        "bodySlot": "Social Helmet",
+        "tooltip": [],
+        "rarity": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+          "tier": "1"
+        }
+      }
+    ],
     "droppedBy": [
       {
         "itemsName": [],

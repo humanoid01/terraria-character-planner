@@ -53,6 +53,8 @@
     "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
     "name": "Occult Skull Crown",
     "type": "Accessory – Armor",
+    "bodySlot": "Helmet",
+    "defense": "5",
     "tooltip": [
       [
         "Only a fool would ever wear this...",

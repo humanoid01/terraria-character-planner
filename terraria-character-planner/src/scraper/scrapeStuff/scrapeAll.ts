@@ -43,8 +43,7 @@ async function getItemsNames(url: string, isModded: boolean) {
             });
           }
         });
-      console.log('hi', itemNames[1]);
-      // itemNames.forEach(name => console.log(name));
+      itemNames.forEach(name => console.log(name));
 
       return itemNames;
     } else {
@@ -92,6 +91,7 @@ async function getItemsNames(url: string, isModded: boolean) {
         });
       }
     });
+  itemNames.forEach(name => console.log(name));
 
   return itemNames;
 }
@@ -193,7 +193,7 @@ async function saveItemsData(isModded: boolean = false) {
       const pageUrl = `https://${
         isModded ? 'calamitymod' : 'terraria'
       }.fandom.com/wiki/${name}`;
-      const promisedData = await getPageItems(pageUrl, id as number, 'weapons');
+      const promisedData = await getPageItems(pageUrl, id as number, type);
       const data = await Promise.all(promisedData);
       fs.writeFileSync(
         `./${

@@ -256,15 +256,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Shadow Orb (placed)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "entityName": "Corrupt Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7d/Corrupt_Crate.png",
         "quantity": "1",
         "rate": "20"
       },
       {
         "itemsName": [],
-        "entityName": "Shadow Orb (placed)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "entityName": "Defiled Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/63/Defiled_Crate.png",
         "quantity": "1",
         "rate": "20"
       },

@@ -281,6 +281,7 @@
     "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Giant_Shell.png",
     "name": "Giant Shell",
     "type": "Accessory – Crafting material",
+    "defense": "6",
     "tooltip": [
       [
         "15% reduced movement speed and 5% damage reduction",
@@ -288,14 +289,7 @@
       ]
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Shell Speed Boost",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png",
-        "duration": "5 seconds (when hit)",
-        "tooltip": "Speed is boosted"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
       "tier": "1"
@@ -609,15 +603,7 @@
         "Icicles rain down as you fly"
       ]
     ],
-    "debuffs": [
-      {
-        "name": "Frostburn",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "chance": "100% chance",
-        "duration": "2, 4, or 6 seconds (Melee attacks)",
-        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
@@ -702,15 +688,7 @@
         "Dashes leave homing scythes in your wake"
       ]
     ],
-    "debuffs": [
-      {
-        "name": "God Slayer Inferno",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
-        "chance": "100% chance",
-        "duration": "1 second (Cosmic Scythe)",
-        "tooltip": "Your flesh is burning off"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",

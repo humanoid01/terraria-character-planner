@@ -21,8 +21,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Dark Caster",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Dark_Caster.png",
+        "entityName": "Angry Bones 1",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Angry_Bones_1.png",
         "quantity": "1",
         "rate": "0.33"
       },
@@ -224,36 +224,36 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Flying Dutchman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Flying_Dutchman.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Captain",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Pirate_Captain.png",
+        "quantity": "1",
+        "rate": "0.2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Corsair",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Pirate_Corsair.png",
         "quantity": "1",
         "rate": "0.05"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Crossbower",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Crossbower.png",
         "quantity": "1",
         "rate": "0.05"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.05"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.05"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Deadeye",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Deadeye.png",
         "quantity": "1",
         "rate": "0.05"
       },
@@ -319,17 +319,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Jungle Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "entityName": "Bramble Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Bramble_Crate.png",
         "quantity": "1",
         "rate": "5*1/20 (5"
       },
       {
         "itemsName": [],
-        "entityName": "Jungle Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "entityName": "Ivy Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Ivy_Chest.png",
         "quantity": "1",
-        "rate": "5*1/20 (5"
+        "rate": "4.57"
       },
       {
         "itemsName": [],
@@ -423,36 +423,36 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Flying Dutchman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Flying_Dutchman.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Captain",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Pirate_Captain.png",
+        "quantity": "1",
+        "rate": "0.4"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Corsair",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Pirate_Corsair.png",
         "quantity": "1",
         "rate": "0.1"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Crossbower",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Crossbower.png",
         "quantity": "1",
         "rate": "0.1"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.1"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.1"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Deadeye",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Deadeye.png",
         "quantity": "1",
         "rate": "0.1"
       },
@@ -541,15 +541,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Chest.png",
         "quantity": "1",
-        "rate": "0.44*1/225 (0.44"
+        "rate": "8.33*1/12 (8.33"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Pearlwood Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Pearlwood_Crate.png",
         "quantity": "1",
         "rate": "0.44*1/225 (0.44"
       },
@@ -651,15 +651,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Pink Jellyfish",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Pink_Jellyfish.png",
+        "entityName": "Blue Jellyfish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Blue_Jellyfish.png",
         "quantity": "1",
         "rate": "1"
       },
       {
         "itemsName": [],
-        "entityName": "Pink Jellyfish",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Pink_Jellyfish.png",
+        "entityName": "Green Jellyfish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Green_Jellyfish.png",
         "quantity": "1",
         "rate": "1"
       },
@@ -779,36 +779,36 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Flying Dutchman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Flying_Dutchman.png",
+        "quantity": "1",
+        "rate": "0.5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Captain",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Pirate_Captain.png",
+        "quantity": "1",
+        "rate": "0.1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Corsair",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Pirate_Corsair.png",
         "quantity": "1",
         "rate": "0.025"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Crossbower",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Crossbower.png",
         "quantity": "1",
         "rate": "0.025"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.025"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.025"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Deadeye",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Deadeye.png",
         "quantity": "1",
         "rate": "0.025"
       },
@@ -845,8 +845,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Deerclops)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "entityName": "Deerclops",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Deerclops.png",
         "quantity": "1",
         "rate": "33"
       },
@@ -948,10 +948,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Shadow Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "entityName": "Obsidian Lock Box",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Obsidian_Lock_Box.png",
         "quantity": "1",
-        "rate": "28.57*2/7 (28.57"
+        "rate": "16.67*1/6 (16.67"
       },
       {
         "itemsName": [],

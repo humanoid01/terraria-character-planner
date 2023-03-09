@@ -522,17 +522,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Sandstone Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "entityName": "Mirage Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Mirage_Crate.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "12.5"
       },
       {
         "itemsName": [],
-        "entityName": "Sandstone Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "entityName": "Oasis Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Oasis_Crate.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "12.5"
       },
       {
         "itemsName": [],

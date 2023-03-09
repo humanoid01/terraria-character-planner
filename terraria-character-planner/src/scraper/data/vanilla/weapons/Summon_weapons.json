@@ -91,8 +91,6 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Living Wood Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Living_Wood_Chest.png",
         "quantity": "1",
         "rate": "33.33*1/3 (33.33"
       },
@@ -225,164 +223,164 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Baby Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Baby_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Black Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Black_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Blue Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Blue_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Bouncy Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Bouncy_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Crystal Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Crystal_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Green Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Green_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Heavenly Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Heavenly_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Ice Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Ice_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Illuminant Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Illuminant_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Jungle Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Jungle_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Mother Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Mother_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Pinky",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Pinky.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Purple Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Purple_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Red Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Red_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Sand Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Sand_Slime.png",
+        "quantity": "1",
+        "rate": "0.013"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimeling",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Slimeling.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Corrupt Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Corrupt_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Spiked Ice Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Spiked_Ice_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Spiked Jungle Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fe/Spiked_Jungle_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Spiked Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Spiked_Slime.png",
+        "quantity": "1",
+        "rate": "0.014"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Toxic Sludge",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Toxic_Sludge.gif",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Yellow Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Yellow_Slime.png",
         "quantity": "1",
         "rate": "0.01"
       },
       {
         "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "entityName": "Armed Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/64/Armed_Slimed_Zombie.png",
         "quantity": "1",
-        "rate": "0.01"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
-        "quantity": "1",
-        "rate": "0.01"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
-        "quantity": "1",
-        "rate": "0.01"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Slimed Zombie",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
-        "quantity": "1",
-        "rate": "0.01"
+        "rate": "0.014"
       },
       {
         "itemsName": [],
@@ -440,8 +438,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Zombie Merman",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Zombie_Merman.png",
+        "entityName": "Wandering Eye Fish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Wandering_Eye_Fish.png",
         "quantity": "1",
         "rate": "12.5"
       },
@@ -611,8 +609,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Deerclops)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "entityName": "Deerclops",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Deerclops.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -1695,36 +1693,36 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Flying Dutchman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Flying_Dutchman.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Captain",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Pirate_Captain.png",
+        "quantity": "1",
+        "rate": "0.2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Corsair",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e5/Pirate_Corsair.png",
         "quantity": "1",
         "rate": "0.05"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Crossbower",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Crossbower.png",
         "quantity": "1",
         "rate": "0.05"
       },
       {
         "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.05"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
-        "quantity": "1",
-        "rate": "0.05"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Pirate Deckhand",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "entityName": "Pirate Deadeye",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7b/Pirate_Deadeye.png",
         "quantity": "1",
         "rate": "0.05"
       },
@@ -1772,10 +1770,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Queen Slime)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Treasure_Bag_%28Queen_Slime%29.png",
+        "entityName": "Queen Slime",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Queen_Slime.png",
         "quantity": "1",
-        "rate": "33"
+        "rate": "25"
       },
       {
         "itemsName": [],
@@ -1923,10 +1921,10 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Plantera)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "entityName": "Plantera",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Plantera.png",
         "quantity": "1",
-        "rate": "50"
+        "rate": "25"
       },
       {
         "itemsName": [],
@@ -2134,8 +2132,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Duke Fishron)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "entityName": "Duke Fishron",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Duke_Fishron.png",
         "quantity": "1",
         "rate": "20"
       },
@@ -2447,8 +2445,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Moon Lord)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "entityName": "Moon Lord's Head",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Moon_Lord%27s_Head.gif",
         "quantity": "1",
         "rate": "22.2"
       },
@@ -2500,8 +2498,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Treasure Bag (Moon Lord)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "entityName": "Moon Lord's Head",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Moon_Lord%27s_Head.gif",
         "quantity": "1",
         "rate": "22.2"
       },
@@ -3948,8 +3946,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wall of Flesh Mouth",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "entityName": "Treasure Bag (Wall of Flesh)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Treasure_Bag_%28Wall_of_Flesh%29.png",
         "quantity": "1",
         "rate": "25"
       },
@@ -4198,15 +4196,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Rusty Armored Bones",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "entityName": "Blue Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Blue_Armored_Bones.gif",
         "quantity": "1",
         "rate": "0.5"
       },
       {
         "itemsName": [],
-        "entityName": "Rusty Armored Bones",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "entityName": "Hell Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Hell_Armored_Bones.gif",
         "quantity": "1",
         "rate": "0.5"
       },

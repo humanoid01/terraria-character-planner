@@ -35,8 +35,7 @@
     "name": "Shield of Cthulhu",
     "type": "Shield Accessory",
     "damage": "30",
-    "knockback": "9 (Very strong)",
-    "critChance": "4%",
+    "defense": "2",
     "tooltip": [
       [
         "Allows the player to dash into the enemy",

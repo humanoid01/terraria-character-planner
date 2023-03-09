@@ -13,14 +13,7 @@
       ]
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Bloody Boost",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Bloody_Boost.png",
-        "duration": "10 seconds",
-        "tooltip": "Increased offensive and defensive statsHealing potions grant more health"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
       "tier": "8"

@@ -58,15 +58,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Chest.png",
         "quantity": "1",
-        "rate": "0.44*1/225 (0.44"
+        "rate": "8.33*1/12 (8.33"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Pearlwood Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Pearlwood_Crate.png",
         "quantity": "1",
         "rate": "0.44*1/225 (0.44"
       },
@@ -253,17 +253,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Jungle Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "entityName": "Bramble Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ca/Bramble_Crate.png",
         "quantity": "1",
         "rate": "19*19/100 (19"
       },
       {
         "itemsName": [],
-        "entityName": "Jungle Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "entityName": "Ivy Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Ivy_Chest.png",
         "quantity": "1",
-        "rate": "19*19/100 (19"
+        "rate": "21.72"
       },
       {
         "itemsName": [],
@@ -681,17 +681,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Frozen Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Frozen_Crate.png",
+        "entityName": "Boreal Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Boreal_Crate.png",
         "quantity": "1",
         "rate": "16.67"
       },
       {
         "itemsName": [],
-        "entityName": "Frozen Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Frozen_Crate.png",
+        "entityName": "Frozen Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Frozen_Chest.png",
         "quantity": "1",
-        "rate": "16.67"
+        "rate": "15.51"
       },
       {
         "itemsName": [],
@@ -899,15 +899,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Chest.png",
         "quantity": "1",
-        "rate": "0.44*1/225 (0.44"
+        "rate": "8.33*1/12 (8.33"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Pearlwood Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Pearlwood_Crate.png",
         "quantity": "1",
         "rate": "0.44*1/225 (0.44"
       },
@@ -1430,17 +1430,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Sandstone Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "entityName": "Mirage Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Mirage_Crate.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "12.5"
       },
       {
         "itemsName": [],
-        "entityName": "Sandstone Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "entityName": "Oasis Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Oasis_Crate.png",
         "quantity": "1",
-        "rate": "14.29*1/7 (14.29"
+        "rate": "12.5"
       },
       {
         "itemsName": [],
@@ -1789,17 +1789,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Water Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Water_Chest.png",
+        "entityName": "Ocean Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Ocean_Crate.png",
         "quantity": "1",
-        "rate": "22.75*91/400 (22.75"
+        "rate": "20.25*81/400 (20.25"
       },
       {
         "itemsName": [],
-        "entityName": "Water Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Water_Chest.png",
+        "entityName": "Seaside Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Seaside_Crate.png",
         "quantity": "1",
-        "rate": "22.75*91/400 (22.75"
+        "rate": "20.25*81/400 (20.25"
       },
       {
         "itemsName": [],
@@ -1863,17 +1863,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Frozen Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Frozen_Crate.png",
+        "entityName": "Boreal Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Boreal_Crate.png",
         "quantity": "1",
         "rate": "16.67"
       },
       {
         "itemsName": [],
-        "entityName": "Frozen Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Frozen_Crate.png",
+        "entityName": "Frozen Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Frozen_Chest.png",
         "quantity": "1",
-        "rate": "16.67"
+        "rate": "15.51"
       },
       {
         "itemsName": [],
@@ -2704,17 +2704,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Frozen Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Frozen_Crate.png",
+        "entityName": "Boreal Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Boreal_Crate.png",
         "quantity": "1",
         "rate": "16.67"
       },
       {
         "itemsName": [],
-        "entityName": "Frozen Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Frozen_Crate.png",
+        "entityName": "Frozen Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Frozen_Chest.png",
         "quantity": "1",
-        "rate": "16.67"
+        "rate": "15.51"
       },
       {
         "itemsName": [],
@@ -2748,17 +2748,17 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Water Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Water_Chest.png",
+        "entityName": "Ocean Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Ocean_Crate.png",
         "quantity": "1",
-        "rate": "22.75*91/400 (22.75"
+        "rate": "20.25*81/400 (20.25"
       },
       {
         "itemsName": [],
-        "entityName": "Water Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Water_Chest.png",
+        "entityName": "Seaside Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Seaside_Crate.png",
         "quantity": "1",
-        "rate": "22.75*91/400 (22.75"
+        "rate": "20.25*81/400 (20.25"
       },
       {
         "itemsName": [],
@@ -3097,8 +3097,8 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Obsidian Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Obsidian_Crate.png",
+        "entityName": "Hellstone Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Hellstone_Crate.png",
         "quantity": "1",
         "rate": "5*1/20 (5"
       },
@@ -4270,24 +4270,24 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Iron Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Iron_Crate.png",
         "quantity": "1",
-        "rate": "2.5*1/40 (2.5"
+        "rate": "4.26*133/3125 (4.26"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Mythril Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Mythril_Crate.png",
         "quantity": "1",
-        "rate": "2.5*1/40 (2.5"
+        "rate": "4.19"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Pearlwood Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Pearlwood_Crate.png",
         "quantity": "1",
-        "rate": "2.5*1/40 (2.5"
+        "rate": "2.49*199/8000 (2.49"
       },
       {
         "itemsName": [],
@@ -4850,15 +4850,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Skyware Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Skyware_Chest.png",
+        "entityName": "Azure Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Azure_Crate.png",
         "quantity": "1",
-        "rate": "25*1/4 (25"
+        "rate": "100*1/1 (100"
       },
       {
         "itemsName": [],
-        "entityName": "Skyware Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Skyware_Chest.png",
+        "entityName": "Sky Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Sky_Crate.png",
         "quantity": "1",
         "rate": "25*1/4 (25"
       },
@@ -5545,24 +5545,24 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Iron Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Iron_Crate.png",
         "quantity": "1",
-        "rate": "2.44*39/1600 (2.44"
+        "rate": "4.04"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Mythril Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Mythril_Crate.png",
         "quantity": "1",
-        "rate": "2.44*39/1600 (2.44"
+        "rate": "3.98"
       },
       {
         "itemsName": [],
-        "entityName": "Wooden Crate",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "entityName": "Pearlwood Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Pearlwood_Crate.png",
         "quantity": "1",
-        "rate": "2.44*39/1600 (2.44"
+        "rate": "2.24"
       },
       {
         "itemsName": [],
@@ -5691,15 +5691,15 @@
     "droppedBy": [
       {
         "itemsName": [],
-        "entityName": "Water Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Water_Chest.png",
+        "entityName": "Ocean Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Ocean_Crate.png",
         "quantity": "1",
         "rate": "9*9/100 (9"
       },
       {
         "itemsName": [],
-        "entityName": "Water Chest",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Water_Chest.png",
+        "entityName": "Seaside Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Seaside_Crate.png",
         "quantity": "1",
         "rate": "9*9/100 (9"
       },

@@ -1,33 +1,76 @@
 [
   {
     "id": 40000,
-    "name": "Experimental Wulfrum Fusion Array",
-    "type": "Weapon",
-    "damage": "10 summon damage ",
-    "knockback": "Very weak knockback",
-    "critChance": "4%",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Wulfrum_armor.png",
+    "name": "Wulfrum armor",
+    "type": "Armor",
+    "defense": "3",
     "tooltip": [
-      [
-        "Fires quick bursts of medium-range pellets \n\"Who needs whips when you can simply become the summon yourself?\""
-      ]
+      null
     ],
     "debuffs": [],
     "buffs": [],
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png",
+        "name": "Wulfrum Jacket",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased damage reduction"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png",
+        "name": "Wulfrum Overalls",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Movement speed increased by 5%"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Silver_Coin.png",
+        "name": "Wulfrum Hat & Goggles",
+        "type": "Armor",
+        "defense": "0",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased minion damage"
+          ]
+        ]
+      },
+      {
+        "name": "Experimental Wulfrum Fusion Array",
+        "type": "Weapon",
+        "tooltip": [
+          [
+            "Fires quick bursts of medium-range pellets \n\"Who needs whips when you can simply become the summon yourself?\""
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40001,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/19/Snow_Ruffian_Greaves.png",
-    "name": "Snow Ruffian Greaves",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Snow_Ruffian_armor.png",
+    "name": "Snow Ruffian armor",
     "type": "Armor",
+    "defense": "4",
     "tooltip": [
-      [
-        "5% increased movement speed"
-      ]
+      null
     ],
     "debuffs": [],
     "buffs": [],
@@ -38,14 +81,52 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Snow_Ruffian_Mask.png",
+        "name": "Snow Ruffian Mask",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "2% increased rogue damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Snow_Ruffian_Chestplate.png",
+        "name": "Snow Ruffian Chestplate",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "3% increased rogue critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/19/Snow_Ruffian_Greaves.png",
+        "name": "Snow Ruffian Greaves",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40002,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Old_Hunter_Pants.png",
-    "name": "Old Hunter Pants",
-    "type": "Vanity",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Old_Hunter_armor.png",
+    "name": "Old Hunter armor",
+    "type": "Vanity – Armor",
     "tooltip": [],
     "debuffs": [],
     "buffs": [],
@@ -56,18 +137,40 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bd/Old_Hunter_Hat.png",
+        "name": "Old Hunter Hat",
+        "type": "Vanity",
+        "bodySlot": "Social Helmet",
+        "tooltip": []
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Old_Hunter_Shirt.png",
+        "name": "Old Hunter Shirt",
+        "type": "Vanity",
+        "bodySlot": "Social Shirt",
+        "tooltip": []
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Old_Hunter_Pants.png",
+        "name": "Old Hunter Pants",
+        "type": "Vanity",
+        "bodySlot": "Social Pants",
+        "tooltip": []
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40003,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Desert_Prowler_Pants.png",
-    "name": "Desert Prowler Pants",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Desert_Prowler_armor.png",
+    "name": "Desert Prowler armor",
     "type": "Armor",
+    "defense": "6",
     "tooltip": [
-      [
-        "10% increased movement speed and immunity to the Mighty Wind debuff"
-      ]
+      null
     ],
     "debuffs": [],
     "buffs": [],
@@ -75,134 +178,365 @@
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
       "tier": "1"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ee/Desert_Tornado.png",
+        "name": "Desert Tornado"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9c/Desert_Prowler_Hat.png",
+        "name": "Desert Prowler Hat",
+        "type": "Armor",
+        "defense": "11",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "4% increased ranged critical strike chance and 20% chance to not consume ammo"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Desert_Prowler_Shirt.png",
+        "name": "Desert Prowler Shirt",
+        "type": "Armor",
+        "defense": "22",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased ranged critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Desert_Prowler_Pants.png",
+        "name": "Desert Prowler Pants",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased movement speed and immunity to the Mighty Wind debuff"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40004,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0b/Victide_Headcrab.png",
-    "name": "Victide Headcrab",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Victide_armor.png",
+    "name": "Victide armor",
     "type": "Armor",
+    "defense": "13/12/11/10/12",
     "tooltip": [
-      [
-        "5% increased rogue damage"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Poisoned",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
-        "chance": "100% chance",
-        "duration": "3 seconds (Urchin darts)",
-        "tooltip": "Slowly losing life"
-      }
-    ],
-    "buffs": [
-      {
-        "duration": "Infinite (Mask)",
-        "tooltip": "Meow?"
-      }
-    ],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
-      "tier": "2"
-    },
-    "projectiles": [],
-    "crafting": [],
-    "usedIn": [],
-    "droppedBy": [],
-    "summons": []
-  },
-  {
-    "id": 40005,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Sulphurous_Leggings.png",
-    "name": "Sulphurous Leggings",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "Movement speed increased by 10%",
-        "Movement speed increased by 35% while submerged in liquid"
-      ]
-    ],
-    "debuffs": [
-      {
-        "name": "Poisoned",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
-        "chance": "100% chance",
-        "duration": "2 seconds (Hit)",
-        "tooltip": "Slowly losing life"
-      },
-      {
-        "name": "Venom",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
-        "chance": "100% chance",
-        "duration": "2.5 seconds (Bubble)",
-        "tooltip": "Losing life"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
       "tier": "2"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Seashell_%28projectile%29.png",
+        "name": "Seashell (projectile)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/22/Urchin_Spike.png",
+        "name": "Urchin Spike"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Victide_Breastplate.png",
+        "name": "Victide Breastplate",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased damage reduction and critical strike chance",
+            "+5 defense and 10% increased damage reduction while submerged in liquid"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Victide_Greaves.png",
+        "name": "Victide Greaves",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Movement speed increased by 8%",
+            "Movement speed increased by 30% while submerged in liquid"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Victide_Shellmet.png",
+        "name": "Victide Shellmet",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased melee damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Victide_Coral_Turban.png",
+        "name": "Victide Coral Turban",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased ranged damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Victide_Hermit_Helmet.png",
+        "name": "Victide Hermit Helmet",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased magic damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Victide_Mask.png",
+        "name": "Victide Mask",
+        "type": "Armor",
+        "defense": "1",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased minion damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0b/Victide_Headcrab.png",
+        "name": "Victide Headcrab",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased rogue damage"
+          ]
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 40005,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Sulphurous_armor.png",
+    "name": "Sulphurous armor",
+    "type": "Armor",
+    "defense": "16",
+    "tooltip": [
+      null
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Sulphuric_Acid_Bubble.gif",
+        "name": "Sulphuric Acid Bubble"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/be/Sulphurous_Helmet.png",
+        "name": "Sulphurous Helmet",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "4% increased rogue damage",
+            "2% increased rogue critical strike chance",
+            "Grants underwater breathing"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Sulphurous_Breastplate.png",
+        "name": "Sulphurous Breastplate",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "8% increased rogue damage and 5% increased rogue critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Sulphurous_Leggings.png",
+        "name": "Sulphurous Leggings",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Movement speed increased by 10%",
+            "Movement speed increased by 35% while submerged in liquid"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40006,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b3/Aerospec_Headgear.png",
-    "name": "Aerospec Headgear",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Aerospec_armor.png",
+    "name": "Aerospec armor",
     "type": "Armor",
+    "defense": "20/18/16/15/17",
     "tooltip": [
-      [
-        "8% increased rogue damage and 5% increased movement speed"
-      ]
+      null
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Valkyrie (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/12/Valkyrie_%28buff%29.png",
-        "duration": "Infinite (Helmet)",
-        "tooltip": "The valkyrie will protect you"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
       "tier": "3"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Sticky_Feather.png",
+        "name": "Sticky Feather"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Aerospec_Breastplate.png",
+        "name": "Aerospec Breastplate",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "3% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Aerospec_Leggings.png",
+        "name": "Aerospec Leggings",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "12% increased movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Aerospec_Helm.png",
+        "name": "Aerospec Helm",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "8% increased melee damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Aerospec_Hood.png",
+        "name": "Aerospec Hood",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "8% increased ranged damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dd/Aerospec_Hat.png",
+        "name": "Aerospec Hat",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "8% increased magic damage and +20 max mana"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Aerospec_Helmet.png",
+        "name": "Aerospec Helmet",
+        "type": "Armor",
+        "defense": "2",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased movement speed and minion damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b3/Aerospec_Headgear.png",
+        "name": "Aerospec Headgear",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "8% increased rogue damage and 5% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40007,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Statigel_Mask.png",
-    "name": "Statigel Mask",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Statigel_Armor.png",
+    "name": "Statigel Armor",
     "type": "Armor",
+    "defense": "10",
     "tooltip": [
       [
-        "10% increased rogue damage and 34% chance to not consume thrown items",
-        "7% increased rogue critical strike chance and 5% increased movement speed"
+        "5% increased critical strike chance"
       ]
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Baby Slime God (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c7/Baby_Slime_God_%28buff%29.png",
-        "duration": "Infinite (Hood)",
-        "tooltip": "The slime god will protect you"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
       "tier": "4"
@@ -210,35 +544,98 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Statigel_Greaves.png",
+        "name": "Statigel Greaves",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased damage and movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Statigel_Helm.png",
+        "name": "Statigel Helm",
+        "type": "Armor",
+        "defense": "9",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased melee damage and melee speed",
+            "7% increased melee critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ea/Statigel_Headgear.png",
+        "name": "Statigel Headgear",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased ranged damage",
+            "7% increased ranged critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Statigel_Cap.png",
+        "name": "Statigel Cap",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased magic damage and 10% decreased mana cost",
+            "7% increased magic critical strike chance and +30 max mana"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Statigel_Hood.png",
+        "name": "Statigel Hood",
+        "type": "Armor",
+        "defense": "4",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Increased minion knockback"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Statigel_Mask.png",
+        "name": "Statigel Mask",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased rogue damage and 34% chance to not consume thrown items",
+            "7% increased rogue critical strike chance and 5% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40008,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Mollusk_Shelleggings.png",
-    "name": "Mollusk Shelleggings",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Mollusk_armor.png",
+    "name": "Mollusk armor",
     "type": "Armor",
+    "defense": "55",
     "tooltip": [
-      [
-        "12% increased damage and 4% increased critical strike chance",
-        "7% decreased movement speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Shellfish Claps",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Shellfish_Claps.png",
-        "chance": "Shellfish Clap",
-        "tooltip": "Clamfest"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Shellfish (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Shellfish_%28buff%29.png",
-        "tooltip": "The shellfish will protect you"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
       "tier": "5"
@@ -246,28 +643,60 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/be/Mollusk_Shellmet.png",
+        "name": "Mollusk Shellmet",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased damage and 4% increased critical strike chance",
+            "You can move freely through liquids"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Mollusk_Shellplate.png",
+        "name": "Mollusk Shellplate",
+        "type": "Armor",
+        "defense": "22",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "10% increased damage and 6% increased critical strike chance ",
+            " 15% decreased movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Mollusk_Shelleggings.png",
+        "name": "Mollusk Shelleggings",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "12% increased damage and 4% increased critical strike chance",
+            "7% decreased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40009,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Titan_Heart_Boots.png",
-    "name": "Titan Heart Boots",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Titan_Heart_armor.png",
+    "name": "Titan Heart armor",
     "type": "Armor",
+    "defense": "43",
     "tooltip": [
-      [
-        "4% increased rogue damage, 10% increased rogue velocity, and 5% increased rogue knockback"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Astral Infection (debuff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
-        "chance": "100% chance",
-        "duration": "2 seconds (Rogue strikes)5 seconds (Explosion)",
-        "tooltip": "Your flesh is melting off"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
@@ -276,75 +705,177 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Titan_Heart_Mask.png",
+        "name": "Titan Heart Mask",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased rogue damage and knockback",
+            "Rogue weapons inflict the Astral Infection debuff"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/02/Titan_Heart_Mantle.png",
+        "name": "Titan Heart Mantle",
+        "type": "Armor",
+        "defense": "17",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "45% chance to not consume rogue items",
+            "5% boosted rogue knockback but 15% lowered rogue attack speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Titan_Heart_Boots.png",
+        "name": "Titan Heart Boots",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "4% increased rogue damage, 10% increased rogue velocity, and 5% increased rogue knockback"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40010,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Daedalus_Facemask.png",
-    "name": "Daedalus Facemask",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Daedalus_armor.png",
+    "name": "Daedalus armor",
     "type": "Armor",
+    "defense": "55/43/39/37/41",
     "tooltip": [
-      [
-        "13% increased rogue damage and 7% increased rogue critical strike chance, increases rogue velocity by 15%",
-        "5% increased movement speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Frostburn",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "chance": "100% chance",
-        "duration": "3 seconds (Daedalus crystal)",
-        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Daedalus Crystal (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Daedalus_Crystal_%28buff%29.png",
-        "duration": "Infinite (Mask)",
-        "tooltip": "The daedalus crystal will protect you"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
       "tier": "5"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Crystal_Fragment.png",
+        "name": "Crystal Fragment"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Daedalus_Breastplate.png",
+        "name": "Daedalus Breastplate",
+        "type": "Armor",
+        "defense": "19",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "3% increased damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Daedalus_Leggings.png",
+        "name": "Daedalus Leggings",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "3% increased critical strike chance",
+            "10% increased movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Daedalus_Helm.png",
+        "name": "Daedalus Helm",
+        "type": "Armor",
+        "defense": "21",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased melee damage and critical strike chance",
+            "15% increased melee speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Daedalus_Headgear.png",
+        "name": "Daedalus Headgear",
+        "type": "Armor",
+        "defense": "9",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "13% increased ranged damage and 7% increased ranged critical strike chance",
+            "Reduces ammo cost by 20%"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2f/Daedalus_Hood.png",
+        "name": "Daedalus Hood",
+        "type": "Armor",
+        "defense": "5",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "13% increased magic damage and 7% increased mage critical strike chance",
+            "10% decreased mana usage and +60 max mana"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Daedalus_Mask.png",
+        "name": "Daedalus Mask",
+        "type": "Armor",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased minion damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Daedalus_Facemask.png",
+        "name": "Daedalus Facemask",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "13% increased rogue damage and 7% increased rogue critical strike chance, increases rogue velocity by 15%",
+            "5% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40011,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Brimflame_Boots.png",
-    "name": "Brimflame Boots",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Brimflame_armor.png",
+    "name": "Brimflame armor",
     "type": "Armor",
+    "defense": "41",
     "tooltip": [
-      [
-        "5% increased magic damage",
-        "5% increased movement speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Brimflame Frenzy Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Brimflame_Frenzy_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "30 seconds (After usage)",
-        "tooltip": "Your use of brimstone magic has left you exhausted"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Brimflame Frenzy",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Brimflame_Frenzy.png",
-        "duration": "10 seconds (Upon activation)",
-        "tooltip": "Dark magic empowers your attacks at the cost of your life"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
       "tier": "7"
@@ -352,20 +883,59 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c7/Brimflame_Cowl.png",
+        "name": "Brimflame Cowl",
+        "type": "Armor",
+        "defense": "11",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased magic damage and critical strike chance",
+            "Increases maximum mana by 70 and reduces mana usage by 10%",
+            "Immunity to On Fire!, Brimstone Flames, and Frostburn"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Brimflame_Robes.png",
+        "name": "Brimflame Robes",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "5% increased magic damage and critical strike chance",
+            "Grants obsidian rose effects"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Brimflame_Boots.png",
+        "name": "Brimflame Boots",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased magic damage",
+            "5% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40012,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Fathom_Swarmer_Greaves.png",
-    "name": "Fathom Swarmer Greaves",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Fathom_Swarmer_armor.png",
+    "name": "Fathom Swarmer armor",
     "type": "Armor",
+    "defense": "47",
     "tooltip": [
-      [
-        "4% increased minion damage",
-        "Grants the ability to swim",
-        "Movement speed increased by 40% while submerged in liquid"
-      ]
+      null
     ],
     "debuffs": [],
     "buffs": [],
@@ -376,36 +946,63 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/90/Fathom_Swarmer_Visage.png",
+        "name": "Fathom Swarmer Visage",
+        "type": "Armor",
+        "defense": "10",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased minion damage",
+            "Provides breathing and light underwater"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Fathom_Swarmer_Breastplate.png",
+        "name": "Fathom Swarmer Breastplate",
+        "type": "Armor",
+        "defense": "22",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "6% increased damage reduction",
+            "6% increased minion damage",
+            "Boosted defense and regen increased while submerged in liquid",
+            "Reduces defense loss within the Abyss"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Fathom_Swarmer_Greaves.png",
+        "name": "Fathom Swarmer Greaves",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "4% increased minion damage",
+            "Grants the ability to swim",
+            "Movement speed increased by 40% while submerged in liquid"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40013,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Umbraphile_Boots.png",
-    "name": "Umbraphile Boots",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Umbraphile_armor.png",
+    "name": "Umbraphile armor",
     "type": "Armor",
+    "defense": "36",
     "tooltip": [
-      [
-        "9% increased rogue damage and 6% increased rogue crit",
-        "20% increased movement speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Daybroken",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
-        "chance": "100% chance",
-        "duration": "3 seconds (Explosion)",
-        "tooltip": "Incinerated by solar rays"
-      },
-      {
-        "name": "Nightwither",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
-        "chance": "100% chance",
-        "duration": "3 seconds (Explosion)",
-        "tooltip": "Incinerated by lunar rays"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
@@ -414,36 +1011,59 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fb/Umbraphile_Hood.png",
+        "name": "Umbraphile Hood",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "8% increased rogue damage and 10% increased rogue velocity"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Umbraphile_Regalia.png",
+        "name": "Umbraphile Regalia",
+        "type": "Armor",
+        "defense": "16",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "10% increased rogue damage and 10% increased rogue crit"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/25/Umbraphile_Boots.png",
+        "name": "Umbraphile Boots",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "9% increased rogue damage and 6% increased rogue crit",
+            "20% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40014,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ab/Reaver_Headgear.png",
-    "name": "Reaver Headgear",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Reaver_armor.png",
+    "name": "Reaver armor",
     "type": "Armor",
+    "defense": "73/46/40",
     "tooltip": [
-      [
-        "10% increased pick speed and 20% increased block/wall placement speed",
-        "Temporary immunity to lava and can move freely through liquids",
-        "Provides heat protection in Death Mode"
-      ]
+      null
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Reaver Rage",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/22/Reaver_Rage.png",
-        "duration": "3 seconds (when hit while wearing Helm)",
-        "tooltip": "You are angry"
-      },
-      {
-        "name": "Reaver Orb (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Reaver_Orb_%28buff%29.png",
-        "duration": "3 seconds (when hit while wearing Helm)",
-        "tooltip": "The reaver orb will light your way"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
       "tier": "7"
@@ -451,51 +1071,91 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Reaver_Scale_Mail.png",
+        "name": "Reaver Scale Mail",
+        "type": "Armor",
+        "defense": "19",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "9% increased damage and 4% increased critical strike chance",
+            "+20 max life"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Reaver_Cuisses.png",
+        "name": "Reaver Cuisses",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased critical strike chance",
+            "12% increased movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a7/Reaver_Helm.png",
+        "name": "Reaver Helm",
+        "type": "Armor",
+        "defense": "30",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased damage reduction but 30% decreased damage",
+            "+50 max life",
+            "Passively regenerates one health point every second"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Reaver_Visage.png",
+        "name": "Reaver Visage",
+        "type": "Armor",
+        "defense": "13",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased jump speed and 15% increased movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ab/Reaver_Headgear.png",
+        "name": "Reaver Headgear",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased pick speed and 20% increased block/wall placement speed",
+            "Temporary immunity to lava and can move freely through liquids",
+            "Provides heat protection in Death Mode"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40015,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Hydrothermic_Hood.png",
-    "name": "Hydrothermic Hood",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Hydrothermic_Armor.png",
+    "name": "Hydrothermic Armor",
     "type": "Armor",
+    "defense": "20",
     "tooltip": [
       [
-        "12% increased rogue damage and 10% increased rogue critical strike chance",
-        "50% chance to not consume rogue items and 5% increased movement speed",
-        "Temporary immunity to lava and immunity to fire damage"
+        "+20 max life",
+        "8% increased damage and 4% increased critical strike chance"
       ]
     ],
-    "debuffs": [
-      {
-        "name": "On Fire!",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
-        "chance": "100% chance",
-        "duration": "4, 8, or 12 seconds (Helm melee attacks)3 seconds (Chaos Blaze, Chaos Geysers, Chaos Flares, Chaos Orbs, Chaos Flames, Homing Chaos Flares)",
-        "tooltip": "Slowly losing life"
-      },
-      {
-        "name": "Brimstone Flames",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
-        "chance": "100% chance",
-        "duration": "2 seconds (Inferno)1.5 seconds (Chaos Flares)",
-        "tooltip": "Rapid health loss"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Hydrothermic Vent (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Hydrothermic_Vent_%28buff%29.png",
-        "duration": "Infinite (Helmet)",
-        "tooltip": "The hydrothermic vent will protect you"
-      },
-      {
-        "name": "Inferno",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Inferno.png",
-        "duration": "Infinite (Under 50% Health)",
-        "tooltip": "Nearby enemies are ignited"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
       "tier": "8"
@@ -503,126 +1163,313 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Hydrothermic_Subligar.png",
+        "name": "Hydrothermic Subligar",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased critical strike chance",
+            "10% increased movement speed"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Hydrothermic_Helm.png",
+        "name": "Hydrothermic Helm",
+        "type": "Armor",
+        "defense": "33",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased melee damage and 10% increased melee critical strike chance",
+            "18% increased melee speed",
+            "Melee attacks and melee projectiles inflict on fire",
+            "Temporary immunity to lava and immunity to fire damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ae/Hydrothermic_Headgear.png",
+        "name": "Hydrothermic Headgear",
+        "type": "Armor",
+        "defense": "15",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased ranged damage and 10% increased ranged critical strike chance",
+            "Reduces ammo cost by 25%, temporary immunity to lava and immunity to fire damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Hydrothermic_Mask.png",
+        "name": "Hydrothermic Mask",
+        "type": "Armor",
+        "defense": "9",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased magic damage, +100 max mana, and 10% increased magic critical strike chance",
+            "Temporary immunity to lava and immunity to fire damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b3/Hydrothermic_Helmet.png",
+        "name": "Hydrothermic Helmet",
+        "type": "Armor",
+        "defense": "6",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "5% increased minion damage and increased minion knockback",
+            "Temporary immunity to lava and immunity to fire damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/eb/Hydrothermic_Hood.png",
+        "name": "Hydrothermic Hood",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased rogue damage and 10% increased rogue critical strike chance",
+            "50% chance to not consume rogue items and 5% increased movement speed",
+            "Temporary immunity to lava and immunity to fire damage"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40016,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Plague_Reaper_Striders.png",
-    "name": "Plague Reaper Striders",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Plague_Reaper_armor.png",
+    "name": "Plague Reaper armor",
     "type": "Armor",
+    "defense": "34",
     "tooltip": [
-      [
-        "3% increased critical strike chance",
-        "15% increased movement speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Plague",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
-        "chance": "100% chance",
-        "duration": "2 seconds (Plague Cinders)",
-        "tooltip": "Rotting from the inside"
-      },
-      {
-        "name": "Plague Blackout Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Plague_Blackout_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "25 seconds (After usage)",
-        "tooltip": "Your plague blackout ability is recharging"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
       "tier": "8"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Plague_Cinder.gif",
+        "name": "Plague Cinder"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/63/Plague_Reaper_Mask.png",
+        "name": "Plague Reaper Mask",
+        "type": "Armor",
+        "defense": "9",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "10% increased ranged damage and 8% increased ranged critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/96/Plague_Reaper_Vest.png",
+        "name": "Plague Reaper Vest",
+        "type": "Armor",
+        "defense": "14",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Reduces the damage caused to you by the plague",
+            "15% increased ranged damage and 5% increased ranged critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Plague_Reaper_Striders.png",
+        "name": "Plague Reaper Striders",
+        "type": "Armor",
+        "defense": "11",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "3% increased critical strike chance",
+            "15% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40017,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b7/Plaguebringer_Pistons.png",
-    "name": "Plaguebringer Pistons",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Plaguebringer_armor.png",
+    "name": "Plaguebringer armor",
     "type": "Armor",
+    "defense": "32",
     "tooltip": [
-      [
-        "13% increased minion damage and 15% increased movement speed",
-        "You grow flowers on the grass beneath you, chance to grow very random dye plants on grassless dirt",
-        "You spawn bees while sprinting or dashing"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Plague",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
-        "chance": "100% chance",
-        "duration": "5 seconds (Bees, Wasps, Dash)2 seconds (On minion hits)",
-        "tooltip": "Rotting from the inside"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Lil' Plaguebringer (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/02/Lil%27_Plaguebringer_%28buff%29.png",
-        "tooltip": "The plaguebringer will protect you"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
       "tier": "8"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Bee_%28Small%29.png",
+        "name": "Bee 1"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/79/Plaguebringer_Visor.png",
+        "name": "Plaguebringer Visor",
+        "type": "Armor",
+        "defense": "7",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased minion damage",
+            "+20 max life"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Plaguebringer_Carapace.png",
+        "name": "Plaguebringer Carapace",
+        "type": "Armor",
+        "defense": "17",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Reduces the damage caused to you by the plague",
+            "12% increased minion damage",
+            "Friendly bees inflict the plague"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b7/Plaguebringer_Pistons.png",
+        "name": "Plaguebringer Pistons",
+        "type": "Armor",
+        "defense": "8",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "13% increased minion damage and 15% increased movement speed",
+            "You grow flowers on the grass beneath you, chance to grow very random dye plants on grassless dirt",
+            "You spawn bees while sprinting or dashing"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40018,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Astral_Leggings.png",
-    "name": "Astral Leggings",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Astral_armor.png",
+    "name": "Astral armor",
     "type": "Armor",
+    "defense": "63",
     "tooltip": [
-      [
-        "10% increased movement speed",
-        "Treasure and ore detection"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Astral Infection (debuff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
-        "chance": "100% chance",
-        "duration": "2 seconds (Astral stars)",
-        "tooltip": "Your flesh is melting off"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
       "tier": "9"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Astral_Star.png",
+        "name": "Astral Star"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/32/Fallen_Star_%28Calamity%29.png",
+        "name": "Fallen Star (Calamity)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Hallow_Star.png",
+        "name": "Hallow Star"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Astral_Helm.png",
+        "name": "Astral Helm",
+        "type": "Armor",
+        "defense": "17",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Danger detection"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Astral_Breastplate.png",
+        "name": "Astral Breastplate",
+        "type": "Armor",
+        "defense": "25",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "+80 max mana and +20 max life",
+            "Creature detection"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Astral_Leggings.png",
+        "name": "Astral Leggings",
+        "type": "Armor",
+        "defense": "21",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased movement speed",
+            "Treasure and ore detection"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40019,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Winter_Soldier%27s_Leggings.png",
-    "name": "Winter Soldier's Leggings",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Winter_Soldier_armor.png",
+    "name": "Winter Soldier armor",
     "type": "Armor",
+    "defense": "130",
     "tooltip": [
-      [
-        "12% increased movement speed",
-        "12% increased damage and critical strike chance"
-      ]
+      null
     ],
     "debuffs": [],
     "buffs": [],
@@ -633,36 +1480,59 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Winter_Soldier%27s_Visage.png",
+        "name": "Winter Soldier's Visage",
+        "type": "Armor",
+        "defense": "19",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "12% increased damage and 8% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Winter_Soldier%27s_Chestplate.png",
+        "name": "Winter Soldier's Chestplate",
+        "type": "Armor",
+        "defense": "28",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "+2 max minions, 12% increased damage, and 8% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Winter_Soldier%27s_Leggings.png",
+        "name": "Winter Soldier's Leggings",
+        "type": "Armor",
+        "defense": "22",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "12% increased movement speed",
+            "12% increased damage and critical strike chance"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40020,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Empyrean_Cuisses.png",
-    "name": "Empyrean Cuisses",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Empyrean_armor.png",
+    "name": "Empyrean armor",
     "type": "Armor",
+    "defense": "71",
     "tooltip": [
-      [
-        "Speed of the cosmos",
-        "5% increased rogue damage and critical strike chance",
-        "15% increased movement speed"
-      ]
+      null
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Empyrean Rage",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Empyrean_Rage.png",
-        "duration": "4 seconds (when hit)",
-        "tooltip": "Rage of the Cosmos"
-      },
-      {
-        "name": "Empyrean Wrath",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2f/Empyrean_Wrath.png",
-        "duration": "4 seconds (when hit)",
-        "tooltip": "Wrath of the Cosmos"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
       "tier": "0"
@@ -670,157 +1540,271 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Empyrean_Mask.png",
+        "name": "Empyrean Mask",
+        "type": "Armor",
+        "defense": "20",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Wrath of the cosmos",
+            "11% increased rogue damage and critical strike chance, 5% increased movement speed",
+            "Temporary immunity to lava"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Empyrean_Cloak.png",
+        "name": "Empyrean Cloak",
+        "type": "Armor",
+        "defense": "27",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Armor of the cosmos",
+            "+20 max life",
+            "7% increased rogue damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Empyrean_Cuisses.png",
+        "name": "Empyrean Cuisses",
+        "type": "Armor",
+        "defense": "24",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Speed of the cosmos",
+            "5% increased rogue damage and critical strike chance",
+            "15% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40021,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Tarragon_Helmet.png",
-    "name": "Tarragon Helmet",
-    "type": "Armor – Crafting material",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Tarragon_armor.png",
+    "name": "Tarragon armor",
+    "type": "Armor",
+    "defense": "102/90/79/72/84",
     "tooltip": [
-      [
-        "Temporary immunity to lava",
-        "Can move freely through liquids, 5% increased movement speed",
-        "10% increased rogue damage and critical strike chance",
-        "5% increased damage reduction&lt;"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Tarragon Cloak Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/95/Tarragon_Cloak_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "30 seconds (After cloak's usage)",
-        "tooltip": "Your cloak is recharging"
-      },
-      {
-        "name": "Tarragon Immunity Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fa/Tarragon_Immunity_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "25 seconds (After immunity's usage)",
-        "tooltip": "Your immunity is recharging"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Tarra Life",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/22/Tarra_Life.png",
-        "duration": "2-6 seconds (when hit while wearing Helm)",
-        "tooltip": "Rapid healing"
-      },
-      {
-        "name": "Tarragon Cloak",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Tarragon_Cloak.png",
-        "duration": "10 seconds (Upon activation while wearing Helm)",
-        "tooltip": "Contact damage is reduced"
-      },
-      {
-        "name": "Tarragon Immunity",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Tarragon_Immunity.png",
-        "duration": "3 seconds (25th rogue critical strike while wearing Helmet)",
-        "tooltip": "You are immune"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
       "tier": "2"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Leaf_%28projectile%29.gif",
+        "name": "Leaf (projectile)"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Tarragon_Breastplate.png",
+        "name": "Tarragon Breastplate",
+        "type": "Armor – Crafting material",
+        "defense": "37",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "Breastplate of the exiler",
+            "10% increased damage and 5% increased critical strike chance",
+            "+2 life regen and +40 max life"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4c/Tarragon_Leggings.png",
+        "name": "Tarragon Leggings",
+        "type": "Armor – Crafting material",
+        "defense": "32",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Leggings of a fabled explorer",
+            "10% increased movement speed",
+            "8% increased damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Tarragon_Helm.png",
+        "name": "Tarragon Helm",
+        "type": "Armor – Crafting material",
+        "defense": "33",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Helm of the disciple of ancients",
+            "Temporary immunity to lava",
+            "Can move freely through liquids",
+            "5% increased damage reduction",
+            "10% increased melee damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Tarragon_Visage.png",
+        "name": "Tarragon Visage",
+        "type": "Armor – Crafting material",
+        "defense": "21",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Temporary immunity to lava",
+            "Can move freely through liquids",
+            "10% increased ranged damage and critical strike chance",
+            "5% increased damage reduction"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Tarragon_Mask.png",
+        "name": "Tarragon Mask",
+        "type": "Armor – Crafting material",
+        "defense": "10",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Temporary immunity to lava",
+            "Can move freely through liquids",
+            "20% increased magic damage and 10% increased critical strike chance",
+            "5% increased damage reduction, +100 max mana, and 15% reduced mana usage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Tarragon_Horned_Helm.png",
+        "name": "Tarragon Horned Helm",
+        "type": "Armor – Crafting material",
+        "defense": "3",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Temporary immunity to lava",
+            "Can move freely through liquids",
+            "5% increased damage reduction and minion damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Tarragon_Helmet.png",
+        "name": "Tarragon Helmet",
+        "type": "Armor – Crafting material",
+        "defense": "15",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Temporary immunity to lava",
+            "Can move freely through liquids, 5% increased movement speed",
+            "10% increased rogue damage and critical strike chance",
+            "5% increased damage reduction&lt;"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40022,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Prismatic_Greaves.png",
-    "name": "Prismatic Greaves",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Prismatic_armor.png",
+    "name": "Prismatic armor",
     "type": "Armor",
+    "defense": "72",
     "tooltip": [
-      [
-        "10% increased magic damage and 12% increased magic crit",
-        "20% decreased non-magic damage",
-        "10% increased flight time and 2% increased jump speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Prismatic Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Prismatic_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "30 seconds (After usage)",
-        "tooltip": "Your laser attack is recharging"
-      },
-      {
-        "name": "On Fire!",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
-        "chance": "100% chance",
-        "duration": "10 seconds (Death lasers)",
-        "tooltip": "Slowly losing life"
-      },
-      {
-        "name": "Frostburn",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
-        "chance": "100% chance",
-        "duration": "10 seconds (Death lasers)",
-        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
-      }
-    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
       "tier": "2"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Reaver_Rocket.gif",
+        "name": "Reaver Rocket"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/78/Prismatic_Helmet.png",
+        "name": "Prismatic Helmet",
+        "type": "Armor",
+        "defense": "18",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "18% increased magic damage and 12% increased magic crit",
+            "20% decreased non-magic damage",
+            "Enemies with less than 500 health deal no damage",
+            "This does not occur while a boss is alive"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Prismatic_Regalia.png",
+        "name": "Prismatic Regalia",
+        "type": "Armor",
+        "defense": "33",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "12% increased magic damage and 15% increased magic crit",
+            "20% decreased non-magic damage",
+            "+20 max life and +40 max mana",
+            "Magic attacks occasionally fire a pair of homing rockets"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Prismatic_Greaves.png",
+        "name": "Prismatic Greaves",
+        "type": "Armor",
+        "defense": "21",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased magic damage and 12% increased magic crit",
+            "20% decreased non-magic damage",
+            "10% increased flight time and 2% increased jump speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40023,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Bloodflare_Imp_Mask.png",
-    "name": "Bloodflare Imp Mask",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Bloodflare_Body_Armor.png",
+    "name": "Bloodflare Body Armor",
     "type": "Armor – Crafting material",
+    "defense": "35",
     "tooltip": [
       [
-        "You can move freely through liquids and have temporary immunity to lava",
-        "10% increased rogue damage and critical strike chance",
-        "5% increased movement speed"
+        "12% increased damage and 8% increased critical strike chance",
+        "You regenerate life quickly and gain +30 defense while in lava",
+        "+40 max life"
       ]
     ],
-    "debuffs": [
-      {
-        "name": "On Fire!",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
-        "chance": "50% chance",
-        "duration": "5 seconds (Horned Mask fireballs)",
-        "tooltip": "Slowly losing life"
-      },
-      {
-        "name": "Blood Frenzy Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Blood_Frenzy_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "30 seconds (After Blood Frenzy's usage)",
-        "tooltip": "Your blood frenzy is recharging"
-      },
-      {
-        "name": "Bloodflare Soul Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Bloodflare_Soul_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "30 seconds (After Bloodflare Soul's usage)",
-        "tooltip": "Your souls are recharging"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Blood Frenzy",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Blood_Frenzy.png",
-        "duration": "5 seconds (15th true melee strike while wearing Mask)",
-        "tooltip": "Contact damage is reduced and melee stats are greatly increased"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
       "tier": "3"
@@ -828,44 +1812,100 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Bloodflare_Cuisses.png",
+        "name": "Bloodflare Cuisses",
+        "type": "Armor – Crafting material",
+        "defense": "29",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "17% increased movement speed, 10% increased damage and 7% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e4/Bloodflare_Ram_Mask.png",
+        "name": "Bloodflare Ram Mask",
+        "type": "Armor – Crafting material",
+        "defense": "49",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "You can move freely through liquids and have temporary immunity to lava",
+            "10% increased melee damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Bloodflare_Horned_Helm.png",
+        "name": "Bloodflare Horned Helm",
+        "type": "Armor – Crafting material",
+        "defense": "34",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "You can move freely through liquids and have temporary immunity to lava",
+            "10% increased ranged damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d3/Bloodflare_Hydra_Hood.png",
+        "name": "Bloodflare Hydra Hood",
+        "type": "Armor – Crafting material",
+        "defense": "22",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "You can move freely through liquids and have temporary immunity to lava",
+            "10% increased magic damage and critical strike chance, +100 max mana, and 17% reduced mana usage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Bloodflare_Wyvern_Helm.png",
+        "name": "Bloodflare Wyvern Helm",
+        "type": "Armor – Crafting material",
+        "defense": "16",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "You can move freely through liquids and have temporary immunity to lava",
+            "5% increased minion damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Bloodflare_Imp_Mask.png",
+        "name": "Bloodflare Imp Mask",
+        "type": "Armor – Crafting material",
+        "defense": "28",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "You can move freely through liquids and have temporary immunity to lava",
+            "10% increased rogue damage and critical strike chance",
+            "5% increased movement speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40024,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Omega_Blue_Tentacles.png",
-    "name": "Omega Blue Tentacles",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Omega_Blue_armor.png",
+    "name": "Omega Blue armor",
     "type": "Armor",
+    "defense": "69",
     "tooltip": [
-      [
-        "12% increased movement speed",
-        "12% increased damage and critical strike chance"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Abyssal Madness Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Abyssal_Madness_Cooldown.png",
-        "chance": "100% chance",
-        "duration": "25 seconds (After usage)",
-        "tooltip": "Your abyssal madness is recharging"
-      },
-      {
-        "name": "Crush Depth",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
-        "chance": "100% chance",
-        "duration": "3 seconds (On hit)",
-        "tooltip": "Aquatic pressure"
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Abyssal Madness",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Abyssal_Madness.png",
-        "duration": "5 seconds (Upon activation)",
-        "tooltip": "Increased damage, critical strike chance, and tentacle aggression/range"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
       "tier": "3"
@@ -873,35 +1913,152 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Omega_Blue_Helmet.png",
+        "name": "Omega Blue Helmet",
+        "type": "Armor",
+        "defense": "19",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "You can move freely through liquids",
+            "12% increased damage and 8% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ab/Omega_Blue_Chestplate.png",
+        "name": "Omega Blue Chestplate",
+        "type": "Armor",
+        "defense": "28",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "12% increased damage and 8% increased critical strike chance",
+            "Your attacks inflict Crush Depth",
+            "No positive life regen"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Omega_Blue_Tentacles.png",
+        "name": "Omega Blue Tentacles",
+        "type": "Armor",
+        "defense": "22",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "12% increased movement speed",
+            "12% increased damage and critical strike chance"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40025,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/God_Slayer_Mask.png",
-    "name": "God Slayer Mask",
-    "type": "Armor – Crafting material",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/God_Slayer_armor.png",
+    "name": "God Slayer armor",
+    "type": "Armor",
+    "defense": "124/111/105",
     "tooltip": [
-      [
-        "14% increased rogue damage and critical strike chance, 5% increased movement speed"
-      ]
+      null
     ],
-    "debuffs": [
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
       {
-        "name": "God Slayer Cooldown",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/God_Slayer_Cooldown.png",
-        "chance": "God Slayer Cooldow",
-        "duration": "35 seconds (After God Slayer Dash usage)",
-        "tooltip": "God Slayer dash is recharging"
-      },
-      {
-        "name": "God Slayer Inferno",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
-        "chance": "100% chance",
-        "duration": "2 seconds (God Killer darts)5 seconds (God Slayer Dash)",
-        "tooltip": "Your flesh is burning off"
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/God_Killer_Dart.png",
+        "name": "God Killer Dart"
       }
     ],
+    "crafting": [],
+    "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/God_Slayer_Chestplate.png",
+        "name": "God Slayer Chestplate",
+        "type": "Armor – Crafting material",
+        "defense": "41",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "+60 max life",
+            "Enemies take damage when they hit you",
+            "11% increased damage and 6% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/God_Slayer_Leggings.png",
+        "name": "God Slayer Leggings",
+        "type": "Armor – Crafting material",
+        "defense": "35",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "5% increased movement speed",
+            "10% increased damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/God_Slayer_Horned_Greathelm.png",
+        "name": "God Slayer Horned Greathelm",
+        "type": "Armor – Crafting material",
+        "defense": "48",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "14% increased melee damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/God_Slayer_Helmet.png",
+        "name": "God Slayer Helmet",
+        "type": "Armor – Crafting material",
+        "defense": "35",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "14% increased ranged damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/God_Slayer_Mask.png",
+        "name": "God Slayer Mask",
+        "type": "Armor – Crafting material",
+        "defense": "29",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "14% increased rogue damage and critical strike chance, 5% increased movement speed"
+          ]
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 40026,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Fearmonger_armor.png",
+    "name": "Fearmonger armor",
+    "type": "Armor",
+    "defense": "132",
+    "tooltip": [
+      null
+    ],
+    "debuffs": [],
     "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
@@ -910,66 +2067,67 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
-    "droppedBy": [],
-    "summons": []
-  },
-  {
-    "id": 40026,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Fearmonger_Greaves.png",
-    "name": "Fearmonger Greaves",
-    "type": "Armor",
-    "tooltip": [
-      [
-        "6% increased damage",
-        "50% increased minion knockback",
-        "10% increased movement speed",
-        "Taking damage makes you move very fast for a short time"
-      ]
-    ],
-    "debuffs": [],
-    "buffs": [
+    "set": [
       {
-        "name": "Panic!",
-        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Panic%21.png",
-        "duration": "4 seconds (when hit)",
-        "tooltip": "Movement speed is increased"
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Fearmonger_Greathelm.png",
+        "name": "Fearmonger Greathelm",
+        "type": "Armor",
+        "defense": "38",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "Pure terror radiates from your eyes",
+            "+60 max mana and 10% decreased mana usage",
+            "10% increased minion damage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Fearmonger_Plate_Mail.png",
+        "name": "Fearmonger Plate Mail",
+        "type": "Armor",
+        "defense": "50",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "+100 max life and 8% increased damage reduction",
+            "5% increased damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Fearmonger_Greaves.png",
+        "name": "Fearmonger Greaves",
+        "type": "Armor",
+        "defense": "44",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "6% increased damage",
+            "50% increased minion knockback",
+            "10% increased movement speed",
+            "Taking damage makes you move very fast for a short time"
+          ]
+        ]
       }
     ],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
-      "tier": "4"
-    },
-    "projectiles": [],
-    "crafting": [],
-    "usedIn": [],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40027,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/05/Silva_Horned_Hood.png",
-    "name": "Silva Horned Hood",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/26/Silva_Armor.png",
+    "name": "Silva Armor",
     "type": "Armor – Crafting material",
+    "defense": "44",
     "tooltip": [
       [
-        "+10% minion damage"
+        "+80 max life",
+        "12% increased damage and 8% increased critical strike chance"
       ]
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Silva Crystal (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Silva_Crystal_%28buff%29.png",
-        "duration": "Infinite (Horned Hood)",
-        "tooltip": "The crystal will protect you"
-      },
-      {
-        "name": "Silva Immunity",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Silva_Immunity.png",
-        "duration": "8 seconds (On first death)",
-        "tooltip": "You are unkillable and immune to most debuffs"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
       "tier": "4"
@@ -977,35 +2135,64 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Silva_Leggings.png",
+        "name": "Silva Leggings",
+        "type": "Armor – Crafting material",
+        "defense": "39",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased movement speed",
+            "12% increased damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Silva_Masked_Cap.png",
+        "name": "Silva Masked Cap",
+        "type": "Armor – Crafting material",
+        "defense": "21",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "23% increased magic damage and 13% magic critical strike chance",
+            "+100 max mana and 19% reduced mana usage"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/05/Silva_Horned_Hood.png",
+        "name": "Silva Horned Hood",
+        "type": "Armor – Crafting material",
+        "defense": "13",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "+10% minion damage"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40028,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/02/Auric_Tesla_Plumed_Helm.png",
-    "name": "Auric Tesla Plumed Helm",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Auric_Tesla_Body_Armor.png",
+    "name": "Auric Tesla Body Armor",
     "type": "Armor",
+    "defense": "48",
     "tooltip": [
       [
-        "20% increased rogue damage and critical strike chance, 5% increased movement speed",
-        "Not moving boosts all damage and critical strike chance"
+        "+100 max life&lt;",
+        "8% increased damage and 5% increased critical strike chance",
+        "You will freeze enemies near you when you are struck"
       ]
     ],
     "debuffs": [],
-    "buffs": [
-      {
-        "name": "Silva Crystal (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Silva_Crystal_%28buff%29.png",
-        "duration": "Infinite (Space Helmet)",
-        "tooltip": "The crystal will protect you"
-      },
-      {
-        "name": "Silva Immunity",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Silva_Immunity.png",
-        "duration": "8 seconds (On first death)",
-        "tooltip": "You are unkillable and immune to most debuffs"
-      }
-    ],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
       "tier": "5"
@@ -1013,50 +2200,158 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c8/Auric_Tesla_Cuisses.png",
+        "name": "Auric Tesla Cuisses",
+        "type": "Armor",
+        "defense": "44",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "10% increased movement speed",
+            "12% increased damage and 5% increased critical strike chance",
+            "Magic carpet effect"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Auric_Tesla_Royal_Helm.png",
+        "name": "Auric Tesla Royal Helm",
+        "type": "Armor",
+        "defense": "54",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "20% increased melee damage and critical strike chance",
+            "Not moving boosts all damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Auric_Tesla_Hooded_Facemask.png",
+        "name": "Auric Tesla Hooded Facemask",
+        "type": "Armor",
+        "defense": "40",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "30% increased ranged damage and critical strike chance",
+            "Not moving boosts all damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Auric_Tesla_Wire-Hemmed_Visage.png",
+        "name": "Auric Tesla Wire-Hemmed Visage",
+        "type": "Armor",
+        "defense": "24",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "30% increased magic damage and critical strike chance, +100 max mana, and 20% reduced mana usage",
+            "Not moving boosts all damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ee/Auric_Tesla_Space_Helmet.png",
+        "name": "Auric Tesla Space Helmet",
+        "type": "Armor",
+        "defense": "12",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "15% increased minion damage",
+            "Not moving boosts all damage and critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/02/Auric_Tesla_Plumed_Helm.png",
+        "name": "Auric Tesla Plumed Helm",
+        "type": "Armor",
+        "defense": "34",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "20% increased rogue damage and critical strike chance, 5% increased movement speed",
+            "Not moving boosts all damage and critical strike chance"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   },
   {
     "id": 40029,
-    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Demonshade_Greaves.png",
-    "name": "Demonshade Greaves",
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Demonshade_armor.png",
+    "name": "Demonshade armor",
     "type": "Armor",
+    "defense": "150",
     "tooltip": [
-      [
-        "Shadow speed"
-      ]
+      null
     ],
-    "debuffs": [
-      {
-        "name": "Enraged",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Enraged.png",
-        "chance": "100% chance",
-        "duration": "10 seconds",
-        "tooltip": "All damage taken is increased by 25%"
-      },
-      {
-        "name": "Demon Flames",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Demon_Flames.png",
-        "chance": "100% chance",
-        "duration": "2, 4, or 6 seconds",
-        "tooltip": "Another flames debuff..."
-      }
-    ],
-    "buffs": [
-      {
-        "name": "Red Devil (buff)",
-        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Red_Devil_%28buff%29.png",
-        "duration": "Infinite",
-        "tooltip": "The red devil will protect you"
-      }
-    ],
+    "debuffs": [],
+    "buffs": [],
     "rarity": {
       "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
       "tier": "6"
     },
-    "projectiles": [],
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Unholy_Trident_%28projectile%29.png",
+        "name": "Unholy Trident (projectile)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Demon_Scythe_%28projectile%29.gif",
+        "name": "Demon Scythe (projectile)"
+      }
+    ],
     "crafting": [],
     "usedIn": [],
+    "set": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Demonshade_Helm.png",
+        "name": "Demonshade Helm",
+        "type": "Armor",
+        "defense": "50",
+        "bodySlot": "Helmet",
+        "tooltip": [
+          [
+            "30% increased damage and 15% increased critical strike chance"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Demonshade_Breastplate.png",
+        "name": "Demonshade Breastplate",
+        "type": "Armor",
+        "defense": "50",
+        "bodySlot": "Shirt",
+        "tooltip": [
+          [
+            "20% increased melee speed, 15% increased damage and critical strike chance",
+            "Enemies take ungodly damage when they touch you",
+            "Increased max life and mana by 200",
+            "Standing still lets you absorb the shadows and boost your life regen"
+          ]
+        ]
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Demonshade_Greaves.png",
+        "name": "Demonshade Greaves",
+        "type": "Armor",
+        "defense": "50",
+        "bodySlot": "Pants",
+        "tooltip": [
+          [
+            "Shadow speed"
+          ]
+        ]
+      }
+    ],
     "droppedBy": [],
     "summons": []
   }
