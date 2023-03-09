@@ -1,0 +1,4082 @@
+[
+  {
+    "id": 2000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Wand_of_Sparking.png",
+    "name": "Wand of Sparking",
+    "type": "Weapon Crafting material",
+    "damage": "14",
+    "mana": "2",
+    "useTime": "26 (Average)  /  28 (Average) ",
+    "knockback": "0 (No knockback)",
+    "critChance": "14%  / 4% ",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "Shoots a small spark"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "50%",
+        "duration": "0.5–3 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Wand_of_Sparking_%28projectile%29.png",
+        "name": "Spark"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Wand_of_Frosting.png",
+    "name": "Wand of Frosting",
+    "type": "Weapon",
+    "damage": "15",
+    "mana": "2",
+    "useTime": "26 (Average)",
+    "knockback": "0 (No knockback)",
+    "critChance": "14%",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "Shoots a little frost"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "50",
+        "duration": "2–3 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Wand_of_Frosting.png",
+        "name": "Wand of Frosting"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Wand_of_Sparking.png",
+              "name": "Wand of Sparking",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Ice_Torch.png",
+              "name": "Ice Torch",
+              "quantity": "99"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Wand_of_Frosting.png",
+          "name": "Wand of Frosting",
+          "quantity": ""
+        },
+        "cStations": []
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Amethyst_Staff.png",
+    "name": "Amethyst Staff",
+    "type": "Weapon",
+    "damage": "15",
+    "mana": "5",
+    "useTime": "37 (Very slow)",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Amethyst_Bolt.png",
+        "name": "Amethyst Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Copper_Bar.png",
+              "name": "Copper Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Amethyst.png",
+              "name": "Amethyst",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Amethyst_Staff.png",
+          "name": "Amethyst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Topaz_Staff.png",
+    "name": "Topaz Staff",
+    "type": "Weapon",
+    "damage": "16",
+    "mana": "5",
+    "useTime": "36 (Very slow)",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "6.5",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Topaz_Bolt.png",
+        "name": "Topaz Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d6/Tin_Bar.png",
+              "name": "Tin Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Topaz.png",
+              "name": "Topaz",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Topaz_Staff.png",
+          "name": "Topaz Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Sapphire_Staff.png",
+    "name": "Sapphire Staff",
+    "type": "Weapon",
+    "damage": "18",
+    "mana": "6",
+    "useTime": "34 (Slow)",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "7.5",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Sapphire_Bolt.png",
+        "name": "Sapphire Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Silver_Bar.png",
+              "name": "Silver Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f7/Sapphire.png",
+              "name": "Sapphire",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Sapphire_Staff.png",
+          "name": "Sapphire Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Emerald_Staff.png",
+    "name": "Emerald Staff",
+    "type": "Weapon",
+    "damage": "19",
+    "mana": "6",
+    "useTime": "32 (Slow)",
+    "knockback": "4.25 (Average)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/50/Emerald_Bolt.png",
+        "name": "Emerald Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f3/Tungsten_Bar.png",
+              "name": "Tungsten Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Emerald.png",
+              "name": "Emerald",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Emerald_Staff.png",
+          "name": "Emerald Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Amber_Staff.png",
+    "name": "Amber Staff",
+    "type": "Weapon",
+    "damage": "21",
+    "mana": "7",
+    "useTime": "28 (Average)",
+    "knockback": "4.75 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a4/Ember_Bolt.png",
+        "name": "Amber Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e1/Sturdy_Fossil.png",
+              "name": "Sturdy Fossil",
+              "quantity": "15"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/01/Amber.png",
+              "name": "Amber",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Amber_Staff.png",
+          "name": "Amber Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Ruby_Staff.png",
+    "name": "Ruby Staff",
+    "type": "Weapon",
+    "damage": "21",
+    "mana": "7",
+    "useTime": "28 (Average)",
+    "knockback": "4.75 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/42/Ruby_Bolt.png",
+        "name": "Ruby Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Gold_Bar.png",
+              "name": "Gold Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Ruby.png",
+              "name": "Ruby",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Ruby_Staff.png",
+          "name": "Ruby Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Diamond_Staff.png",
+    "name": "Diamond Staff",
+    "type": "Weapon",
+    "damage": "23",
+    "mana": "8",
+    "useTime": "26 (Average)",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "9.5",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Diamond_Bolt.png",
+        "name": "Diamond Bolt"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Platinum_Bar.png",
+              "name": "Platinum Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Diamond.png",
+              "name": "Diamond",
+              "quantity": "8"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Diamond_Staff.png",
+          "name": "Diamond Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Thunder_Zapper.png",
+    "name": "Thunder Zapper",
+    "type": "Weapon",
+    "damage": "20",
+    "mana": "7",
+    "useTime": "17 (Very fast)",
+    "knockback": "3 (Very weak)",
+    "critChance": "4%",
+    "velocity": "16 (effective)",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Thunder_Zapper_%28projectile%29.gif",
+        "name": "Thunder Zapper Shot"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Sandstone Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Sandstone Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Sandstone Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Vilethorn.png",
+    "name": "Vilethorn",
+    "type": "Weapon",
+    "damage": "10",
+    "mana": "10",
+    "useTime": "28 (Average)",
+    "knockback": "1 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "32",
+    "tooltip": [
+      [
+        "Summons a vile thorn"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Vilethorn_%28projectile%29.png",
+        "name": "Vilethorn Base"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Vilethorn_%28end_projectile%29.png",
+        "name": "Vilethorn Tip"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Shadow Orb (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Orb (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Orb (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Aqua_Scepter.png",
+    "name": "Aqua Scepter",
+    "type": "Weapon",
+    "damage": "27",
+    "mana": "7",
+    "useTime": "16 (Very fast)",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "37.5 (effective)",
+    "tooltip": [
+      [
+        "Sprays out a shower of water"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Water_Stream_%28projectile%29.png",
+        "name": "Water Stream"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Golden Lock Box",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Golden_Lock_Box.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2012,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Magic_Missile.png",
+    "name": "Magic Missile",
+    "type": "Weapon Crafting material",
+    "damage": "35",
+    "mana": "14  / 10 ",
+    "useTime": "22 (Fast)  / 17 (Very fast) ",
+    "knockback": "7.5 (Very strong)  / 5.5 (Average) ",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Casts a controllable missile"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Magic_Missile_%28projectile%29.png",
+        "name": "Magic Missile"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Magic_Missile.png",
+              "name": "Magic Missile",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Light_Shard.png",
+              "name": "Light Shard",
+              "quantity": "2"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+              "name": "Soul of Light",
+              "quantity": "16"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Sky_Fracture.png",
+          "name": "Sky Fracture",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Golden Lock Box",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Golden_Lock_Box.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2013,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Weather_Pain.png",
+    "name": "Weather Pain",
+    "type": "Weapon",
+    "damage": "13",
+    "mana": "30",
+    "useTime": "45 (Very slow)",
+    "knockback": "1 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Ignores 10 points of enemy Defense",
+        "'What a pane... heh'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Hurtnado.gif",
+        "name": "Hurtnado"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "25"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "25"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2014,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Flamelash.png",
+    "name": "Flamelash",
+    "type": "Weapon",
+    "damage": "32",
+    "mana": "21  / 12  / 16 ",
+    "useTime": "30 (Average)  / 20 (Very fast) ",
+    "knockback": "6.5 (Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Summons a controllable ball of fire"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "50",
+        "duration": "4–8 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Flamelash_%28projectile%29.gif",
+        "name": "Flamelash"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Shadow Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2015,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Flower_of_Fire.png",
+    "name": "Flower of Fire",
+    "type": "Weapon",
+    "damage": "48",
+    "mana": "12  / 15  / 17 ",
+    "useTime": "16 (Very fast)  / 20 (Very fast) ",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "7.5",
+    "tooltip": [
+      [
+        "Throws balls of fire"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "50",
+        "duration": "5 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Ball_of_Fire.png",
+        "name": "Ball of Fire"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Shadow Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2016,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Gray_Zapinator.png",
+    "name": "Gray Zapinator",
+    "type": "Weapon",
+    "damage": "42",
+    "mana": "16",
+    "useTime": "36 (Very slow)",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "60 (effective)",
+    "tooltip": [
+      [
+        "'It might be broken'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Zapinator_%28projectile%29.png",
+        "name": "Zapinator"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2017,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Space_Gun.png",
+    "name": "Space Gun",
+    "type": "Weapon",
+    "damage": "17",
+    "mana": "6 (0 with Meteor armor)",
+    "useTime": "17 (Very fast)",
+    "knockback": "0.75 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "30 (effective)",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Green_Laser_%28projectile%29.png",
+        "name": "Green Laser"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Meteorite_Bar.png",
+              "name": "Meteorite Bar",
+              "quantity": "30"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Fallen_Star.png",
+              "name": "Fallen Star",
+              "quantity": "2"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Space_Gun_%28old%29.png",
+          "name": "Space Gun",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Meteorite_Bar.png",
+              "name": "Meteorite Bar",
+              "quantity": "20"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Space_Gun.png",
+          "name": "Space Gun",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2018,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Bee_Gun.png",
+    "name": "Bee Gun",
+    "type": "Weapon",
+    "damage": "9",
+    "mana": "5",
+    "useTime": "12 (Very fast)",
+    "knockback": "0.25 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "32 (effective)",
+    "tooltip": [
+      [
+        "Shoots bees that will chase your enemy"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Bee_%28projectile%29.gif",
+        "name": "Bee"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Queen Bee)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Treasure_Bag_%28Queen_Bee%29.png",
+        "quantity": "1",
+        "rate": "33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Queen Bee)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Treasure_Bag_%28Queen_Bee%29.png",
+        "quantity": "1",
+        "rate": "33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2019,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Demon_Scythe.png",
+    "name": "Demon Scythe",
+    "type": "Weapon",
+    "damage": "35",
+    "mana": "14  / 10 ",
+    "useTime": "20 (Very fast)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "0.2",
+    "tooltip": [
+      [
+        "Casts a demon scythe"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Demon_Scythe_%28projectile%29.gif",
+        "name": "Demon Scythe"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Voodoo Demon",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Voodoo_Demon.png",
+        "quantity": "1",
+        "rate": "2.86"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Voodoo Demon",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Voodoo_Demon.png",
+        "quantity": "1",
+        "rate": "2.86"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Voodoo Demon",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Voodoo_Demon.png",
+        "quantity": "1",
+        "rate": "2.86"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2020,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Book_of_Skulls.png",
+    "name": "Book of Skulls",
+    "type": "Weapon",
+    "damage": "29",
+    "mana": "18  / 22 ",
+    "useTime": "26 (Average)",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "3.5",
+    "tooltip": [
+      [
+        "Shoots a skull"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Skull_%28projectile%29.png",
+        "name": "Book of Skulls Skull"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Skeletron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Treasure_Bag_%28Skeletron%29.png",
+        "quantity": "1",
+        "rate": "33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Skeletron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Treasure_Bag_%28Skeletron%29.png",
+        "quantity": "1",
+        "rate": "33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2021,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Water_Bolt.png",
+    "name": "Water Bolt",
+    "type": "Weapon",
+    "damage": "19",
+    "mana": "10",
+    "useTime": "17 (Very fast)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "4.5",
+    "tooltip": [
+      [
+        "Casts a slow moving bolt of water"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Water_Bolt_%28projectile%29.png",
+        "name": "Water Bolt"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2022,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Crimson_Rod.png",
+    "name": "Crimson Rod",
+    "type": "Weapon",
+    "damage": "12",
+    "mana": "30",
+    "useTime": "24 (Fast)",
+    "knockback": "0 (No knockback)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Summons a cloud to rain blood on your foes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Blood_Cloud_%28projectile%29_%28animated%29.gif",
+        "name": "Blood Cloud Moving"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Crimson_Rod_Cloud_%28animated%29.gif",
+        "name": "Blood Cloud Raining"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Blood_Rain_%28projectile%29.png",
+        "name": "Blood Rain"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Hematic Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Hematic Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Hematic Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hematic_Crate.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2023,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Sky_Fracture.png",
+    "name": "Sky Fracture",
+    "type": "Weapon",
+    "damage": "38",
+    "mana": "17",
+    "useTime": "12 (Very fast)",
+    "knockback": "6 (Average)",
+    "critChance": "24%",
+    "velocity": "14",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Sky_Fracture_%28projectile%29.png",
+        "name": "Sky Fracture Shot"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Magic_Missile.png",
+              "name": "Magic Missile",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Light_Shard.png",
+              "name": "Light Shard",
+              "quantity": "2"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+              "name": "Soul of Light",
+              "quantity": "16"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Sky_Fracture.png",
+          "name": "Sky Fracture",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2024,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Meteor_Staff.png",
+    "name": "Meteor Staff",
+    "type": "Weapon",
+    "damage": "50",
+    "mana": "9",
+    "useTime": "10 (Very fast)",
+    "knockback": "4.5 (Average)",
+    "critChance": "4%",
+    "velocity": "30 (effective)",
+    "tooltip": [
+      [
+        "Showers meteors"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Meteor_%281%29_%28projectile%29.png",
+        "name": "Meteor 1"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Meteor_%282%29_%28projectile%29.png",
+        "name": "Meteor 2"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Meteor_%283%29_%28projectile%29.png",
+        "name": "Meteor 3"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Meteorite_Bar.png",
+              "name": "Meteorite Bar",
+              "quantity": "20"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Pixie_Dust.png",
+              "name": "Pixie Dust",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+              "name": "Soul of Light",
+              "quantity": "10"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Meteor_Staff.png",
+          "name": "Meteor Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2025,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Crystal_Serpent.png",
+    "name": "Crystal Serpent",
+    "type": "Weapon",
+    "damage": "40",
+    "mana": "9",
+    "useTime": "29 (Average)",
+    "knockback": "4.4 (Average)",
+    "critChance": "4%",
+    "velocity": "13",
+    "tooltip": [
+      [
+        "Shoots an explosive crystal charge"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Crystal_Serpent.png",
+        "name": "Crystal Charge 1"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Crystal_Serpent.png",
+        "name": "Crystal Charge 2"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2026,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Crystal_Vile_Shard.png",
+    "name": "Crystal Vile Shard",
+    "type": "Weapon",
+    "damage": "25",
+    "mana": "13",
+    "useTime": "33 (Slow)",
+    "knockback": "3 (Very weak)",
+    "critChance": "4%",
+    "velocity": "32",
+    "tooltip": [
+      [
+        "Summons a massive crystal spike",
+        "Ignores 10 points of enemy Defense"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Crystal_Vile_Shard_Head.png",
+        "name": "Crystal Vile Shard Head"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Crystal_Vile_Shard_Shaft.png",
+        "name": "Crystal Vile Shard Shaft"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Hallowed Mimic2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Hallowed_Mimic2.png",
+        "quantity": "1",
+        "rate": "25"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2027,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Life_Drain.png",
+    "name": "Life Drain",
+    "type": "Weapon",
+    "damage": "35",
+    "mana": "10",
+    "useTime": "12 (Very fast)",
+    "knockback": "2.5 (Very weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Drains life from enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Life Drain",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Life_Drain_%28buff%29.png",
+        "duration": "Until all enemies are killed or usage of Life Drain ceases",
+        "tooltip": "Increased life regeneration"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Life_Drain.png",
+        "name": "Soul Drain"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Crimson Mimic2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Crimson_Mimic2.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2028,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ed/Poison_Staff.png",
+    "name": "Poison Staff",
+    "type": "Weapon Crafting material",
+    "damage": "43",
+    "mana": "22",
+    "useTime": "36 (Very slow)",
+    "knockback": "5.6 (Average)",
+    "critChance": "4%",
+    "velocity": "13.5",
+    "tooltip": [
+      [
+        "Shoots a poison fang that pierces multiple enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Poisoned",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
+        "chance": "100",
+        "duration": "30 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Poison_Fang_%28projectile%29.png",
+        "name": "Poison Fang"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ed/Poison_Staff.png",
+              "name": "Poison Staff",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Chlorophyte_Bar.png",
+              "name": "Chlorophyte Bar",
+              "quantity": "14"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Venom_Staff.png",
+          "name": "Venom Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Black Recluse",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Black_Recluse.png",
+        "quantity": "1",
+        "rate": "2.5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Black Recluse",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Black_Recluse.png",
+        "quantity": "1",
+        "rate": "2.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2029,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Frost_Staff.png",
+    "name": "Frost Staff",
+    "type": "Weapon",
+    "damage": "46",
+    "mana": "12",
+    "useTime": "12 (Very fast)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Shoots a stream of frost"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Frost_Bolt.png",
+        "name": "Frost Bolt"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Icy Merman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Icy_Merman.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Icy Merman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Icy_Merman.png",
+        "quantity": "1",
+        "rate": "2"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2030,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Flower_of_Frost.png",
+    "name": "Flower of Frost",
+    "type": "Weapon",
+    "damage": "60",
+    "mana": "11  /17 ",
+    "useTime": "12 (Very fast)  /20 (Very fast) ",
+    "knockback": "6.5 (Strong)",
+    "critChance": "4%",
+    "velocity": "9  /7 ",
+    "tooltip": [
+      [
+        "Shoots a ball of frost"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostbite",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100%",
+        "duration": "5–14 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100%",
+        "duration": "8 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/50/Ball_of_Frost_%28projectile%29.png",
+        "name": "Ball of Frost"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Ice Mimic",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Ice_Mimic.png",
+        "quantity": "1",
+        "rate": "31.67"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2031,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Unholy_Trident.png",
+    "name": "Unholy Trident",
+    "type": "Weapon",
+    "damage": "88",
+    "mana": "19  / 14 ",
+    "useTime": "17 (Very fast)",
+    "knockback": "6.5 (Strong)",
+    "critChance": "4%",
+    "velocity": "13",
+    "tooltip": [
+      [
+        "Summons the Devil's trident"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Unholy_Trident_%28projectile%29.png",
+        "name": "Unholy Trident (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Red Devil",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Red_Devil.png",
+        "quantity": "1",
+        "rate": "3.33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2032,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/34/Rainbow_Rod.png",
+    "name": "Rainbow Rod",
+    "type": "Weapon",
+    "damage": "50",
+    "mana": "21  / 18 ",
+    "useTime": "25 (Fast)  / 18 (Very fast)  / 17 (Very fast) ",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Casts a controllable rainbow"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Rainbow_Rod_%28projectile%29.png",
+        "name": "Rainbow Rod Bullet"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/19/Crystal_Shard.png",
+              "name": "Crystal Shard",
+              "quantity": "30"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Unicorn_Horn.png",
+              "name": "Unicorn Horn",
+              "quantity": "4"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Pixie_Dust.png",
+              "name": "Pixie Dust",
+              "quantity": "60"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+              "name": "Soul of Light",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+              "name": "Soul of Sight",
+              "quantity": "20"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Rainbow_Rod_%28old%29.png",
+          "name": "Rainbow Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/19/Crystal_Shard.png",
+              "name": "Crystal Shard",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Unicorn_Horn.png",
+              "name": "Unicorn Horn",
+              "quantity": "2"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Pixie_Dust.png",
+              "name": "Pixie Dust",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+              "name": "Soul of Light",
+              "quantity": "8"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+              "name": "Soul of Sight",
+              "quantity": "15"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/34/Rainbow_Rod.png",
+          "name": "Rainbow Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2033,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Tome_of_Infinite_Wisdom.png",
+    "name": "Tome of Infinite Wisdom",
+    "type": "Weapon",
+    "damage": "36",
+    "mana": "20",
+    "useTime": "25 (Fast)  / 30 (Average) ",
+    "knockback": "9 (Very strong)",
+    "critChance": "4%",
+    "velocity": "22 (effective)",
+    "tooltip": [
+      [
+        "Gotta wonder who stuck a tome of infinite wisdom on a stick...",
+        "Right click to cast a powerful tornado"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Tome_of_Infinite_Wisdom_%28projectile%29.png",
+        "name": "Tome of Infinite Wisdom Shot"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Ancient_Storm.png",
+        "name": "Whirlwind of Infinite Wisdom"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Ogre",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
+        "quantity": "1",
+        "rate": "3.33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ogre",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Ogre.png",
+        "quantity": "1",
+        "rate": "3.33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2034,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Nettle_Burst.png",
+    "name": "Nettle Burst",
+    "type": "Weapon",
+    "damage": "35",
+    "mana": "12  / 10 ",
+    "useTime": "25 (Fast)",
+    "knockback": "1 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "32",
+    "tooltip": [
+      [
+        "Ignores 10 points of enemy Defense"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Nettle_Burst_%281%29.png",
+        "name": "Nettle Burst Right"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Nettle_Burst_%282%29.png",
+        "name": "Nettle Burst Left"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Nettle_Burst_End.png",
+        "name": "Nettle Burst End"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2035,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Venom_Staff.png",
+    "name": "Venom Staff",
+    "type": "Weapon",
+    "damage": "44",
+    "mana": "25",
+    "useTime": "30 (Average)",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Shoots a venom fang that pierces multiple enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Acid Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100",
+        "duration": "30 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Venom_Fang.png",
+        "name": "Venom Fang"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ed/Poison_Staff.png",
+              "name": "Poison Staff",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Chlorophyte_Bar.png",
+              "name": "Chlorophyte Bar",
+              "quantity": "14"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Venom_Staff.png",
+          "name": "Venom Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2036,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Shadowbeam_Staff.png",
+    "name": "Shadowbeam Staff",
+    "type": "Weapon",
+    "damage": "80",
+    "mana": "7",
+    "useTime": "15 (Very fast)",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "606 (effective)",
+    "tooltip": [
+      [
+        "Creates a shadow beam that bounces off walls"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Shadowbeam_Staff.png",
+        "name": "Shadow Beam (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Necromancer 2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Necromancer_2.png",
+        "quantity": "1",
+        "rate": "5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Necromancer 2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Necromancer_2.png",
+        "quantity": "1",
+        "rate": "5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2037,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Inferno_Fork.png",
+    "name": "Inferno Fork",
+    "type": "Weapon",
+    "damage": "70",
+    "mana": "18",
+    "useTime": "30 (Average)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [
+      [
+        "Launches a ball of fire that explodes into a raging inferno"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Hellfire",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100",
+        "duration": "8–15 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Inferno_Fork.png",
+        "name": "Inferno Bolt (friendly)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Inferno_Fork.png",
+        "name": "Inferno Blast (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Diabolist 2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Diabolist_2.png",
+        "quantity": "1",
+        "rate": "5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Diabolist 2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Diabolist_2.png",
+        "quantity": "1",
+        "rate": "5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2038,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Spectre_Staff.png",
+    "name": "Spectre Staff",
+    "type": "Weapon",
+    "damage": "65",
+    "mana": "15  / 11 ",
+    "useTime": "24 (Fast)",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "12 (effective)",
+    "tooltip": [
+      [
+        "Summons a lost soul to chase your foes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Spectre_Staff.png",
+        "name": "Lost Soul (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Ragged Caster 2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Ragged_Caster_2.png",
+        "quantity": "1",
+        "rate": "5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ragged Caster 2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Ragged_Caster_2.png",
+        "quantity": "1",
+        "rate": "5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2039,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/eb/Bat_Scepter.png",
+    "name": "Bat Scepter",
+    "type": "Weapon",
+    "damage": "45",
+    "mana": "6  / 3 ",
+    "useTime": "12 (Very fast)",
+    "knockback": "3 (Very weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons bats to attack your enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Bat_%28projectile%29.gif",
+        "name": "Bat"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2040,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Razorpine.png",
+    "name": "Razorpine",
+    "type": "Weapon",
+    "damage": "48",
+    "mana": "5",
+    "useTime": "8 (Insanely fast)",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "24 (effective)",
+    "tooltip": [
+      [
+        "Shoots razor sharp pine needles"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Pine_Needle.png",
+        "name": "Pine Needle (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Everscream",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e3/Everscream.gif",
+        "quantity": "1",
+        "rate": "2.83"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2041,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Blizzard_Staff.png",
+    "name": "Blizzard Staff",
+    "type": "Weapon",
+    "damage": "58",
+    "mana": "9",
+    "useTime": "10 (Very fast)",
+    "knockback": "4.5 (Average)",
+    "critChance": "4%",
+    "velocity": "20 (effective)",
+    "tooltip": [
+      [
+        "Showers an area with icicles"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Blizzard.gif",
+        "name": "Blizzard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Ice Queen",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Ice_Queen.png",
+        "quantity": "1",
+        "rate": "2.83"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2042,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6c/Resonance_Scepter.png",
+    "name": "Resonance Scepter",
+    "type": "Weapon",
+    "damage": "70",
+    "mana": "18",
+    "useTime": "25 (Fast)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Royal_Resonance.png",
+        "name": "Royal Resonance"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Princess",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Princess.png",
+        "quantity": "1",
+        "rate": "12.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2043,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Staff_of_Earth.png",
+    "name": "Staff of Earth",
+    "type": "Weapon",
+    "damage": "125",
+    "mana": "18  / 15  / 17 ",
+    "useTime": "24 (Fast)  / 40 (Very slow) ",
+    "knockback": "7.5 (Very strong)",
+    "critChance": "24%  / 4% ",
+    "velocity": "24 (effective)",
+    "tooltip": [
+      [
+        "Summons a powerful boulder"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Staff_of_Earth_%28projectile%29.png",
+        "name": "Boulder"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Golem)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Golem)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2044,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Betsy%27s_Wrath.png",
+    "name": "Betsy's Wrath",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "14",
+    "useTime": "20 (Very fast)",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "28 (effective)",
+    "tooltip": [
+      [
+        "Splashes defense reducing miasma!"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Betsy's Curse",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Betsy%27s_Curse.png",
+        "chance": "Betsy's Curs",
+        "duration": "10 seconds",
+        "tooltip": "Defense is lowered"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Betsy%27s_Fireball.png",
+        "name": "Betsy's Wrath Shot"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Betsy)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Treasure_Bag_%28Betsy%29.png",
+        "quantity": "1",
+        "rate": "25"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Betsy)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Treasure_Bag_%28Betsy%29.png",
+        "quantity": "1",
+        "rate": "25"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2045,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Laser_Rifle.png",
+    "name": "Laser Rifle",
+    "type": "Weapon",
+    "damage": "29",
+    "mana": "8",
+    "useTime": "12 (Very fast)",
+    "knockback": "2.5 (Very weak)",
+    "critChance": "4%",
+    "velocity": "85 (effective)",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Purple_Laser_%28projectile%29.png",
+        "name": "Purple Laser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Wall of Flesh Mouth",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "quantity": "1",
+        "rate": "25"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Wall of Flesh Mouth",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "quantity": "1",
+        "rate": "25"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2046,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Orange_Zapinator.png",
+    "name": "Orange Zapinator",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "16",
+    "useTime": "36 (Very slow)",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "60 (effective)",
+    "tooltip": [
+      [
+        "'It might be broken'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Zapinator_%28projectile%29.png",
+        "name": "Zapinator"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2047,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wasp_Gun.png",
+    "name": "Wasp Gun",
+    "type": "Weapon",
+    "damage": "31",
+    "mana": "10  / 6 ",
+    "useTime": "18 (Very fast)  / 11 (Very fast) ",
+    "knockback": "0.25 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "36 (effective)",
+    "tooltip": [
+      [
+        "Ignores 10 points of enemy Defense"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Wasp.gif",
+        "name": "Wasp"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2048,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Leaf_Blower.png",
+    "name": "Leaf Blower",
+    "type": "Weapon",
+    "damage": "48",
+    "mana": "5",
+    "useTime": "7 (Insanely fast)",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "11",
+    "tooltip": [
+      [
+        "Rapidly shoots razor sharp leaves"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Leaf_%28projectile%29.gif",
+        "name": "Leaf"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2049,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Rainbow_Gun.png",
+    "name": "Rainbow Gun",
+    "type": "Weapon",
+    "damage": "45",
+    "mana": "20",
+    "useTime": "40 (Very slow)",
+    "knockback": "2.5 (Very weak)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Shoots a rainbow that does continuous damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Rainbow_%28projectile%29.png",
+        "name": "Rainbow Front"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Rainbow_%28projectile%29.png",
+        "name": "Rainbow Back"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2050,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Heat_Ray.png",
+    "name": "Heat Ray",
+    "type": "Weapon",
+    "damage": "90",
+    "mana": "8",
+    "useTime": "10 (Very fast)  / 16 (Very fast) ",
+    "knockback": "3 (Very weak)",
+    "critChance": "4%",
+    "velocity": "1,515 (effective)",
+    "tooltip": [
+      [
+        "Shoots a scorching ray of heat",
+        "'Oolaa!!'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Heat_Ray.png",
+        "name": "Heat Ray"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Golem)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Golem)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "quantity": "1",
+        "rate": "14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2051,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Laser_Machinegun.png",
+    "name": "Laser Machinegun",
+    "type": "Weapon",
+    "damage": "60",
+    "mana": "6",
+    "useTime": "20 (Very fast)",
+    "knockback": "2 (Very weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Laser_Machinegun.png",
+        "name": "Laser Machinegun"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/07/Laser_%28projectile%29.png",
+        "name": "Laser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Martian Saucer",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Martian_Saucer.png",
+        "quantity": "1",
+        "rate": "16.66"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2052,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1e/Charged_Blaster_Cannon.png",
+    "name": "Charged Blaster Cannon",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "14",
+    "useTime": "20 (Very fast)",
+    "knockback": "2 (Very weak)",
+    "critChance": "4%",
+    "velocity": "28 (effective)",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Charged_Blaster_Orb.gif",
+        "name": "Charged Blaster Orb"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1e/Charged_Blaster_Cannon.png",
+        "name": "Charged Blaster Cannon"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Charged_Blaster_Laser.png",
+        "name": "Charged Blaster Laser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Ray Gunner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Ray_Gunner.png",
+        "quantity": "1",
+        "rate": "0.13"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2053,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Bubble_Gun.png",
+    "name": "Bubble Gun",
+    "type": "Weapon",
+    "damage": "70",
+    "mana": "5",
+    "useTime": "9 (Very fast)",
+    "knockback": "3 (Very weak)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Rapidly shoots forceful bubbles"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Bubble_Gun_%28projectile%29.png",
+        "name": "Bubble"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Duke Fishron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Duke Fishron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2054,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Cursed_Flames.png",
+    "name": "Cursed Flames",
+    "type": "Weapon",
+    "damage": "55",
+    "mana": "9  / 12 ",
+    "useTime": "15 (Very fast)  / 20 (Very fast) ",
+    "knockback": "6.5 (Strong)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons unholy fire balls"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Cursed Inferno",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
+        "chance": "100",
+        "duration": "7 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Cursed_Flame_%28projectile%29.png",
+        "name": "Cursed Flame (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2055,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Golden_Shower.png",
+    "name": "Golden Shower",
+    "type": "Weapon",
+    "damage": "30",
+    "mana": "7",
+    "useTime": "18 (Very fast)",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "30 (effective)",
+    "tooltip": [
+      [
+        "Sprays a shower of ichor",
+        "Decreases target's defense"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Ichor",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
+        "chance": "100",
+        "duration": "10 seconds",
+        "tooltip": "Reduced defense"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d6/Golden_Shower_%28projectile%29.png",
+        "name": "Golden Shower (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Jungle Mimic2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Jungle_Mimic2.png",
+        "quantity": "1",
+        "rate": "33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2056,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Crystal_Storm.png",
+    "name": "Crystal Storm",
+    "type": "Weapon",
+    "damage": "32",
+    "mana": "5  / 4 ",
+    "useTime": "7 (Insanely fast)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Summons rapid fire crystal shards"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Crystal_Storm_%28projectile%29.png",
+        "name": "Crystal Storm Shot"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2057,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Magnet_Sphere.png",
+    "name": "Magnet Sphere",
+    "type": "Weapon",
+    "damage": "48",
+    "mana": "14",
+    "useTime": "20 (Very fast)",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "1.2",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Magnet_Sphere_%28projectile%29.gif",
+        "name": "Magnet Sphere Ball"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Magnet_Sphere_%28projectile%29.gif",
+        "name": "Magnet Sphere Bolt"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "quantity": "1",
+        "rate": "0.33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "quantity": "1",
+        "rate": "0.33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "quantity": "1",
+        "rate": "0.33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2058,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Razorblade_Typhoon.png",
+    "name": "Razorblade Typhoon",
+    "type": "Weapon",
+    "damage": "85",
+    "mana": "20",
+    "useTime": "40 (Very slow)  /20 (Very fast) ",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "18 (effective)",
+    "tooltip": [
+      [
+        "Casts fast moving razorwheels"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Typhoon.gif",
+        "name": "Typhoon"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Duke Fishron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Duke Fishron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2059,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/63/Lunar_Flare.png",
+    "name": "Lunar Flare",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "9",
+    "useTime": "10 (Very fast)",
+    "knockback": "4.5 (Average)",
+    "critChance": "4%",
+    "velocity": "60 (effective)",
+    "tooltip": [
+      [
+        "Rains down lunar flares"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Lunar_Flare_%28projectile%29.gif",
+        "name": "Lunar Flare"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2060,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/69/Ice_Rod.png",
+    "name": "Ice Rod",
+    "type": "Weapon Tool",
+    "damage": "28",
+    "mana": "6",
+    "useTime": "9 (Very fast)",
+    "knockback": "2 (Very weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Summons a block of ice"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Ice_Block_%28projectile%29.png",
+        "name": "Ice Block"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2061,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Magic_Dagger.png",
+    "name": "Magic Dagger",
+    "type": "Weapon",
+    "damage": "35",
+    "mana": "6",
+    "useTime": "8 (Insanely fast)",
+    "knockback": "3.75 (Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "A magical returning dagger"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Magic_Dagger.png",
+        "name": "Magic Dagger"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Mimic",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Mimic.png",
+        "quantity": "1",
+        "rate": "16.67"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2062,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Medusa_Head.png",
+    "name": "Medusa Head",
+    "type": "Weapon",
+    "damage": "40",
+    "mana": "15",
+    "useTime": "20 (Very fast)",
+    "knockback": "2 (Very weak)",
+    "critChance": "4%",
+    "velocity": "1",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Medusa_Head.png",
+        "name": "Medusa Ray"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Medusa_Ray.png",
+        "name": "Medusa Head Ray"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Medusa",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Medusa.png",
+        "quantity": "1",
+        "rate": "4"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2063,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Clinger_Staff.png",
+    "name": "Clinger Staff",
+    "type": "Weapon",
+    "damage": "43",
+    "mana": "40",
+    "useTime": "24 (Fast)",
+    "knockback": "8 (Very strong)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Summons a wall of cursed flames"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Cursed Inferno",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
+        "chance": "100%",
+        "duration": "7 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/74/Clinger_Staff_%28projectile%29.png",
+        "name": "Cursed Flames"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Corrupt Mimic2",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Corrupt_Mimic2.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2064,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Spirit_Flame.png",
+    "name": "Spirit Flame",
+    "type": "Weapon",
+    "damage": "85",
+    "mana": "14  / 18 ",
+    "useTime": "22 (Fast)  / 30 (Average) ",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "3",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Spirit_Flame_%28projectile%29.gif",
+        "name": "Spirit Flame (flame)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Desert_Spirit_Lamp.png",
+              "name": "Desert Spirit Lamp",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Forbidden_Fragment.png",
+              "name": "Forbidden Fragment",
+              "quantity": "2"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
+              "name": "Soul of Night",
+              "quantity": "12"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Spirit_Flame.png",
+          "name": "Spirit Flame",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2065,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/30/Shadowflame_Hex_Doll.png",
+    "name": "Shadowflame Hex Doll",
+    "type": "Weapon",
+    "damage": "66",
+    "mana": "6",
+    "useTime": "21 (Fast)",
+    "knockback": "3.75 (Weak)",
+    "critChance": "7%",
+    "velocity": "27 (effective)",
+    "tooltip": [
+      [
+        "Summons Shadowflame tentacles to strike your foes"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Shadowflame",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "chance": "100",
+        "duration": "4–8 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/30/Shadowflame_Hex_Doll.png",
+        "name": "Shadowflame"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Goblin Summoner",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Goblin_Warlock.png",
+        "quantity": "1",
+        "rate": "16.7"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2066,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Blood_Thorn.png",
+    "name": "Blood Thorn",
+    "type": "Weapon",
+    "damage": "34",
+    "mana": "20",
+    "useTime": "33 (Slow)",
+    "knockback": "1 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "32",
+    "tooltip": [
+      [
+        "Summons blood thorns from the ground"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Blood_Thorn_%28projectile%29.png",
+        "name": "Blood Thorn Tears"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Hemogoblin Shark",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Hemogoblin_Shark.png",
+        "quantity": "1",
+        "rate": "12.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2067,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Nimbus_Rod.png",
+    "name": "Nimbus Rod",
+    "type": "Weapon",
+    "damage": "30",
+    "mana": "30",
+    "useTime": "22 (Fast)",
+    "knockback": "0 (No knockback)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Summons a cloud to rain down on your foes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Rain_Cloud_%28projectile%29_%28animated%29.gif",
+        "name": "Rain Cloud Moving"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Nimbus_Rod_Cloud_%28animated%29.gif",
+        "name": "Rain Cloud Raining"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1f/Rain_%28projectile%29.png",
+        "name": "Rain (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Angry Nimbus",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Angry_Nimbus.png",
+        "quantity": "1",
+        "rate": "6.67"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2068,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Magical_Harp.png",
+    "name": "Magical Harp",
+    "type": "Weapon",
+    "damage": "42",
+    "mana": "5  / 4 ",
+    "useTime": "12 (Very fast)",
+    "knockback": "2 (Very weak)  /  0 (No knockback) ",
+    "critChance": "4%",
+    "velocity": "4.5",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Note_1.png",
+        "name": "Quarter Note"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Note_2.png",
+        "name": "Eighth Note"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Note_3.png",
+        "name": "Tied Eighth Note"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Harp.png",
+              "name": "Harp",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/19/Crystal_Shard.png",
+              "name": "Crystal Shard",
+              "quantity": "25"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
+              "name": "Soul of Night",
+              "quantity": "12"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+              "name": "Soul of Sight",
+              "quantity": "20"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Magical_Harp_%28old%29.png",
+          "name": "Magical Harp",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Harp.png",
+              "name": "Harp",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/19/Crystal_Shard.png",
+              "name": "Crystal Shard",
+              "quantity": "20"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
+              "name": "Soul of Night",
+              "quantity": "8"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+              "name": "Soul of Sight",
+              "quantity": "15"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3a/Magical_Harp.png",
+          "name": "Magical Harp",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2069,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Toxic_Flask.png",
+    "name": "Toxic Flask",
+    "type": "Weapon",
+    "damage": "52",
+    "mana": "30",
+    "useTime": "45 (Very slow)",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Toxic_Flask_%28projectile%29.png",
+        "name": "Toxic Flask"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Toxic_Cloud_%281%29_%28projectile%29.png",
+        "name": "Toxic Cloud 1"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Toxic_Cloud_%282%29_%28projectile%29.png",
+        "name": "Toxic Cloud 2"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Toxic_Cloud_%283%29_%28projectile%29.png",
+        "name": "Toxic Cloud 3"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Dr. Man Fly",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Dr._Man_Fly.png",
+        "quantity": "1",
+        "rate": "2.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 2070,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Nightglow.png",
+    "name": "Nightglow",
+    "type": "Weapon",
+    "damage": "50",
+    "mana": "23",
+    "useTime": "36 (Very slow)",
+    "knockback": "2.5 (Very weak)",
+    "critChance": "4%",
+    "velocity": "34 (effective)",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Nightglow_%28projectile%29.png",
+        "name": "Nightglow"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2071,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Stellar_Tune.png",
+    "name": "Stellar Tune",
+    "type": "Weapon",
+    "damage": "85",
+    "mana": "12",
+    "useTime": "12 (Very fast)",
+    "knockback": "1.5 (Extremely weak)",
+    "critChance": "24%",
+    "velocity": "3 (effective)",
+    "tooltip": [
+      [
+        "'These chords are out of this world'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Stellar_Tune.png",
+        "name": "Stellar Tune"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2072,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Nebula_Arcanum.png",
+    "name": "Nebula Arcanum",
+    "type": "Weapon",
+    "damage": "70",
+    "mana": "30",
+    "useTime": "30 (Average)",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "'Conjure masses of astral energy to chase down your foes'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Nebula_Arcanum_%28projectile%29.png",
+        "name": "Nebula Arcanum"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/01/Vortex_Rocket.png",
+        "name": "Nebula Arcanum Subshot"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Nebula_Arcanum_%28projectile%29.png",
+        "name": "Nebula Arcanum Explosion Shot"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Nebula_Arcanum_%28projectile%29.png",
+        "name": "Nebula Arcanum Explosion Shot Shard"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Nebula_Fragment.png",
+              "name": "Nebula Fragment",
+              "quantity": "18"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Nebula_Arcanum.png",
+          "name": "Nebula Arcanum",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+            "name": "Ancient Manipulator"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2073,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Nebula_Blaze.png",
+    "name": "Nebula Blaze",
+    "type": "Weapon",
+    "damage": "130",
+    "mana": "12  / 18 ",
+    "useTime": "12 (Very fast)  / 15 (Very fast) ",
+    "knockback": "3 (Very weak)",
+    "critChance": "4%",
+    "velocity": "18 (effective)",
+    "tooltip": [
+      [
+        "'From Orion's belt to the palm of your hand'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Nebula_Blaze_%28projectile%29.gif",
+        "name": "Nebula Blaze"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5e/Nebula_Blaze_Ex.gif",
+        "name": "Nebula Blaze Ex"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Nebula_Fragment.png",
+              "name": "Nebula Fragment",
+              "quantity": "18"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Nebula_Blaze.png",
+          "name": "Nebula Blaze",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+            "name": "Ancient Manipulator"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 2074,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Last_Prism.png",
+    "name": "Last Prism",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "12",
+    "useTime": "10 (Very fast)",
+    "knockback": "0.25 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "30",
+    "tooltip": [
+      [
+        "'Fire a lifeform disintegration rainbow'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Last_Prism_Beam.png",
+        "name": "Last Prism Laser"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Last_Prism_%28projectile%29.gif",
+        "name": "Last Prism"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      }
+    ],
+    "summons": []
+  }
+]

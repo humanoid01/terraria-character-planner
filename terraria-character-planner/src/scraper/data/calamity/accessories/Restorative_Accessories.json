@@ -1,0 +1,173 @@
+[
+  {
+    "id": 21000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b7/Blood_Pact.png",
+    "name": "Blood Pact",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Doubles your max HP",
+        "Allows you to be critically hit 25% of the time",
+        "After a critical hit, you gain various buffs for ten seconds",
+        "Any healing potions consumed during this time period heal 50% more health"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Bloody Boost",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/Bloody_Boost.png",
+        "duration": "10 seconds",
+        "tooltip": "Increased offensive and defensive statsHealing potions grant more health"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Bloodflare_Core.png",
+    "name": "Bloodflare Core",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "You lose up to half your defense after taking damage",
+        "Lost defense regenerates over time",
+        "You gain 1 health for every 1 defense gained as it regenerates"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/Grand_Gelatin.png",
+    "name": "Grand Gelatin",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased movement and jump speed",
+        "5% reduced stealth cost",
+        "+20 max life and mana",
+        "Standing still boosts life and mana regen"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21003,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Life_Jelly.png",
+    "name": "Life Jelly",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "+20 max life",
+        "Standing still boosts life regen"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21004,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Mana_Jelly.png",
+    "name": "Mana Jelly",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "+20 max mana",
+        "Standing still boosts mana regen"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21005,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Mirage_Jelly_%28item%29.png",
+    "name": "Mirage Jelly (item)",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Lowers the cost of stealth strikes by 5%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21006,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Radiant_Ooze.png",
+    "name": "Radiant Ooze",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "You emit light and regen life more quickly at night"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

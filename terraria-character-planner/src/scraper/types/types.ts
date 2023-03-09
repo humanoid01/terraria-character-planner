@@ -38,6 +38,7 @@ export interface Crafting {
 }
 
 export interface DroppedBy {
+  itemsName: string[];
   entityName: string | undefined;
   entityImg: string | undefined;
   quantity: string | undefined;

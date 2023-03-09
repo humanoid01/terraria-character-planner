@@ -13,6 +13,7 @@ import { getDebuffChance } from '../scraperFunctions/getDebuffChance.js';
 import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
 import { scrapeCrafting } from './craftingScraper.js';
 import { scrapeDroppedBy } from './droppedByScraper.js';
+import { getDamage } from './../scraperFunctions/getDamage.js';
 
 interface Accessory extends Item {
   defense: string | undefined;
@@ -20,19 +21,11 @@ interface Accessory extends Item {
   damage: string | undefined;
 }
 
-const getDamage = (el: cheerio.Element) => {
-  const $ = cheerio.load(el);
-  const text = $('td').text();
-  const pcIndex = text.indexOf('/');
-  if (pcIndex === -1) return text;
-  return text.slice(0, pcIndex).trim();
-};
-
-export const scraperAccessory = async (
+export const scrapeAccessory = async (
   url: string,
   id?: number,
   isModded: boolean = false
-) => {
+): Promise<Accessory> => {
   const buffs: Buffs = {
     name: undefined,
     img: undefined,
@@ -47,7 +40,7 @@ export const scraperAccessory = async (
     tooltip: undefined,
   };
   const accessory: Accessory = {
-    id: undefined,
+    id,
     img: undefined,
     name: undefined,
     type: undefined,
@@ -158,13 +151,11 @@ export const scraperAccessory = async (
 
     accessory.projectiles = getProjectiles(el);
   });
-
   const [crafting, usedIn] = scrapeCrafting(data);
 
   accessory.crafting = crafting;
   accessory.usedIn = usedIn;
-
   accessory.droppedBy = scrapeDroppedBy(data);
-};
 
-scraperAccessory('https://terraria.fandom.com/wiki/Bee_Cloak');
+  return accessory;
+};

@@ -1,0 +1,2527 @@
+[
+  {
+    "id": 6000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Copper_Watch.png",
+    "name": "Copper Watch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Copper_Bar.png",
+              "name": "Copper Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Chain.png",
+              "name": "Chain",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Copper_Watch.png",
+          "name": "Copper Watch",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Wooden_Table.png",
+            "name": "Table"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Wooden_Chair.png",
+            "name": "Chair"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Copper_Watch.png",
+              "name": "Copper Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/5_Second_Timer.png",
+          "name": "5 Second Timer",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Tin_Watch.png",
+    "name": "Tin Watch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d6/Tin_Bar.png",
+              "name": "Tin Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Chain.png",
+              "name": "Chain",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Tin_Watch.png",
+          "name": "Tin Watch",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Wooden_Table.png",
+            "name": "Table"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Wooden_Chair.png",
+            "name": "Chair"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Tin_Watch.png",
+              "name": "Tin Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/5_Second_Timer.png",
+          "name": "5 Second Timer",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Silver_Watch.png",
+    "name": "Silver Watch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Silver_Bar.png",
+              "name": "Silver Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Chain.png",
+              "name": "Chain",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Silver_Watch.png",
+          "name": "Silver Watch",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Wooden_Table.png",
+            "name": "Table"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Wooden_Chair.png",
+            "name": "Chair"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Silver_Watch.png",
+              "name": "Silver Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/3_Second_Timer.png",
+          "name": "3 Second Timer",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Tungsten_Watch.png",
+    "name": "Tungsten Watch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f3/Tungsten_Bar.png",
+              "name": "Tungsten Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Chain.png",
+              "name": "Chain",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Tungsten_Watch.png",
+          "name": "Tungsten Watch",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Wooden_Table.png",
+            "name": "Table"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Wooden_Chair.png",
+            "name": "Chair"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Tungsten_Watch.png",
+              "name": "Tungsten Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/3_Second_Timer.png",
+          "name": "3 Second Timer",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+    "name": "Gold Watch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Gold_Bar.png",
+              "name": "Gold Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Chain.png",
+              "name": "Chain",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+          "name": "Gold Watch",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Wooden_Table.png",
+            "name": "Table"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Wooden_Chair.png",
+            "name": "Chair"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+              "name": "Gold Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/1_Second_Timer.png",
+          "name": "1 Second Timer",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+              "name": "Gold Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+          "name": "GPS",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+    "name": "Platinum Watch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Platinum_Bar.png",
+              "name": "Platinum Bar",
+              "quantity": "10"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Chain.png",
+              "name": "Chain",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+          "name": "Platinum Watch",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Wooden_Table.png",
+            "name": "Table"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Wooden_Chair.png",
+            "name": "Chair"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+              "name": "Platinum Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/1_Second_Timer.png",
+          "name": "1 Second Timer",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+              "name": "Platinum Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+          "name": "GPS",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+    "name": "Depth Meter",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays depth"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+              "name": "Gold Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+          "name": "GPS",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+              "name": "Platinum Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {},
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Spore Bat",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spore_Bat.png",
+        "quantity": "1",
+        "rate": "1"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 6007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+    "name": "Compass",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays horizontal position"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+              "name": "Gold Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+          "name": "GPS",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+              "name": "Platinum Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {},
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Undead Viking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Undead_Viking.png",
+        "quantity": "1",
+        "rate": "2"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 6008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Radar.png",
+    "name": "Radar",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Detects enemies around you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Tally_Counter.png",
+              "name": "Tally Counter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Lifeform_Analyzer.png",
+              "name": "Lifeform Analyzer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Radar.png",
+              "name": "Radar",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+          "name": "R.E.K. 3000",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Wooden Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "quantity": "1",
+        "rate": "0.44*1/225 (0.44"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Wooden Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "quantity": "1",
+        "rate": "0.44*1/225 (0.44"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Wooden Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "quantity": "1",
+        "rate": "0.44*1/225 (0.44"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 6009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Lifeform_Analyzer.png",
+    "name": "Lifeform Analyzer",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays the name of rare creatures around you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Tally_Counter.png",
+              "name": "Tally Counter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Lifeform_Analyzer.png",
+              "name": "Lifeform Analyzer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Radar.png",
+              "name": "Radar",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+          "name": "R.E.K. 3000",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Tally_Counter.png",
+    "name": "Tally Counter",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays how many monsters have been killed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Tally_Counter.png",
+              "name": "Tally Counter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Lifeform_Analyzer.png",
+              "name": "Lifeform Analyzer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Radar.png",
+              "name": "Radar",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+          "name": "R.E.K. 3000",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Dark Caster",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Dark_Caster.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Dark Caster",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Dark_Caster.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Dark Caster",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Dark_Caster.png",
+        "quantity": "1",
+        "rate": "1"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 6011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Metal_Detector.png",
+    "name": "Metal Detector",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays the most valuable ore around you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Metal_Detector.png",
+              "name": "Metal Detector",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Stopwatch.png",
+              "name": "Stopwatch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/DPS_Meter.png",
+              "name": "DPS Meter",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+          "name": "Goblin Tech",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Nymph",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Nymph.png",
+        "quantity": "1",
+        "rate": "50"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Nymph",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Nymph.png",
+        "quantity": "1",
+        "rate": "50"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 6012,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Stopwatch.png",
+    "name": "Stopwatch",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays how fast the player is moving"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Metal_Detector.png",
+              "name": "Metal Detector",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Stopwatch.png",
+              "name": "Stopwatch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/DPS_Meter.png",
+              "name": "DPS Meter",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+          "name": "Goblin Tech",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6013,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/DPS_Meter.png",
+    "name": "DPS Meter",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays your damage per second"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Metal_Detector.png",
+              "name": "Metal Detector",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Stopwatch.png",
+              "name": "Stopwatch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/DPS_Meter.png",
+              "name": "DPS Meter",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+          "name": "Goblin Tech",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6014,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+    "name": "Fisherman's Pocket Guide",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays fishing information"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+              "name": "Weather Radio",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+          "name": "Fisherman's Pocket Guide",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+              "name": "Fisherman's Pocket Guide",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+          "name": "Sextant",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+              "name": "Fisherman's Pocket Guide",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+              "name": "Weather Radio",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+              "name": "Sextant",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+          "name": "Fish Finder",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6015,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+    "name": "Weather Radio",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays the weather"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+              "name": "Sextant",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+          "name": "Weather Radio",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+              "name": "Weather Radio",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+          "name": "Fisherman's Pocket Guide",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+              "name": "Fisherman's Pocket Guide",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+              "name": "Weather Radio",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+              "name": "Sextant",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+          "name": "Fish Finder",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6016,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+    "name": "Sextant",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays the phase of the moon"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+              "name": "Fisherman's Pocket Guide",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+          "name": "Sextant",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+              "name": "Sextant",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+          "name": "Weather Radio",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+              "name": "Fisherman's Pocket Guide",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+              "name": "Weather Radio",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+              "name": "Sextant",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+          "name": "Fish Finder",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6017,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+    "name": "GPS",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Shows position",
+        "Tells the time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Gold_Watch.png",
+              "name": "Gold Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+          "name": "GPS",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Platinum_Watch.png",
+              "name": "Platinum Watch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Depth_Meter.png",
+              "name": "Depth Meter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Compass.png",
+              "name": "Compass",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {},
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+              "name": "GPS",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+              "name": "Fish Finder",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+              "name": "Goblin Tech",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+              "name": "R.E.K. 3000",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+          "name": "PDA",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6018,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+    "name": "R.E.K. 3000",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays number of monsters, kill count, and rare creatures"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Tally_Counter.png",
+              "name": "Tally Counter",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Lifeform_Analyzer.png",
+              "name": "Lifeform Analyzer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Radar.png",
+              "name": "Radar",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+          "name": "R.E.K. 3000",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+              "name": "GPS",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+              "name": "Fish Finder",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+              "name": "Goblin Tech",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+              "name": "R.E.K. 3000",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+          "name": "PDA",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6019,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+    "name": "Goblin Tech",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays movement speed, damage per second, and valuable ore"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Metal_Detector.png",
+              "name": "Metal Detector",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Stopwatch.png",
+              "name": "Stopwatch",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/DPS_Meter.png",
+              "name": "DPS Meter",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+          "name": "Goblin Tech",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+              "name": "GPS",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+              "name": "Fish Finder",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+              "name": "Goblin Tech",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+              "name": "R.E.K. 3000",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+          "name": "PDA",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6020,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+    "name": "Fish Finder",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays weather, moon phase, and fishing information"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Fisherman%27s_Pocket_Guide.png",
+              "name": "Fisherman's Pocket Guide",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Weather_Radio.png",
+              "name": "Weather Radio",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Sextant.png",
+              "name": "Sextant",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+          "name": "Fish Finder",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+              "name": "GPS",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+              "name": "Fish Finder",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+              "name": "Goblin Tech",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+              "name": "R.E.K. 3000",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+          "name": "PDA",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6021,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+    "name": "PDA",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Displays everything"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/GPS.png",
+              "name": "GPS",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Fish_Finder.png",
+              "name": "Fish Finder",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Goblin_Tech.png",
+              "name": "Goblin Tech",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/R.E.K._3000.png",
+              "name": "R.E.K. 3000",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+          "name": "PDA",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+              "name": "PDA",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Ice_Mirror.png",
+              "name": "Ice Mirror",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Cell_Phone.png",
+          "name": "Cell Phone",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/PDA.png",
+              "name": "PDA",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Magic_Mirror.png",
+              "name": "Magic Mirror",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {},
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6022,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Mechanical_Lens.png",
+    "name": "Mechanical Lens",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Grants improved wire vision"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Multicolor_Wrench.png",
+              "name": "Multicolor Wrench",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Mechanical_Lens.png",
+              "name": "Mechanical Lens",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Ruler.png",
+              "name": "Ruler",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": "60"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/The_Grand_Design.png",
+          "name": "The Grand Design",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Multicolor_Wrench.png",
+              "name": "Multicolor Wrench",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Mechanical_Lens.png",
+              "name": "Mechanical Lens",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Mechanical_Ruler.png",
+              "name": "Mechanical Ruler",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Wire.png",
+              "name": "Wire",
+              "quantity": "60"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/The_Grand_Design.png",
+          "name": "The Grand Design",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6023,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Ruler.png",
+    "name": "Ruler",
+    "type": "Weapon Crafting material",
+    "damage": "12",
+    "useTime": "20 (Very fast)",
+    "knockback": "0.5 (Extremely weak)",
+    "critChance": "4%",
+    "velocity": "4.8 (effective)",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 6024,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Mechanical_Ruler.png",
+    "name": "Mechanical Ruler",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Creates measurement lines on screen for block placement"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

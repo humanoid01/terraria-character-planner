@@ -1,0 +1,6088 @@
+[
+  {
+    "id": 18000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Abyss_Shocker.png",
+    "name": "Abyss Shocker",
+    "type": "Weapon",
+    "damage": "28 Magic",
+    "mana": "10",
+    "useTime": "19 Very Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Fires an erratic lightning bolt that arcs and bounces between enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "You cannot move"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Abyssal_Tome.png",
+    "name": "Abyssal Tome",
+    "type": "Weapon – Crafting material",
+    "damage": "33 Magic",
+    "mana": "15",
+    "useTime": "25 Fast",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Casts a slow-moving ball of dark energy"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Abyss_Ball.png",
+        "name": "Abyss Ball"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Acid_Gun.png",
+    "name": "Acid Gun",
+    "type": "Weapon",
+    "damage": "17 Magic",
+    "mana": "9",
+    "useTime": "45 Very Slow",
+    "knockback": "1.5 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Releases three streams of acid"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18003,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Aergian_Technistaff.png",
+    "name": "Aergian Technistaff",
+    "type": "Weapon",
+    "damage": "127 Summon",
+    "mana": "28",
+    "useTime": "6 Insanely Fast",
+    "knockback": "0 (No Knockback)",
+    "velocity": "0",
+    "tooltip": [
+      [
+        "Summons an orbital Aergia Neuron",
+        "Holding right click causes the orbit to accelerate",
+        "Once fully charged, the ring can be thrown to chase enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {},
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Blue_Exo_Pulse_Laser.gif",
+        "name": "Blue Exo Pulse Laser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18004,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/49/Aero_Bolt.png",
+    "name": "Aero Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "35 Magic",
+    "mana": "12",
+    "useTime": "17 Very Fast",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "5.5",
+    "tooltip": [
+      [
+        "Casts a slow-moving mini hurricanes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Frigidflash_Bolt_%28projectile%29.png",
+        "name": "Frigidflash Bolt (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18005,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Aether%27s_Whisper.png",
+    "name": "Aether's Whisper",
+    "type": "Weapon – Crafting material",
+    "damage": "504 Magic",
+    "mana": "30",
+    "useTime": "24 Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Inflicts long-lasting shadowflame and splits on tile hits",
+        "Projectiles gain damage as they travel",
+        "Right click to change from magic to ranged damage",
+        "Right click consumes no mana"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Shadowflame",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "chance": "100% chance",
+        "duration": "10 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18006,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Aetherflux_Cannon.png",
+    "name": "Aetherflux Cannon",
+    "type": "Weapon",
+    "damage": "247 Magic",
+    "mana": "8",
+    "useTime": "36 Very Slow",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "24",
+    "tooltip": [
+      [
+        "Fires a barrage of phased god rays that pass through terrain"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18007,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7b/Alpha_Ray.png",
+    "name": "Alpha Ray",
+    "type": "Weapon",
+    "damage": "130 Magic",
+    "mana": "5",
+    "useTime": "4 Insanely Fast",
+    "knockback": "1.5 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Disintegrates everything with a tri-beam of energy and lasers",
+        "Right click to fire a Y-shaped beam of destructive energy and a spread of lasers"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18008,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3a/Alula_Australis.png",
+    "name": "Alula Australis",
+    "type": "Weapon",
+    "damage": "99 Magic",
+    "mana": "8",
+    "useTime": "17 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "13",
+    "tooltip": [
+      [
+        "Fires a beautiful aurora trailed by a star shower"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Astral_Star.png",
+        "name": "Astral Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18009,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Anahita%27s_Arpeggio.png",
+    "name": "Anahita's Arpeggio",
+    "type": "Weapon – Crafting material",
+    "damage": "92 Magic",
+    "mana": "7",
+    "useTime": "18 Very Fast",
+    "knockback": "6.5 (Strong)",
+    "critChance": "4%",
+    "velocity": "13",
+    "tooltip": [
+      [
+        "Casts slow-moving treble clefs that confuse enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Confused",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (Clefs)",
+        "tooltip": "Movement is reversed"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/Arpeggio_Note.png",
+        "name": "Arpeggio Note"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18010,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c8/Apoctosis_Array.png",
+    "name": "Apoctosis Array",
+    "type": "Weapon",
+    "damage": "99 Magic",
+    "mana": "12",
+    "useTime": "7 Insanely Fast",
+    "knockback": "6.75 (Strong)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [
+      [
+        "Fires ion blasts that speed up and then explode",
+        "Damage scales with how full your mana is",
+        "Using Astral Injection reduces the effectiveness of the mana boost"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Ion_Blast.png",
+        "name": "Ion Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18011,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Apotheosis.png",
+    "name": "Apotheosis",
+    "type": "Weapon",
+    "damage": "77 Magic",
+    "mana": "42",
+    "useTime": "177 Snail",
+    "knockback": "6.9 (Strong)",
+    "critChance": "4%",
+    "velocity": "42",
+    "tooltip": [
+      [
+        "Eat worms",
+        "Unleashes interdimensional projection magic"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18012,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Aquamarine_Staff.png",
+    "name": "Aquamarine Staff",
+    "type": "Weapon – Crafting material",
+    "damage": "17 Magic",
+    "mana": "3",
+    "useTime": "22 Fast",
+    "knockback": "2.5 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Shoots two blue bolts"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Aquamarine_Bolt.png",
+        "name": "Aquamarine Bolt"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18013,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/21/Arch_Amaryllis.png",
+    "name": "Arch Amaryllis",
+    "type": "Weapon – Crafting material",
+    "damage": "75 Magic",
+    "mana": "10",
+    "useTime": "23 Fast",
+    "knockback": "7.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Casts a beaming flower that explodes into homing petals"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Beaming_Flower.png",
+        "name": "Beaming Flower"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Beaming_Petal.png",
+        "name": "Beaming Petal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18014,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/20/Arctic_Bear_Paw.png",
+    "name": "Arctic Bear Paw",
+    "type": "Weapon",
+    "damage": "100 Magic",
+    "mana": "18",
+    "useTime": "28 Average",
+    "knockback": "10 (Extremely Strong)",
+    "critChance": "4%",
+    "velocity": "27",
+    "tooltip": [
+      [
+        "The savage mauling that fits in your pocket",
+        "Fires spiritual claws that ignore walls and confuse enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds",
+        "tooltip": "Cannot move and defense is shattered"
+      },
+      {
+        "name": "Confused",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
+        "chance": "33.33% chance",
+        "duration": "1-3.98 seconds",
+        "tooltip": "Movement is reversed"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Arctic_Bear_Paw_%28projectile%29.png",
+        "name": "Arctic Bear Paw (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18015,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f4/Art_Attack.png",
+    "name": "Art Attack",
+    "type": "Weapon",
+    "damage": "520 Magic",
+    "mana": "10",
+    "useTime": "24 Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Casts a star that follows the mouse that creates a rainbow trail as it moves",
+        "Once a full shape is created with the trail all enemies within it take damage proportional to how long it took to draw the shape",
+        "And the audience goes wild!"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/67/Art_Attack_Star.png",
+        "name": "Art Attack Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18016,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Asteroid_Staff.png",
+    "name": "Asteroid Staff",
+    "type": "Weapon – Crafting material",
+    "damage": "145 Magic",
+    "mana": "18",
+    "useTime": "10 Very Fast",
+    "knockback": "6.75 (Strong)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Summons asteroids from the sky"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Asteroid.png",
+        "name": "Asteroid"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18017,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f2/Astral_Staff.png",
+    "name": "Astral Staff",
+    "type": "Weapon",
+    "damage": "270 Magic",
+    "mana": "26",
+    "useTime": "18 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "19%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Summons a large crystal from the sky that has a large area of effect on impact."
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Astral_Crystal.gif",
+        "name": "Astral Crystal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18018,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Astralachnea_Staff.png",
+    "name": "Astralachnea Staff",
+    "type": "Weapon",
+    "damage": "50 Magic",
+    "mana": "19",
+    "useTime": "21 Fast",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "13",
+    "tooltip": [
+      [
+        "Fires a spread of homing astral spider fangs"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Astralachnea_Fang.png",
+        "name": "Astralachnea Fang"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18019,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ee/Atlantis.png",
+    "name": "Atlantis",
+    "type": "Weapon – Crafting material",
+    "damage": "70 Magic",
+    "mana": "12",
+    "useTime": "25 Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "32",
+    "tooltip": [
+      [
+        "Casts aquatic spears that split as they travel"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Atlantis_Spear.png",
+        "name": "Atlantis Spear"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18020,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fa/Augur_of_the_Elements.png",
+    "name": "Augur of the Elements",
+    "type": "Weapon – Crafting material",
+    "damage": "147 Magic",
+    "mana": "11",
+    "useTime": "10 Very Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "30",
+    "tooltip": [
+      [
+        "Casts a burst of elemental tentacles to spear your enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "Rapid health loss"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18021,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Belching_Saxophone.png",
+    "name": "Belching Saxophone",
+    "type": "Weapon",
+    "damage": "32 Magic",
+    "mana": "10",
+    "useTime": "24 Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Doot",
+        "Fires an array of dirty reeds, music notes, and sulphuric bubbles"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Reed, Bubble)",
+        "tooltip": "Your skin is burning off"
+      },
+      {
+        "name": "Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Mist)",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18022,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3c/Biofusillade.png",
+    "name": "Biofusillade",
+    "type": "Weapon – Crafting material",
+    "damage": "80 Magic",
+    "mana": "4",
+    "useTime": "3 Insanely Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Unleashes a concentrated beam of life energy"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/24/Gamma_Laser.png",
+        "name": "Gamma Laser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18023,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Black_Anurian.png",
+    "name": "Black Anurian",
+    "type": "Weapon",
+    "damage": "43 Magic",
+    "mana": "10",
+    "useTime": "14 Very Fast",
+    "knockback": "2.75 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [
+      [
+        "Spews bubbles and homing plankton"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Black_Anurian_Bubble.png",
+        "name": "Black Anurian Bubble"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Black_Plankton.gif",
+        "name": "Black Plankton"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18024,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Blood_Bath.png",
+    "name": "Blood Bath",
+    "type": "Weapon",
+    "damage": "31 Magic",
+    "mana": "10",
+    "useTime": "30 Average",
+    "knockback": "5.75 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Drenches your foes in blood"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Blood_Beam.png",
+        "name": "Blood Beam"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18025,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Brimrose_Staff.png",
+    "name": "Brimrose Staff",
+    "type": "Weapon",
+    "damage": "20 Magic",
+    "mana": "14",
+    "useTime": "30 Average",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires a spread of brimstone beams"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18026,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Burning_Sea.png",
+    "name": "Burning Sea",
+    "type": "Weapon",
+    "damage": "72 Magic",
+    "mana": "15",
+    "useTime": "20 Very Fast",
+    "knockback": "6.5 (Strong)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Fires a bouncing brimstone fireball that splits into homing fireballs upon collision with water"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Brimstone_Fireball.png",
+        "name": "Brimstone Fireball"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Brimstone_Homer.png",
+        "name": "Brimstone Homer"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18027,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Carnage_Ray.png",
+    "name": "Carnage Ray",
+    "type": "Weapon – Crafting material",
+    "damage": "24 Magic",
+    "mana": "10",
+    "useTime": "20 Very Fast",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires a blood ray",
+        "The farther along the ray hit enemies are, the more damage they take"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18028,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Clamor_Noctus.png",
+    "name": "Clamor Noctus",
+    "type": "Weapon",
+    "damage": "270 Magic",
+    "mana": "12",
+    "useTime": "21 Fast",
+    "knockback": "5.2 (Average)",
+    "critChance": "4%",
+    "velocity": "25",
+    "tooltip": [
+      [
+        "Let the sky fall",
+        "Fires night wyverns and stars from the sky that stick to enemies and tiles and explode"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Nightwither",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Nightwither.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Star/Explosion)",
+        "tooltip": "Incinerated by lunar rays"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/63/Night_Wyvern.png",
+        "name": "Night Wyvern"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Stratus_Star.png",
+        "name": "Stratus Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18029,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b0/Clothier%27s_Wrath.png",
+    "name": "Clothier's Wrath",
+    "type": "Weapon",
+    "damage": "38 Magic",
+    "mana": "15",
+    "useTime": "22 Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Shoots 3 shadowflame skulls"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Shadowflame",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "chance": "100% chance",
+        "duration": "10 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Shadowflame_Skull.gif",
+        "name": "Shadowflame Skull"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18030,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Coral_Spout.png",
+    "name": "Coral Spout",
+    "type": "Weapon",
+    "damage": "17 Magic",
+    "mana": "4",
+    "useTime": "26 Average",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Casts coral water spouts that lay on the ground and damage enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/93/Coral_Spike.png",
+        "name": "Coral Spike"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18031,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Cosmic_Rainbow.png",
+    "name": "Cosmic Rainbow",
+    "type": "Weapon – Crafting material",
+    "damage": "105 Magic",
+    "mana": "30",
+    "useTime": "35 Slow",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "18",
+    "tooltip": [
+      [
+        "Launches a barrage of rainbows"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Rainbow_%28projectile%29.png",
+        "name": "Rainbow (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18032,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/83/Cryophobia.png",
+    "name": "Cryophobia",
+    "type": "Weapon",
+    "damage": "55 Magic",
+    "mana": "18",
+    "useTime": "28 Average",
+    "knockback": "1.5 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Chill",
+        "Fires an icy wave that splits multiple times and explodes into shards"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds (Cryo Blast)",
+        "tooltip": "Cannot move and defense is shattered"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Cryo Blast)2 seconds (Icicle)",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Cryo_Blast.gif",
+        "name": "Cryo Blast"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Blizzard.gif",
+        "name": "Blizzard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18033,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Crystal_Flare_Staff.png",
+    "name": "Crystal Flare Staff",
+    "type": "Weapon",
+    "damage": "50 Magic",
+    "mana": "15",
+    "useTime": "20 Very Fast",
+    "knockback": "5.25 (Average)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Fires blue frost flames that explode"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Spirit_Flame_Curse.gif",
+        "name": "Spirit Flame Curse"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18034,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ae/Dark_Harvest_Staff.png",
+    "name": "Dark Harvest Staff",
+    "type": "Weapon",
+    "damage": "96 Magic",
+    "mana": "10",
+    "useTime": "20 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Casts dark pumpkins which split into damaging chunks"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18035,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Dark_Spark.gif",
+    "name": "Dark Spark",
+    "type": "Weapon",
+    "damage": "60 Magic",
+    "mana": "10",
+    "useTime": "10 Very Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "30",
+    "tooltip": [
+      [
+        "And everything under the sun is in tune,",
+        "But the sun is eclipsed by the moon."
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Dark_Spark_Beam.png",
+        "name": "Dark Spark Beam"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18036,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Death_Valley_Duster.png",
+    "name": "Death Valley Duster",
+    "type": "Weapon – Crafting material",
+    "damage": "110 Magic",
+    "mana": "9",
+    "useTime": "25 Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "5",
+    "tooltip": [
+      [
+        "Casts a large blast of dust"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Death_Valley_Blast.gif",
+        "name": "Death Valley Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18037,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Deathhail_Staff.png",
+    "name": "Deathhail Staff",
+    "type": "Weapon",
+    "damage": "328 Magic",
+    "mana": "16",
+    "useTime": "22 Fast",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "18",
+    "tooltip": [
+      [
+        "Rain death upon your foes!",
+        "Casts a storm of nebula lasers from the sky"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18038,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Divine_Retribution.png",
+    "name": "Divine Retribution",
+    "type": "Weapon",
+    "damage": "39 Magic",
+    "mana": "15",
+    "useTime": "12 Very Fast",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "19",
+    "tooltip": [
+      [
+        "Mage is superior to rogue; look, we got a donor weapon to prove it!"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Dissolving from holy light"
+      },
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Aquatic pressure"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/05/Divine_Spear.png",
+        "name": "Divine Spear"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18039,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Downpour.png",
+    "name": "Downpour",
+    "type": "Weapon",
+    "damage": "43 Magic",
+    "mana": "10",
+    "useTime": "15 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Fires a spray of water that drips extra trails of water"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18040,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/be/Effervescence.png",
+    "name": "Effervescence",
+    "type": "Weapon",
+    "damage": "49 Magic",
+    "mana": "17",
+    "useTime": "15 Very Fast",
+    "knockback": "3.75 (Weak)",
+    "critChance": "4%",
+    "velocity": "13",
+    "tooltip": [
+      [
+        "Shoots a massive spread of bubbles"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Uber_Bubble.png",
+        "name": "Uber Bubble"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Blue_Bubble.png",
+        "name": "Blue Bubble"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18041,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eidolic_Wail.png",
+    "name": "Eidolic Wail",
+    "type": "Weapon – Crafting material",
+    "damage": "126 Magic",
+    "mana": "10",
+    "useTime": "36 Very Slow",
+    "knockback": "1 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [
+      [
+        "Earrape",
+        "Fires a string of bouncing sound waves that become stronger as they travel"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Aquatic pressure"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Eidolic_Sound_Wave.png",
+        "name": "Eidolic Sound Wave"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18042,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Eidolon_Staff.png",
+    "name": "Eidolon Staff",
+    "type": "Weapon",
+    "damage": "110 Magic",
+    "mana": "20",
+    "useTime": "18 Very Fast",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "The power of an ancient cultist resonates within this staff",
+        "Fires a spread of ancient light and has a chance to fire a spinning ice cluster",
+        "",
+        " Summons a Juvenile Eidolon Wyrm to fight for you which takes up 4 minion slots",
+        "Right click to fire out Ice Clusters",
+        "When an Ice Cluster intersects with the Wyrm, it explodes into homing icicles",
+        "Only one wyrm can exist at a time"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds (Ice Cluster)",
+        "tooltip": "Cannot move and defense is shattered"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bd/Ice_Mist.png",
+        "name": "Ice Mist"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6c/Star_Blast.png",
+        "name": "Star Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18043,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Eldritch_Tome.png",
+    "name": "Eldritch Tome",
+    "type": "Weapon – Crafting material",
+    "damage": "42 Magic",
+    "mana": "7",
+    "useTime": "21 Fast",
+    "knockback": "3.5 (Weak)",
+    "critChance": "9%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Casts eldritch tentacles to spear your enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18044,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Elemental_Ray.png",
+    "name": "Elemental Ray",
+    "type": "Weapon – Crafting material",
+    "damage": "90 Magic",
+    "mana": "18",
+    "useTime": "16 Very Fast",
+    "knockback": "7.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Casts four celestial beams near the player",
+        "Solar beams explode on enemy hits",
+        "Nebula beams sweeps a little bit over time",
+        "Vortex beams act like fast lightning and electrify enemies on hit",
+        "Stardust beams release small stars that home on enemy hits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18045,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Eternity.png",
+    "name": "Eternity",
+    "type": "Weapon",
+    "damage": "840 Magic",
+    "mana": "30",
+    "useTime": "120 Snail",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "0",
+    "tooltip": [
+      [
+        "There's pictures of ponies in the book"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Eternity_Crystal.png",
+        "name": "Eternity Crystal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18046,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Event_Horizon.png",
+    "name": "Event Horizon",
+    "type": "Weapon – Crafting material",
+    "damage": "275 Magic",
+    "mana": "12",
+    "useTime": "32 Slow",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "25",
+    "tooltip": [
+      [
+        "Nothing, not even light, can return.",
+        "Fires a ring of stars to home in on nearby enemies",
+        "Stars spawn black holes on enemy hits"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Daybroken",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Star)3 seconds (Blackhole)",
+        "tooltip": "Incinerated by solar rays"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Event_Horizon_Star.png",
+        "name": "Event Horizon Star"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/52/Event_Horizon_Blackhole.gif",
+        "name": "Event Horizon Blackhole"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18047,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Everglade_Spray.png",
+    "name": "Everglade Spray",
+    "type": "Weapon",
+    "damage": "28 Magic",
+    "mana": "8",
+    "useTime": "18 Very Fast",
+    "knockback": "4.5 (Average)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Fires a stream of burning green ichor"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Ichor (debuff)",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "10 seconds",
+        "tooltip": "Defense reduced by 20"
+      },
+      {
+        "name": "Cursed Inferno",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Losing lifeAll damage taken increased by 20%"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18048,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cd/Fabstaff.png",
+    "name": "Fabstaff",
+    "type": "Weapon",
+    "damage": "125 Magic",
+    "mana": "50",
+    "useTime": "20 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "13.5",
+    "tooltip": [
+      [
+        "Casts a bouncing beam that splits when enemies are near it"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18049,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Face_Melter.png",
+    "name": "Face Melter",
+    "type": "Weapon",
+    "damage": "140 Magic",
+    "mana": "10",
+    "useTime": "10 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "WOOO!! FAAAAAAANTASYY WORLDDDDD!",
+        "Fires music notes",
+        "Right click summons an amplifier that shoots towards your mouse"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Melter_Note_Eighth.png",
+        "name": "Melter Note Eighth"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/47/Melter_Note_Quarter.png",
+        "name": "Melter Note Quarter"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18050,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/Fate%27s_Reveal.png",
+    "name": "Fate's Reveal",
+    "type": "Weapon",
+    "damage": "120 Magic",
+    "mana": "20",
+    "useTime": "16 Very Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Spawns ghostly fireballs that follow the player"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Fate%27s_Reveal_Flame.gif",
+        "name": "Fate's Reveal Flame"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18051,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c7/Flare_Bolt.png",
+    "name": "Flare Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "42 Magic",
+    "mana": "12",
+    "useTime": "30 Average",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "7.5",
+    "tooltip": [
+      [
+        "Casts a slow-moving ball of flame"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c6/Flare_Bolt_%28projectile%29.png",
+        "name": "Flare Bolt (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18052,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/01/Forbidden_Sun.png",
+    "name": "Forbidden Sun",
+    "type": "Weapon – Crafting material",
+    "damage": "80 Magic",
+    "mana": "33",
+    "useTime": "30 Average",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Casts a fire orb that emits a gigantic explosion on death"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Forbidden_Sun_Orb.gif",
+        "name": "Forbidden Sun Orb"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18053,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Frigidflash_Bolt.png",
+    "name": "Frigidflash Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "45 Magic",
+    "mana": "13",
+    "useTime": "15 Very Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "6.5",
+    "tooltip": [
+      [
+        "Casts a slow-moving ball of flash-freezing magma"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Frigidflash_Bolt_%28projectile%29.png",
+        "name": "Frigidflash Bolt (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18054,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Frost_Bolt.png",
+    "name": "Frost Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "14 Magic",
+    "mana": "6",
+    "useTime": "20 Very Fast",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Casts a slow-moving ball of frost"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "1 second",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Frost_Bolt_%28projectile%29.png",
+        "name": "Frost Bolt (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18055,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Gatling_Laser.png",
+    "name": "Gatling Laser",
+    "type": "Weapon",
+    "damage": "43 Magic",
+    "mana": "6",
+    "useTime": "2 Insanely Fast",
+    "knockback": "1 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "24",
+    "tooltip": [
+      [
+        "Large laser cannon used primarily by Yharim's fleet and base defense force",
+        "Current Charge: [CHARGE]"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png",
+      "tier": "l"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18056,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Gauss_Pistol.png",
+    "name": "Gauss Pistol",
+    "type": "Weapon",
+    "damage": "110 Magic",
+    "mana": "6",
+    "useTime": "20 Very Fast",
+    "knockback": "11 (Extremely Strong)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "A simple pistol that utilizes magic power; a weapon for the more magically adept.",
+        "Fires a devastating high velocity blast with extreme knockback",
+        "Current Charge: [CHARGE]"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png",
+      "tier": "l"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18057,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Genisis.png",
+    "name": "Genisis",
+    "type": "Weapon – Crafting material",
+    "damage": "56 Magic",
+    "mana": "4",
+    "useTime": "4 Insanely Fast",
+    "knockback": "1.50 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires a Y-shaped beam of destructive energy and a spread of lasers"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18058,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Ghastly_Visage.png",
+    "name": "Ghastly Visage",
+    "type": "Weapon",
+    "damage": "80 Magic",
+    "mana": "20",
+    "useTime": "27 Average",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Fires homing ghast energy that explodes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/77/Ghastly_Blast.png",
+        "name": "Ghastly Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18059,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/47/Gleaming_Magnolia.png",
+    "name": "Gleaming Magnolia",
+    "type": "Weapon – Crafting material",
+    "damage": "32 Magic",
+    "mana": "11",
+    "useTime": "27 Average",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Casts a gleaming flower that explodes into petals"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ac/Gleaming_Flower.png",
+        "name": "Gleaming Flower"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/85/Gleaming_Petal.png",
+        "name": "Gleaming Petal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18060,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Glorious_End.png",
+    "name": "Glorious End",
+    "type": "Weapon",
+    "damage": "120 Magic",
+    "mana": "20",
+    "useTime": "30 Average",
+    "knockback": "10 (Extremely Strong)",
+    "critChance": "4%",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "Casts a meteor star for the player to ride in the direction of the cursor",
+        "The meteor star explodes after hitting an enemy, crashing into a wall, or after 6 seconds",
+        "This explosion hurts both enemies and the player",
+        "Releasing the cursor before the star explodes will cause it to explode prematurely for less damage",
+        "Mounts are disabled while this weapon is in use"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Meteor_Star.gif",
+        "name": "Meteor Star"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Meteor_Star_Explosion.gif",
+        "name": "Meteor Star Explosion"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18061,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Gruesome_Eminence.png",
+    "name": "Gruesome Eminence",
+    "type": "Weapon",
+    "damage": "888 Magic",
+    "mana": "8",
+    "useTime": "27 Average",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "The spirits of the amalgam could never pass on to their desired afterlife,"
+      ],
+      [
+        "Tainted and melded by rage as they were."
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Spirit_Congregation.png",
+        "name": "Spirit Congregation"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18062,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Hadal_Urn.png",
+    "name": "Hadal Urn",
+    "type": "Weapon",
+    "damage": "32 Magic",
+    "mana": "10",
+    "useTime": "14 Very Fast",
+    "knockback": "2.75 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [
+      [
+        "Fires a random assortment of ocean creatures",
+        "'There's no telling how long it was down there... or what lurks inside'"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Isopod, Jellyfish, Lamprey, Starfish)",
+        "tooltip": "Aquatic pressure"
+      },
+      {
+        "name": "Acid Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100% chance",
+        "duration": "6 seconds (Starfish Shard)",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18063,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Hadopelagic_Echo.png",
+    "name": "Hadopelagic Echo",
+    "type": "Weapon",
+    "damage": "500 Magic",
+    "mana": "15",
+    "useTime": "30 Average",
+    "knockback": "1.50 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Fires a string of bouncing sound waves that become stronger as they travel",
+        "Sound waves echo additional sound waves on enemy hits"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Aquatic pressure"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Eidolic_Sound_Wave.png",
+        "name": "Eidolic Sound Wave"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18064,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Harvest_Staff.png",
+    "name": "Harvest Staff",
+    "type": "Weapon",
+    "damage": "26 Magic",
+    "mana": "5",
+    "useTime": "23 Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Casts flaming pumpkins"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Flaming_Pumpkin.png",
+        "name": "Flaming Pumpkin"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18065,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Helium_Flash.png",
+    "name": "Helium Flash",
+    "type": "Weapon",
+    "damage": "2727 Magic",
+    "mana": "26",
+    "useTime": "40 Very Slow",
+    "knockback": "9.5 (Extremely Strong)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "The power of a galaxy, if only for mere moments",
+        "Launches volatile star cores which erupt into colossal fusion blasts"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Starcore)",
+        "tooltip": "Your skin is burning off"
+      },
+      {
+        "name": "Daybroken",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Starcore)5 seconds (Explosion)",
+        "tooltip": "Incinerated by solar rays"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Volatile_Starcore.gif",
+        "name": "Volatile Starcore"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18066,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Hell_Burst.png",
+    "name": "Hell Burst",
+    "type": "Weapon",
+    "damage": "30 Magic",
+    "mana": "14",
+    "useTime": "30 Average",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "32",
+    "tooltip": [
+      [
+        "Casts a beam of flame"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/Flame_Beam_Tip.png",
+        "name": "Flame Beam Tip"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18067,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Hellwing_Staff.png",
+    "name": "Hellwing Staff",
+    "type": "Weapon",
+    "damage": "33 Magic",
+    "mana": "18",
+    "useTime": "24 Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Casts flaming bats"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Hellwing_Pillar.gif",
+        "name": "Hellwing Pillar"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18068,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Hematemesis.png",
+    "name": "Hematemesis",
+    "type": "Weapon",
+    "damage": "75 Magic",
+    "mana": "14",
+    "useTime": "22 Fast",
+    "knockback": "3.75 (Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Casts a barrage of blood geysers from below"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18069,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Heresy.gif",
+    "name": "Heresy",
+    "type": "Weapon – Crafting material",
+    "damage": "888 Magic",
+    "mana": "10",
+    "useTime": "120 Snail",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "0",
+    "tooltip": [
+      [
+        "Releases fire and souls upward from a held book",
+        "As the book is held the power of both increases"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bc/Redirecting_Gilded_Soul.gif",
+        "name": "Redirecting Gilded Soul"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Redirecting_Lost_Soul.gif",
+        "name": "Redirecting Lost Soul"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c5/Redirecting_Vengeful_Soul.gif",
+        "name": "Redirecting Vengeful Soul"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18070,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/Hyphae_Rod.png",
+    "name": "Hyphae Rod",
+    "type": "Weapon",
+    "damage": "20 Magic",
+    "mana": "7",
+    "useTime": "24 Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Creates mushroom spores near the player"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Truffle_Spore.gif",
+        "name": "Truffle Spore"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18071,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b5/Ice_Barrage.png",
+    "name": "Ice Barrage",
+    "type": "Weapon",
+    "damage": "2250 Magic",
+    "mana": "180",
+    "useTime": "300 Snail",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "2",
+    "tooltip": [
+      [
+        "Oh dear, you are dead!",
+        "Casts a deadly and powerful ice spell in the location of the cursor",
+        "This ice spell locks itself to the position of nearby enemies",
+        "Consumes 2 Blood Runes every time it's used"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "1 second (Spell)",
+        "tooltip": "Cannot move and defense is shattered"
+      },
+      {
+        "name": "Exo Freeze",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Exo_Freeze.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds (Spell)",
+        "tooltip": "Cannot move"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Snowflake)",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/IceBlock.png",
+        "name": "IceBlock"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/05/Ice_Block_Icicle.png",
+        "name": "Ice Block Icicle"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/North_Pole_Snowflake.png",
+        "name": "North Pole Snowflake"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18072,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Icicle_Staff.png",
+    "name": "Icicle Staff",
+    "type": "Weapon – Crafting material",
+    "damage": "10 Magic",
+    "mana": "6",
+    "useTime": "30 Average",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "11",
+    "tooltip": [
+      [
+        "Casts icicles from the sky"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Icicle_Staff_Icicle.png",
+        "name": "Icicle Staff Icicle"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18073,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/46/Icicle_Trident.png",
+    "name": "Icicle Trident",
+    "type": "Weapon",
+    "damage": "69 Magic",
+    "mana": "21",
+    "useTime": "25 Fast",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Shoots piercing icicles"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds",
+        "tooltip": "Cannot move and defense is shattered"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Trident_Icicle.png",
+        "name": "Trident Icicle"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18074,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Infernal_Rift.png",
+    "name": "Infernal Rift",
+    "type": "Weapon – Crafting material",
+    "damage": "40 Magic",
+    "mana": "15",
+    "useTime": "16 Very Fast",
+    "knockback": "7 (Strong)",
+    "critChance": "29%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Summons infernal blades that spawn additional blades on enemy hits"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Main Blade)2 seconds (Secondary Blade)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9c/Infernal_Blade.png",
+        "name": "Infernal Blade"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18075,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/01/Ion_Blaster.png",
+    "name": "Ion Blaster",
+    "type": "Weapon – Crafting material",
+    "damage": "43 Magic",
+    "mana": "6",
+    "useTime": "10 Very Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "3",
+    "tooltip": [
+      [
+        "Fires ion blasts that speed up and then explode",
+        "Damage scales with how full your mana is",
+        "Using Astral Injection reduces the effectiveness of the mana boost"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Ion_Blast.png",
+        "name": "Ion Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18076,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Keelhaul.png",
+    "name": "Keelhaul",
+    "type": "Weapon",
+    "damage": "55 Magic",
+    "mana": "50",
+    "useTime": "29 Average",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Summons a geyser upon hitting an enemy",
+        "Crumple em' like paper"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/22/Keelhaul_Bubble.png",
+        "name": "Keelhaul Bubble"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e3/Keelhaul_Geyser.gif",
+        "name": "Keelhaul Geyser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18077,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8e/Lashes_of_Chaos.png",
+    "name": "Lashes of Chaos",
+    "type": "Weapon – Crafting material",
+    "damage": "65 Magic",
+    "mana": "20",
+    "useTime": "25 Fast",
+    "knockback": "7.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Watch the world burn..."
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Brimstone_Hellfireball.gif",
+        "name": "Brimstone Hellfireball"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18078,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Lazhar.png",
+    "name": "Lazhar",
+    "type": "Weapon – Crafting material",
+    "damage": "100 Magic",
+    "mana": "4",
+    "useTime": "7 Insanely Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Fires a bouncing laser that explodes on enemy hits"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Explosion)",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18079,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Lazinator.png",
+    "name": "Lazinator",
+    "type": "Weapon – Crafting material",
+    "damage": "55 Magic",
+    "mana": "4",
+    "useTime": "7 Insanely Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Zap"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18080,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Light_God%27s_Brilliance.png",
+    "name": "Light God's Brilliance",
+    "type": "Weapon",
+    "damage": "64 Magic",
+    "mana": "4",
+    "useTime": "4 Insanely Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "25",
+    "tooltip": [
+      [
+        "Casts small, homing light beads along with explosive light balls"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4a/Light_Ball.png",
+        "name": "Light Ball"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Light_Bead.png",
+        "name": "Light Bead"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18081,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Mad_Alchemist%27s_Cocktail_Glove.png",
+    "name": "Mad Alchemist's Cocktail Glove",
+    "type": "Weapon",
+    "damage": "182 Magic",
+    "mana": "12",
+    "useTime": "14 Very Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "19",
+    "tooltip": [
+      [
+        "Fires a variety of high-velocity flasks",
+        "Right click to throw a prismatic flask that inflicts many debuffs",
+        "Red flasks explode violently, blue flasks contain poison gas, green flasks summon lunar flares and purple flasks explode into homing shrapnel"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18082,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Magna_Cannon.png",
+    "name": "Magna Cannon",
+    "type": "Weapon – Crafting material",
+    "damage": "26 Magic",
+    "mana": "12",
+    "useTime": "32 Slow",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Fires a concentrated blast of energy"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18083,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fd/Magnetic_Meltdown.png",
+    "name": "Magnetic Meltdown",
+    "type": "Weapon – Crafting material",
+    "damage": "60 Magic",
+    "mana": "40",
+    "useTime": "49 Extremely Slow",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Launches a diamond cross of supercharged magnet spheres"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2e/Magnetic_Orb.gif",
+        "name": "Magnetic Orb"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18084,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e0/Mana_Rose.png",
+    "name": "Mana Rose",
+    "type": "Weapon – Crafting material",
+    "damage": "20 Magic",
+    "mana": "8",
+    "useTime": "38 Very Slow",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Casts a mana flower that explodes into petals"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/Mana_Rose_%28projectile%29.png",
+        "name": "Mana Rose (projectile)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Mana_Petal.png",
+        "name": "Mana Petal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18085,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Miasma.png",
+    "name": "Miasma",
+    "type": "Weapon",
+    "damage": "40 Magic",
+    "mana": "16",
+    "useTime": "27 Average",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Fires a spread of gas clouds that slow down after hitting an enemy"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Miasma_Gas.png",
+        "name": "Miasma Gas"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18086,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Mistlestorm.png",
+    "name": "Mistlestorm",
+    "type": "Weapon",
+    "damage": "45 Magic",
+    "mana": "5",
+    "useTime": "6 Insanely Fast",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "24",
+    "tooltip": [
+      [
+        "Casts a storm of pine needles and leaves"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Pine_Needle.png",
+        "name": "Pine Needle"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Leaf_%28projectile%29.gif",
+        "name": "Leaf (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18087,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Nano_Purge.png",
+    "name": "Nano Purge",
+    "type": "Weapon – Crafting material",
+    "damage": "73 Magic",
+    "mana": "6",
+    "useTime": "20 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Fires a barrage of nano lasers"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18088,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Neuraze.png",
+    "name": "Neuraze",
+    "type": "Weapon",
+    "damage": "125 Magic",
+    "mana": "20",
+    "useTime": "10 Very Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "4%",
+    "tooltip": [
+      [
+        "Charges up a laser beam that scales with mana remaining."
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18089,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Night%27s_Ray.png",
+    "name": "Night's Ray",
+    "type": "Weapon – Crafting material",
+    "damage": "24 Magic",
+    "mana": "10",
+    "useTime": "20 Very Fast",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires a dark ray",
+        " When hitting enemies, they are hit by several new beams from their side"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18090,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Nuclear_Fury.png",
+    "name": "Nuclear Fury",
+    "type": "Weapon – Crafting material",
+    "damage": "114 Magic",
+    "mana": "13",
+    "useTime": "25 Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Casts a torrent of cosmic typhoons"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Wet",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Wet.png",
+        "chance": "100% chance",
+        "duration": "10 seconds",
+        "tooltip": "You are dripping water"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Nuclear_Fury_Typhoon.png",
+        "name": "Nuclear Fury Typhoon"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18091,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Omega_Ray.png",
+    "name": "Omega Ray",
+    "type": "Weapon",
+    "damage": "210 Magic",
+    "mana": "4",
+    "useTime": "4 Insanely Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "11",
+    "tooltip": [
+      [
+        "Disintegrates everything with a penta-beam of energy and lasers",
+        "Right click to fire an ogscule-shaped beam of destructive energy that split into randomly spinning lasers"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18092,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2b/Parasitic_Scepter.png",
+    "name": "Parasitic Scepter",
+    "type": "Weapon",
+    "damage": "12 Magic",
+    "mana": "10",
+    "useTime": "35 Slow",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Fires a spread of water leeches that latch onto enemies, dealing a stacking damage over time"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Leeches)",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0b/Water_Leech_%28projectile%29.gif",
+        "name": "Water Leech (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18093,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Phantasmal_Fury.png",
+    "name": "Phantasmal Fury",
+    "type": "Weapon – Crafting material",
+    "damage": "182 Magic",
+    "mana": "20",
+    "useTime": "20 Very Fast",
+    "knockback": "7.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Casts a phantasmal bolt that explodes into more bolts"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Phantasmal_Soul.gif",
+        "name": "Phantasmal Soul"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Phantom_Pellet.png",
+        "name": "Phantom Pellet"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18094,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Phoenix_Flame_Barrage.png",
+    "name": "Phoenix Flame Barrage",
+    "type": "Weapon",
+    "damage": "150 Magic",
+    "mana": "20",
+    "useTime": "30 Average",
+    "knockback": "3.5 (Weak)",
+    "critChance": "4%",
+    "velocity": "30",
+    "tooltip": [
+      [
+        "Baptism by holy fire",
+        "Casts a barrage of fire from the sky"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e4/Holy_Flame.gif",
+        "name": "Holy Flame"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18095,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Plague_Staff.png",
+    "name": "Plague Staff",
+    "type": "Weapon",
+    "damage": "78 Magic",
+    "mana": "22",
+    "useTime": "21 Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Fires a spread of plague fangs"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Plague",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Rotting from the inside"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Plague_Fang.png",
+        "name": "Plague Fang"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18096,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bc/Plasma_Caster.png",
+    "name": "Plasma Caster",
+    "type": "Weapon",
+    "damage": "705 Magic",
+    "mana": "24",
+    "useTime": "45 Very Slow",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "5",
+    "tooltip": [
+      [
+        "Industrial tool used to fuse metal together with super-heated plasma",
+        "Right click for turbo mode",
+        "Current Charge: [CHARGE]"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Losing life"
+      },
+      {
+        "name": "Cursed Inferno",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "Losing lifeAll damage taken increased by 20%"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png",
+      "tier": "l"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18097,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Plasma_Rifle.png",
+    "name": "Plasma Rifle",
+    "type": "Weapon",
+    "damage": "160 Magic",
+    "mana": "40 (primary)10 (secondary)",
+    "useTime": "8 Insanely Fast",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Fires a plasma blast that explodes",
+        "Right click to fire plasma bolts"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Toxic_Clouds.png",
+        "name": "Toxic Clouds"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18098,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Plasma_Rod.png",
+    "name": "Plasma Rod",
+    "type": "Weapon – Crafting material",
+    "damage": "8 Magic",
+    "mana": "10",
+    "useTime": "20 Very Fast",
+    "knockback": "2.5 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "11",
+    "tooltip": [
+      [
+        "Casts a low-damage plasma bolt",
+        "Shooting a tile will cause several bolts with increased damage to fire",
+        "Shooting an enemy will inflict shadowflame for a long duration"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18099,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6b/Plasmaflash_Bolt.png",
+    "name": "Plasmaflash Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "45 Magic",
+    "mana": "13",
+    "useTime": "15 Very Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "6.5",
+    "tooltip": [
+      [
+        "Casts a quick-moving ball of plasma"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "10 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Plasmaflash_Bolt_%28projectile%29.png",
+        "name": "Plasmaflash Bolt (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18100,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Poseidon.png",
+    "name": "Poseidon",
+    "type": "Weapon – Crafting material",
+    "damage": "48 Magic",
+    "mana": "12",
+    "useTime": "22 Fast",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Casts a poseidon typhoon"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/26/Poseidon_Typhoon.png",
+        "name": "Poseidon Typhoon"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18101,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Primordial_Ancient.png",
+    "name": "Primordial Ancient",
+    "type": "Weapon – Crafting material",
+    "damage": "170 Magic",
+    "mana": "20",
+    "useTime": "18 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "8",
+    "tooltip": [
+      [
+        "An ancient relic from an ancient land",
+        "Casts a gigantic blast of dust"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Ancient_Blast.gif",
+        "name": "Ancient Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18102,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Primordial_Earth.png",
+    "name": "Primordial Earth",
+    "type": "Weapon – Crafting material",
+    "damage": "60 Magic",
+    "mana": "19",
+    "useTime": "20 Very Fast",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "4",
+    "tooltip": [
+      [
+        "Casts a large blast of dust"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18103,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Pulse_Pistol.png",
+    "name": "Pulse Pistol",
+    "type": "Weapon",
+    "damage": "26 Magic",
+    "useTime": "20 Very Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "5.2",
+    "tooltip": [
+      [
+        "Fires a pulse that arcs to a new target on enemy hits",
+        "Current Charge: [CHARGE]"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png",
+      "tier": "l"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18104,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Purge_Guzzler.png",
+    "name": "Purge Guzzler",
+    "type": "Weapon – Crafting material",
+    "damage": "120 Magic",
+    "mana": "22",
+    "useTime": "24 Fast",
+    "knockback": "4.5 (Average)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Emits three beams of holy energy in a tight spread"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Beam)",
+        "tooltip": "Dissolving from holy light"
+      },
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Explosion)",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18105,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Rainbow_Party_Cannon.png",
+    "name": "Rainbow Party Cannon",
+    "type": "Weapon",
+    "damage": "225 Magic",
+    "mana": "25",
+    "useTime": "24 Fast",
+    "knockback": "3.5 (Weak)",
+    "critChance": "8%",
+    "tooltip": [
+      [
+        "Let the rainbow remind you that together we will always shine..."
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Rainbow_Comet.gif",
+        "name": "Rainbow Comet"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18106,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Ram%27s_Revenge.png",
+    "name": "Ram's Revenge",
+    "type": "Weapon",
+    "damage": "375 Magic",
+    "useTime": "15 Very Fast",
+    "knockback": "10 (Extremely Strong)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Wielded by the second most powerful fighter.",
+        "Casts a magic bolt that summons blood explosions and lowers enemy defense on hit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Wither",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Wither.png",
+        "chance": "100% chance",
+        "duration": "4 seconds",
+        "tooltip": "Withered...Defense reduced by 20"
+      },
+      {
+        "name": "Burning Blood",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Burning_Blood.png",
+        "chance": "100% chance",
+        "duration": "1 second",
+        "tooltip": "Your blood is on fire"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18107,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rancor.png",
+    "name": "Rancor",
+    "type": "Weapon",
+    "damage": "444 Magic",
+    "mana": "10",
+    "useTime": "27 Average",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Forgiveness can only heal so much,"
+      ],
+      [
+        "If the recipient has not yet forgiven themselves."
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Rancor Burn",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Rancor_Burn.png",
+        "chance": "100% chance",
+        "duration": "2.5 seconds (Laser)",
+        "tooltip": "Burning"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18108,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/Recitation_of_the_Beast.png",
+    "name": "Recitation of the Beast",
+    "type": "Weapon",
+    "damage": "128 Magic",
+    "mana": "24",
+    "useTime": "18 Very Fast",
+    "knockback": "8.50 (Very Strong)",
+    "critChance": "24%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "A thousand years sealed in the demon's realm will teach you a thing or two",
+        "Summons beast scythes around the player in a small circle, ",
+        "before firing toward the cursor and home in to nearby enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Beast_Scythe.png",
+        "name": "Beast Scythe"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18109,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Relic_of_Ruin.png",
+    "name": "Relic of Ruin",
+    "type": "Weapon – Crafting material",
+    "damage": "20 Magic",
+    "mana": "16",
+    "useTime": "35 Slow",
+    "knockback": "4.25 (Average)",
+    "critChance": "4%",
+    "velocity": "30",
+    "tooltip": [
+      [
+        "Casts a spread of sand blades"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/94/Forbidden_Axe_Blade.png",
+        "name": "Forbidden Axe Blade"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18110,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/58/Rouge_Slash.png",
+    "name": "Rouge Slash",
+    "type": "Weapon",
+    "damage": "61 Magic",
+    "mana": "30",
+    "useTime": "19 Very Fast",
+    "knockback": "7.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "24",
+    "tooltip": [
+      [
+        "Fires a wave of 3 rouge air slashes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Rouge_Slash_Waves.png",
+        "name": "Rouge Slash Waves"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18111,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/47/SHPC.png",
+    "name": "SHPC",
+    "type": "Weapon",
+    "damage": "18 Magic",
+    "mana": "20 (primary)6 (secondary)",
+    "useTime": "50 Extremely Slow",
+    "knockback": "3.25 (Weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Fires plasma orbs that linger and emit massive explosions",
+        "Right click to fire powerful energy beams"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/SHPB.gif",
+        "name": "SHPB"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18112,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Salt_Booklet.png",
+    "name": "Salt Booklet",
+    "type": "Weapon – Crafting material",
+    "damage": "10 Magic",
+    "mana": "12",
+    "useTime": "30 Average",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "7.5",
+    "tooltip": [
+      [
+        "A copy of a mass-produced tome phased out in favor of stronger spells  ",
+        " Casts a cube of salt"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Salt_Cube.png",
+        "name": "Salt Cube"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18113,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Salt_Water_Bolt.png",
+    "name": "Salt Water Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "21 Magic",
+    "mana": "12",
+    "useTime": "30 Average",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "7.5",
+    "tooltip": [
+      [
+        "A ruined Water Bolt",
+        "May be part of something greater"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "1 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/Salt_Water_Bolt_%28projectile%29.png",
+        "name": "Salt Water Bolt (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18114,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f7/Sanguine_Flare.png",
+    "name": "Sanguine Flare",
+    "type": "Weapon",
+    "damage": "143 Magic",
+    "mana": "22",
+    "useTime": "25 Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Fires a blast of sanguine flares that drain enemy life"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Sanguine_Flare_Orb.png",
+        "name": "Sanguine Flare Orb"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18115,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Seething_Discharge.png",
+    "name": "Seething Discharge",
+    "type": "Weapon – Crafting material",
+    "damage": "58 Magic",
+    "mana": "15",
+    "useTime": "24 Fast",
+    "knockback": "6.75 (Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires a barrage of brimstone blasts"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/BrimstoneHellblast.gif",
+        "name": "BrimstoneHellblast"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/91/BrimstoneBarrage.gif",
+        "name": "BrimstoneBarrage"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18116,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/05/Serpentine.png",
+    "name": "Serpentine",
+    "type": "Weapon",
+    "damage": "10 Magic",
+    "mana": "20",
+    "useTime": "20 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Casts a serpent that follows the mouse cursor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Serpentine_%28projectile%29.png",
+        "name": "Serpentine (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18117,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Shadecrystal_Barrage.png",
+    "name": "Shadecrystal Barrage",
+    "type": "Weapon – Crafting material",
+    "damage": "23 Magic",
+    "mana": "4",
+    "useTime": "6 Insanely Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Summons rapid fire shadecrystals, can shoot two crystals at once"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Shadecrystal.png",
+        "name": "Shadecrystal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18118,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Shaderain_Staff.png",
+    "name": "Shaderain Staff",
+    "type": "Weapon",
+    "damage": "21 Magic",
+    "mana": "10",
+    "useTime": "24 Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Fires a shade storm cloud"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Shadowflame",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "chance": "100% chance",
+        "duration": "1 second (Rain)",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Shade_Nimbus_Cloud.gif",
+        "name": "Shade Nimbus Cloud"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Shade_Nimbus.gif",
+        "name": "Shade Nimbus"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18119,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Shadowbolt_Staff.png",
+    "name": "Shadowbolt Staff",
+    "type": "Weapon – Crafting material",
+    "damage": "250 Magic",
+    "mana": "20",
+    "useTime": "14 Very Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "The more tiles and enemies the beam bounces off of or travels through the more damage the beam does"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18120,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Shadowdrop_Staff.png",
+    "name": "Shadowdrop Staff",
+    "type": "Weapon",
+    "damage": "25 Magic",
+    "mana": "6",
+    "useTime": "18 Very Fast",
+    "knockback": "2.25 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Summons dark aura rain from the sky"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18121,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7f/Shifting_Sands.png",
+    "name": "Shifting Sands",
+    "type": "Weapon",
+    "damage": "61 Magic",
+    "mana": "20",
+    "useTime": "29 Average",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "Casts a sand shard that follows the mouse cursor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Shifting_Sand_Shard.png",
+        "name": "Shifting Sand Shard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18122,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Sky_Glaze.png",
+    "name": "Sky Glaze",
+    "type": "Weapon – Crafting material",
+    "damage": "15 Magic",
+    "mana": "8",
+    "useTime": "25 Fast",
+    "knockback": "3.50 (Weak)",
+    "critChance": "4%",
+    "velocity": "15",
+    "tooltip": [
+      [
+        "Fires feathers from the sky that stick to enemies and tiles and explode"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Sticky_Feather.png",
+        "name": "Sticky Feather"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18123,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Slithering_Eels.png",
+    "name": "Slithering Eels",
+    "type": "Weapon – Crafting material",
+    "damage": "80 Magic",
+    "mana": "11",
+    "useTime": "40 Very Slow",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Casts a magical acid eel that releases acid drops as it moves"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Eel)2 seconds (Droplet)",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Slithering_Eel.gif",
+        "name": "Slithering Eel"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Acid_Droplet.png",
+        "name": "Acid Droplet"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18124,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Snowgrave.png",
+    "name": "Snowgrave",
+    "type": "Weapon",
+    "damage": "2002 Magic",
+    "mana": "200",
+    "useTime": "60 Snail",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Memories of a snowy grave...",
+        "Summons a large deadly fountain of ice and snow below your cursor that instantly kills normal enemies",
+        "After usage, the player won't be able to use the weapon again for 1 minute"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds",
+        "tooltip": "Cannot move and defense is shattered"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18125,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e8/Snowstorm_Staff.png",
+    "name": "Snowstorm Staff",
+    "type": "Weapon – Crafting material",
+    "damage": "53 Magic",
+    "mana": "13",
+    "useTime": "21 Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "Fires a snowflake that follows the mouse cursor"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Snowflake.png",
+        "name": "Snowflake"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18126,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Soul_Piercer.png",
+    "name": "Soul Piercer",
+    "type": "Weapon",
+    "damage": "115 Magic",
+    "mana": "19",
+    "useTime": "25 Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Casts a powerful ray that summons extra rays on enemy hits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18127,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Sparkling_Empress.png",
+    "name": "Sparkling Empress",
+    "type": "Weapon",
+    "damage": "10 Magic",
+    "mana": "5",
+    "useTime": "20 Very Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Fires a concentrated laser to annihilate your foes",
+        "Defeated enemies explode into prism shards"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e6/Sparkling_Beam.png",
+        "name": "Sparkling Beam"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Aquashard.png",
+        "name": "Aquashard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18128,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Staff_of_Blushie.png",
+    "name": "Staff of Blushie",
+    "type": "Weapon",
+    "damage": "1 Magic",
+    "mana": "200",
+    "useTime": "30 Average",
+    "knockback": "1 (Extremely Weak)",
+    "critChance": "4%",
+    "tooltip": [
+      [
+        "Hold your mouse, wait, wait, wait, and put your trust in the power of blue magic"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18129,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Starfall.png",
+    "name": "Starfall",
+    "type": "Weapon – Crafting material",
+    "damage": "50 Magic",
+    "mana": "15",
+    "useTime": "14 Very Fast",
+    "knockback": "3.25 (Weak)",
+    "critChance": "29%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Casts a spread of astral stars at the mouse cursor"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Astral_Star.png",
+        "name": "Astral Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18130,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Storm_Spray.png",
+    "name": "Storm Spray",
+    "type": "Weapon",
+    "damage": "14 Magic",
+    "mana": "8",
+    "useTime": "33 Slow",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Fires a spray of water that drips extra trails of water"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18131,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Stratus_Sphere.png",
+    "name": "Stratus Sphere",
+    "type": "Weapon",
+    "damage": "251 Magic",
+    "mana": "30",
+    "useTime": "45 Very Slow",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "7",
+    "tooltip": [
+      [
+        "Fires an energy orb containing the essence of our stratosphere",
+        "Up to six of these can be active at a time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a6/Stratus_Sphere_%28projectile%29.gif",
+        "name": "Stratus Sphere (projectile)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Crescent.png",
+        "name": "Crescent"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18132,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Subsuming_Vortex.png",
+    "name": "Subsuming Vortex",
+    "type": "Weapon",
+    "damage": "1020 Magic",
+    "mana": "78",
+    "useTime": "60 Snail",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a colossal vortex around the player while held",
+        "Nearby enemies are sucked into the vortex and are attacked by a flurry of exo tentacles"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Subsuming_Vortex_Vortex.png",
+        "name": "Subsuming Vortex Vortex"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Subsuming_Vortex_Large_Vortex.gif",
+        "name": "Subsuming Vortex Large Vortex"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18133,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Tactician%27s_Trump_Card.png",
+    "name": "Tactician's Trump Card",
+    "type": "Weapon",
+    "damage": "248 Magic",
+    "mana": "20",
+    "useTime": "12 Very Fast",
+    "knockback": "7 (Strong)",
+    "critChance": "4%",
+    "velocity": "13.5",
+    "tooltip": [
+      [
+        "Faint memories of a Princess from the future cross your mind...",
+        "Fires a sword beam that electrifies enemies on hit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Explosion)",
+        "tooltip": "You cannot move"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Tactician%27s_Trump_Card_Beam.png",
+        "name": "Tactician's Trump Card Beam"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18134,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Tears_of_Heaven.png",
+    "name": "Tears of Heaven",
+    "type": "Weapon – Crafting material",
+    "damage": "64 Magic",
+    "mana": "18",
+    "useTime": "15 Very Fast",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "5.5",
+    "tooltip": [
+      [
+        "Casts slow-moving homing balls of heavenly light"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/dc/Tear_of_Heaven.png",
+        "name": "Tear of Heaven"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18135,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Terra_Ray.png",
+    "name": "Terra Ray",
+    "type": "Weapon – Crafting material",
+    "damage": "50 Magic",
+    "mana": "10",
+    "useTime": "24 Fast",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Casts an energy ray that splits into energy on enemies hits",
+        "More energy is created the farther along the ray the enemy hit is"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18136,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Tesla_Cannon.png",
+    "name": "Tesla Cannon",
+    "type": "Weapon",
+    "damage": "1050 Magic",
+    "mana": "30",
+    "useTime": "90 Snail",
+    "knockback": "10 (Extremely Strong)",
+    "critChance": "4%",
+    "velocity": "5",
+    "tooltip": [
+      [
+        "Lightweight energy cannon that blasts an intense electrical beam that explodes",
+        "Beams can arc to nearby targets",
+        "Current Charge: [CHARGE]"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Rarity_color_draedon_arsenal.png",
+      "tier": "l"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18137,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/The_Dance_of_Light.png",
+    "name": "The Dance of Light",
+    "type": "Weapon",
+    "damage": "415 Magic",
+    "mana": "6",
+    "useTime": "8 Insanely Fast",
+    "knockback": "4 (Weak)",
+    "critChance": "24%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Barrages enemies with a hailstorm of Light Blades",
+        "'And in a flash of light, nothing remains'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b0/Dancing_Light_Blade.png",
+        "name": "Dancing Light Blade"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18138,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/The_Prince.png",
+    "name": "The Prince",
+    "type": "Weapon",
+    "damage": "166 Magic",
+    "mana": "12",
+    "useTime": "21 Fast",
+    "knockback": "4.25 (Average)",
+    "critChance": "4%",
+    "velocity": "23.5",
+    "tooltip": [
+      [
+        "Casts a holy fireball that explodes into 6 flames",
+        "So you're telling me that the prince exploded, and then turned into a flower?",
+        "-Dain, the sailor druid"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Fireball)1 second (Fire)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/The_Prince_Fireball.gif",
+        "name": "The Prince Fireball"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/The_Prince_Fire.gif",
+        "name": "The Prince Fire"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18139,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/The_Swarmer.png",
+    "name": "The Swarmer",
+    "type": "Weapon",
+    "damage": "40 Magic",
+    "mana": "7",
+    "useTime": "8 Insanely Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Fires a swarm of bees and wasps"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Poisoned",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Wasp)",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100% chance",
+        "duration": "1 seconds (Wasp)",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Bee_%28Small%29.png",
+        "name": "Bee (Small)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Bee_%28projectile%29.gif",
+        "name": "Bee (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18140,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/The_Wand.png",
+    "name": "The Wand",
+    "type": "Weapon",
+    "damage": "1 Magic",
+    "mana": "150",
+    "useTime": "19 Very Fast",
+    "knockback": "0.5 (Extremely Weak)",
+    "critChance": "4%",
+    "velocity": "24",
+    "tooltip": [
+      [
+        "The ultimate wand"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Spark)",
+        "tooltip": "Losing life"
+      },
+      {
+        "name": "Daybroken",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Stardust_Dragon.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Spark)",
+        "tooltip": "Incinerated by solar rays"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Infernado_%28friendly%29.gif",
+        "name": "Infernado (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18141,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Thunder_Bolt.png",
+    "name": "Thunder Bolt",
+    "type": "Weapon – Crafting material",
+    "damage": "54 Magic",
+    "mana": "12",
+    "useTime": "30 Average",
+    "knockback": "5.5 (Average)",
+    "critChance": "4%",
+    "velocity": "7.5",
+    "tooltip": [
+      [
+        "Casts a slow-moving ball of lightning"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Cosmic_Spirit_Yellow.png",
+        "name": "Cosmic Spirit Yellow"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18142,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Thunderstorm.png",
+    "name": "Thunderstorm",
+    "type": "Weapon",
+    "damage": "132 Magic",
+    "mana": "50",
+    "useTime": "24 Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Make it rain"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18143,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Tome_of_Fates.png",
+    "name": "Tome of Fates",
+    "type": "Weapon – Crafting material",
+    "damage": "110 Magic",
+    "mana": "8",
+    "useTime": "20 Very Fast",
+    "knockback": "3.5 (Weak)",
+    "critChance": "7%",
+    "velocity": "17",
+    "tooltip": [
+      [
+        "Casts cosmic tentacles to spear your enemies",
+        "Can randomly fire a brimstone tentacle for immense damage"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Brimstone tentacle)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18144,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3e/Tradewinds.png",
+    "name": "Tradewinds",
+    "type": "Weapon – Crafting material",
+    "damage": "31 Magic",
+    "mana": "5",
+    "useTime": "12 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Casts fast moving sunlight feathers"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1c/Golden_Aero_Feather.png",
+        "name": "Golden Aero Feather"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18145,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Ultra_Liquidator.png",
+    "name": "Ultra Liquidator",
+    "type": "Weapon – Crafting material",
+    "damage": "120 Magic",
+    "mana": "25",
+    "useTime": "15 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "34%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Summons liquidation blades that summon more blades on enemy hits",
+        "The blades inflict ichor, cursed inferno and brimstone flames"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Ichor (debuff)",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds (Main Blade)1 second (Secondary Blade)",
+        "tooltip": "Defense reduced by 20"
+      },
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Main Blade)2 seconds (Secondary Blade)",
+        "tooltip": "Rapid health loss"
+      },
+      {
+        "name": "Cursed Inferno",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds (Main Blade)1 second (Secondary Blade)",
+        "tooltip": "Losing lifeAll damage taken increased by 20%"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18146,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Undine%27s_Retribution.png",
+    "name": "Undine's Retribution",
+    "type": "Weapon – Crafting material",
+    "damage": "30 Magic",
+    "mana": "15",
+    "useTime": "18 Very Fast",
+    "knockback": "3.50 (Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Casts a swarm of homing spears"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Aquatic Pressure"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bf/Undine_Spear.gif",
+        "name": "Undine Spear"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18147,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a3/Valkyrie_Ray.png",
+    "name": "Valkyrie Ray",
+    "type": "Weapon – Crafting material",
+    "damage": "73 Magic",
+    "mana": "26",
+    "useTime": "47 Extremely Slow",
+    "knockback": "8.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "25",
+    "tooltip": [
+      [
+        "Casts a devastating ray of holy power"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/94/Valkyrie_Ray_Beam.png",
+        "name": "Valkyrie Ray Beam"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18148,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/49/Vehemence.png",
+    "name": "Vehemence",
+    "type": "Weapon",
+    "damage": "5185 Magic",
+    "mana": "41",
+    "useTime": "43 Very Slow",
+    "knockback": "5.75 (Average)",
+    "critChance": "4%",
+    "velocity": "16",
+    "tooltip": [
+      [
+        "Casts intense bolts of hellish power that explode into skulls",
+        "Direct hits inflict Demon Flames for an extended period of time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Vehemence_%28projectile%29.png",
+        "name": "Vehemence (projectile)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/Vehemence_Skull_Cloud.gif",
+        "name": "Vehemence Skull Cloud"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18149,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Venusian_Trident.png",
+    "name": "Venusian Trident",
+    "type": "Weapon – Crafting material",
+    "damage": "108 Magic",
+    "mana": "20",
+    "useTime": "25 Fast",
+    "knockback": "9 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "19",
+    "tooltip": [
+      [
+        "Casts an infernal trident that erupts into a gigantic explosion of fire and magma shards"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (Trident, Explosion)2.5 seconds (Shard)",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Venusian_Bolt.png",
+        "name": "Venusian Bolt"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Flaming_Shard.gif",
+        "name": "Flaming Shard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18150,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Vesuvius.png",
+    "name": "Vesuvius",
+    "type": "Weapon",
+    "damage": "60 Magic",
+    "mana": "6 (primary)9 (secondary)",
+    "useTime": "15 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Asteroids give the Molten buff on enemy hits",
+        "Calls down a swarm of molten asteroids",
+        "Right click to fire a spread of molten asteroids from the staff"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Molten",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d2/Molten.png",
+        "duration": "6 seconds",
+        "tooltip": "Resistant to cold effects"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Asteroid_Molten.png",
+        "name": "Asteroid Molten"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18151,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0a/Viscera.png",
+    "name": "Viscera",
+    "type": "Weapon",
+    "damage": "100 Magic",
+    "mana": "15",
+    "useTime": "14 Very Fast",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires a blood beam that heals you on enemy hits",
+        "The more tiles and enemies the beam bounces off of or travels through the more healing the beam does"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18152,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/12/Vitriolic_Viper.png",
+    "name": "Vitriolic Viper",
+    "type": "Weapon",
+    "damage": "93 Magic",
+    "mana": "15",
+    "useTime": "16 Very Fast",
+    "knockback": "4 (Weak)",
+    "critChance": "4%",
+    "velocity": "20",
+    "tooltip": [
+      [
+        "Releases a volley of venomous fangs and spit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Sulphuric Poisoning",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Sulphuric_Poisoning.png",
+        "chance": "100% chance",
+        "duration": "1 seconds (Spit)3 seconds (Fang)",
+        "tooltip": "The acidic water burns away your flesh"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Vitriolic_Viper_Fang.png",
+        "name": "Vitriolic Viper Fang"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Vitriolic_Viper_Spit.png",
+        "name": "Vitriolic Viper Spit"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18153,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Vivid_Clarity.png",
+    "name": "Vivid Clarity",
+    "type": "Weapon",
+    "damage": "155 Magic",
+    "mana": "42",
+    "useTime": "20 Very Fast",
+    "knockback": "7.5 (Very Strong)",
+    "critChance": "4%",
+    "velocity": "6",
+    "tooltip": [
+      [
+        "Fires five randomized beams of elemental energy at the cursor",
+        "On enemy and tile hits, beams either explode into a big flash,",
+        "summon an additonal laser from the sky,",
+        "or split into energy orbs",
+        "Its majesty inspires a stroke of unparalleled genius"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18154,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/ff/Voltaic_Climax.png",
+    "name": "Voltaic Climax",
+    "type": "Weapon",
+    "damage": "122 Magic",
+    "mana": "30",
+    "useTime": "33 Slow",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Conjures an octagon of supercharged magnet spheres around the cursor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Climax_Orb.gif",
+        "name": "Climax Orb"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18155,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Waywasher.png",
+    "name": "Waywasher",
+    "type": "Weapon",
+    "damage": "16 Magic",
+    "mana": "4",
+    "useTime": "15 Very Fast",
+    "knockback": "2.5 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Casts inaccurate water bolts"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Waywasher_Bolt.png",
+        "name": "Waywasher Bolt"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18156,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/09/Wingman.png",
+    "name": "Wingman",
+    "type": "Weapon – Crafting material",
+    "damage": "49 Magic",
+    "mana": "12",
+    "useTime": "15 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "25",
+    "tooltip": [
+      [
+        "Fires a concentrated laser beam"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18157,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0b/Winter%27s_Fury.png",
+    "name": "Winter's Fury",
+    "type": "Weapon",
+    "damage": "59 Magic",
+    "mana": "7",
+    "useTime": "12 Very Fast",
+    "knockback": "5 (Average)",
+    "critChance": "4%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "The pages are freezing to the touch"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Icicle, Snowball)",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds (Snowball)",
+        "tooltip": "Cannot move and defense is shattered"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/86/Fury_Snowball.png",
+        "name": "Fury Snowball"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/37/Fury_Icicle.png",
+        "name": "Fury Icicle"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Frost_Shard.gif",
+        "name": "Frost Shard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18158,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Wrath_of_the_Ancients.png",
+    "name": "Wrath of the Ancients",
+    "type": "Weapon – Crafting material",
+    "damage": "47 Magic",
+    "mana": "20",
+    "useTime": "38 Very Slow",
+    "knockback": "6 (Average)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Summons an energy pulse at the cursor to periodically summon homing spirits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Granite_Pulse.gif",
+        "name": "Granite Pulse"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cd/Granite_Spirit.png",
+        "name": "Granite Spirit"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18159,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Wulfrum_Prosthesis.png",
+    "name": "Wulfrum Prosthesis",
+    "type": "Weapon",
+    "damage": "13 Magic",
+    "mana": "2",
+    "useTime": "24 Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "54 effective",
+    "tooltip": [
+      [
+        "Technology and magic have been forever locked in an arms race of imitation and retaliation"
+      ],
+      [
+        "At times they work in tandem, as seen in certain prosthetic limbs"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18160,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Wulfrum_Staff.png",
+    "name": "Wulfrum Staff",
+    "type": "Weapon",
+    "damage": "13 Magic",
+    "mana": "2",
+    "useTime": "20 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "4%",
+    "velocity": "9",
+    "tooltip": [
+      [
+        "Casts a wulfrum bolt"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18161,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Wyvern%27s_Call.png",
+    "name": "Wyvern's Call",
+    "type": "Weapon – Crafting material",
+    "damage": "35 Magic",
+    "mana": "10",
+    "useTime": "23 Fast",
+    "knockback": "4.75 (Average)",
+    "critChance": "4%",
+    "velocity": "18",
+    "tooltip": [
+      [
+        "I call upon the mythical Wyvern to shower the lands with its grace",
+        "Fires wyverns and colored feathers from the sky that stick to enemies and tiles and explode"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 18162,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Yharim%27s_Crystal.png",
+    "name": "Yharim's Crystal",
+    "type": "Weapon",
+    "damage": "70 Magic",
+    "mana": "15",
+    "useTime": "10 Very Fast",
+    "knockback": "0 (No Knockback)",
+    "critChance": "4%",
+    "velocity": "30",
+    "tooltip": [
+      [
+        "Fires draconic beams of total annihilation"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f0/Yharim%27s_Crystal_Beam.png",
+        "name": "Yharim's Crystal Beam"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

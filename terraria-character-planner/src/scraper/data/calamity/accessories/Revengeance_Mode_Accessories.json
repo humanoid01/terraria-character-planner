@@ -1,0 +1,105 @@
+[
+  {
+    "id": 25000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Heart_of_Darkness.gif",
+    "name": "Heart of Darkness",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "You constantly gain rage over time",
+        "Rage does not fade away when out of combat",
+        "Revengeance drop"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 25001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Laudanum.png",
+    "name": "Laudanum",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Converts certain debuffs into buffs and extends their durations",
+        "Debuffs affected: Darkness, Blackout, Confused, Slow, Weak, Broken Armor,",
+        "Armor Crunch, War Cleave, Chilled, Ichor and Obstructed",
+        "Revengeance drop"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 25002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+    "name": "Occult Skull Crown",
+    "type": "Accessory – Armor",
+    "tooltip": [
+      [
+        "Only a fool would ever wear this...",
+        "You constantly gain rage over time and rage does not fade away when out of combat",
+        "Converts certain debuffs into buffs and extends their durations",
+        "Debuffs affected: Darkness, Blackout, Confused, Slow, Weak, Broken Armor,",
+        "Armor Crunch, War Cleave, Chilled, Ichor and Obstructed",
+        "Getting hit causes you to only lose half of your max adrenaline rather than all of it",
+        "Increases your max movement speed and acceleration by 5%",
+        "Can also be worn as a helmet",
+        "Revengeance item"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 25003,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Stress_Pills.png",
+    "name": "Stress Pills",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Boosts your defense by 4 and max movement speed and acceleration by 5%",
+        "Receiving a hit causes you to only lose half of your max adrenaline rather than all of it",
+        "Revengeance drop"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

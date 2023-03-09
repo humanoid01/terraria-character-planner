@@ -1,0 +1,4256 @@
+[
+  {
+    "id": 3000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Abigail%27s_Flower.png",
+    "name": "Abigail's Flower",
+    "type": "Weapon",
+    "damage": "6",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a friendly ghost to fight for you",
+        "'It's hauntingly beautiful.'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Abigail_%28minion%29.gif",
+        "name": "Abigail"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Desert_Tiger_%28ball%29.gif",
+        "name": "Abigail (counter)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Finch_Staff.png",
+    "name": "Finch Staff",
+    "type": "Weapon",
+    "damage": "7",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "4 (Weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a baby finch to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Finch_%28minion%29.gif",
+        "name": "Finch"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f6/Living_Wood_Wand.png",
+              "name": "Living Wood Wand",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Finch_Staff.png",
+          "name": "Finch Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Living Wood Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Living_Wood_Chest.png",
+        "quantity": "1",
+        "rate": "33.33*1/3 (33.33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Living Wood Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Living_Wood_Chest.png",
+        "quantity": "1",
+        "rate": "33.33*1/3 (33.33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Flinx_Staff.png",
+    "name": "Flinx Staff",
+    "type": "Weapon",
+    "damage": "8",
+    "mana": "5",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a snow flinx to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Flinx.png",
+        "name": "Flinx"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Flinx_Fur.png",
+              "name": "Flinx Fur",
+              "quantity": "6"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Gold_Bar.png",
+              "name": "Gold Bar",
+              "quantity": "10"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Flinx_Staff.png",
+          "name": "Flinx Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png",
+            "name": "Work Bench"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Flinx_Fur.png",
+              "name": "Flinx Fur",
+              "quantity": "6"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Platinum_Bar.png",
+              "name": "Platinum Bar",
+              "quantity": "10"
+            }
+          ]
+        ],
+        "result": {},
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png",
+            "name": "Work Bench"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Slime_Staff.png",
+    "name": "Slime Staff",
+    "type": "Weapon",
+    "damage": "8",
+    "mana": "10",
+    "useTime": "28 (Average)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a baby slime to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Baby_Slime_%28minion%29.gif",
+        "name": "Baby Slime"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Slimed Zombie",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Slimed_Zombie.png",
+        "quantity": "1",
+        "rate": "0.01"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Vampire_Frog_Staff.png",
+    "name": "Vampire Frog Staff",
+    "type": "Weapon",
+    "damage": "11",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "5 (Average)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a vampire frog to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Vampire_Frog_%28minion%29.gif",
+        "name": "Vampire Frog"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Zombie Merman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Zombie_Merman.png",
+        "quantity": "1",
+        "rate": "12.5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Zombie Merman",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Zombie_Merman.png",
+        "quantity": "1",
+        "rate": "12.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Hornet_Staff.png",
+    "name": "Hornet Staff",
+    "type": "Weapon",
+    "damage": "12",
+    "mana": "10",
+    "useTime": "22 (Fast)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a hornet to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Hornet_%28minion%29.gif",
+        "name": "Hornet"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Bee_Wax.png",
+              "name": "Bee Wax",
+              "quantity": "14"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/Hornet_Staff.png",
+          "name": "Hornet Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png",
+    "name": "Imp Staff",
+    "type": "Weapon",
+    "damage": "17",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons an imp to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/be/Imp_%28minion%29.gif",
+        "name": "Flying Imp"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Hellstone_Bar.png",
+              "name": "Hellstone Bar",
+              "quantity": "17"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png",
+          "name": "Imp Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Houndius_Shootius.png",
+    "name": "Houndius Shootius",
+    "type": "Weapon",
+    "damage": "24",
+    "mana": "20",
+    "useTime": "30 (Average)",
+    "knockback": "7.5 (Very strong)",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "Summons an arcane construct to shoot optic blasts at your enemies",
+        "'Oh me oh my, look at that eye!'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/63/Houndius_Shootius_%28projectile%29.png",
+        "name": "Houndius Shootius"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Houndius_Shootius_Fireball.gif",
+        "name": "Houndius Shootius Fireball"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "25"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "25"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+    "name": "Lightning Aura StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "34",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "0.25 (Extremely weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "An aura that repeatedly zaps enemies that go inside",
+        "Aura damage penetrates enemy defense",
+        "Hits quickly at the expense of 50% tag damage",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Lightning_Aura_3.png",
+        "name": "Lightning Aura (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+              "name": "Explosive Trap Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+          "name": "Lightning Aura Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+              "name": "Explosive Trap Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+          "name": "Lightning Aura Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+              "name": "Explosive Trap Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+          "name": "Lightning Aura Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+              "name": "Lightning Aura Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+          "name": "Flameburst Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+              "name": "Lightning Aura Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+          "name": "Flameburst Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+              "name": "Lightning Aura Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+          "name": "Flameburst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+    "name": "Flameburst StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "88",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "3 (Very weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "An average speed tower that shoots exploding fireballs",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "33",
+        "duration": "3-5 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Hellfire",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "50",
+        "duration": "3-8 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "66",
+        "duration": "6-8 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Flameburst_Tower_3.png",
+        "name": "Flameburst Tower (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+              "name": "Lightning Aura Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+          "name": "Flameburst Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+              "name": "Lightning Aura Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+          "name": "Flameburst Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+              "name": "Lightning Aura Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+          "name": "Flameburst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+              "name": "Flameburst Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+          "name": "Ballista Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+              "name": "Flameburst Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+          "name": "Ballista Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+              "name": "Flameburst Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+          "name": "Ballista Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+    "name": "Explosive Trap StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "126",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "0.5 (Extremely weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "A trap that explodes when enemies come near",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Explosive_Trap_%28tier_3%29.gif",
+        "name": "Explosive Trap (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+              "name": "Ballista Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+          "name": "Explosive Trap Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+              "name": "Ballista Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+          "name": "Explosive Trap Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+              "name": "Ballista Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+          "name": "Explosive Trap Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+              "name": "Explosive Trap Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+          "name": "Lightning Aura Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+              "name": "Explosive Trap Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+          "name": "Lightning Aura Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+              "name": "Explosive Trap Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+          "name": "Lightning Aura Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+    "name": "Ballista StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "156",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "4.7 (Average)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "A slow but high damage tower that shoots piercing bolts",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Ballista_3.png",
+        "name": "Ballista (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+              "name": "Flameburst Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+          "name": "Ballista Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+              "name": "Flameburst Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+          "name": "Ballista Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+              "name": "Flameburst Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+          "name": "Ballista Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+              "name": "Ballista Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+          "name": "Explosive Trap Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+              "name": "Ballista Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+          "name": "Explosive Trap Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+              "name": "Ballista Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+          "name": "Explosive Trap Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3012,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Leather_Whip.png",
+    "name": "Leather Whip",
+    "type": "Weapon",
+    "damage": "14",
+    "useTime": "30 (Average)",
+    "knockback": "1 (Extremely weak)",
+    "velocity": "8 (effective)",
+    "tooltip": [
+      [
+        "4 summon tag damage",
+        "Your summons will focus struck enemies",
+        "'Die monster!'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Leather_Whip_%28projectile%29.png",
+        "name": "Plain Whip"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3013,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Snapthorn.png",
+    "name": "Snapthorn",
+    "type": "Weapon",
+    "damage": "18",
+    "useTime": "30 (Average)",
+    "knockback": "1.5 (Extremely weak)",
+    "velocity": "8 (effective)",
+    "tooltip": [
+      [
+        "6 summon tag damage",
+        "Your summons will focus struck enemies",
+        "Strike enemies to gain attack speed"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Poisoned",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
+        "chance": "100",
+        "duration": "4 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Jungle's Fury",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Jungle%27s_Fury.png",
+        "duration": "3 seconds",
+        "tooltip": "Melee speed is increased"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Snapthorn_%28projectile%29.png",
+        "name": "Snapthorn"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Stinger.png",
+              "name": "Stinger",
+              "quantity": "15"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Vine.png",
+              "name": "Vine",
+              "quantity": "3"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Jungle_Spores.png",
+              "name": "Jungle Spores",
+              "quantity": "12"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Snapthorn.png",
+          "name": "Snapthorn",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Stinger.png",
+              "name": "Stinger",
+              "quantity": "12"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Vine.png",
+              "name": "Vine",
+              "quantity": "3"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Jungle_Spores.png",
+              "name": "Jungle Spores",
+              "quantity": "3"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Snapthorn.png",
+          "name": "Snapthorn",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3014,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Spinal_Tap.png",
+    "name": "Spinal Tap",
+    "type": "Weapon",
+    "damage": "36",
+    "useTime": "30 (Average)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10 (effective)",
+    "tooltip": [
+      [
+        "7 summon tag damage",
+        "Your summons will focus struck enemies",
+        "Performs better against multiple targets than most whips",
+        "'This goes to eleven'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/76/Spinal_Tap_%28projectile%29.png",
+        "name": "Spinal Tap"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Bone.png",
+              "name": "Bone",
+              "quantity": "90"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Cobweb.png",
+              "name": "Cobweb",
+              "quantity": "55"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Spinal_Tap.png",
+          "name": "Spinal Tap",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Work_Bench.png",
+            "name": "Work Bench"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3015,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Spider_Staff.png",
+    "name": "Spider Staff",
+    "type": "Weapon",
+    "damage": "26",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "3 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons spiders to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/ba/Venom_Spider.png",
+        "name": "Venom Spider"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Jumper_Spider.png",
+        "name": "Jumper Spider"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Dangerous_Spider.png",
+        "name": "Dangerous Spider"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Spider_Fang.png",
+              "name": "Spider Fang",
+              "quantity": "16"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Spider_Staff.png",
+          "name": "Spider Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3016,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Sanguine_Staff.png",
+    "name": "Sanguine Staff",
+    "type": "Weapon",
+    "damage": "35",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "3 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a sanguine bat to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Sanguine_Bat_%28minion%29.gif",
+        "name": "Sanguine Bat"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Dreadnautilus",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Dreadnautilus.png",
+        "quantity": "1",
+        "rate": "50"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3017,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Pirate_Staff.png",
+    "name": "Pirate Staff",
+    "type": "Weapon",
+    "damage": "40",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "6 (Average)  / 2 (Very weak) ",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons pirates to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/One_Eyed_Pirate.png",
+        "name": "One Eyed Pirate"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Soulscourge_Pirate.png",
+        "name": "Soulscourge Pirate"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Pirate_Captain_%28minion%29.png",
+        "name": "Pirate Captain"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3018,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Blade_Staff.png",
+    "name": "Blade Staff",
+    "type": "Weapon",
+    "damage": "6",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "0 (No knockback)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons an Enchanted Dagger to fight for you",
+        "Ignores a substantial amount of enemy defense",
+        "'Don't let their small size fool you'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Enchanted_Dagger_%28projectile%29.png",
+        "name": "Enchanted Dagger"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Queen Slime)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Treasure_Bag_%28Queen_Slime%29.png",
+        "quantity": "1",
+        "rate": "33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Queen Slime)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Treasure_Bag_%28Queen_Slime%29.png",
+        "quantity": "1",
+        "rate": "33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3019,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Optic_Staff.png",
+    "name": "Optic Staff",
+    "type": "Weapon",
+    "damage": "24",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "30 (effective)",
+    "tooltip": [
+      [
+        "Summons twins to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0c/Pink_Laser.png",
+        "name": "Mini Retina Laser"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Retanimini.png",
+        "name": "Retanimini"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Spazmamini.png",
+        "name": "Spazmamini"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Black_Lens.png",
+              "name": "Black Lens",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ae/Lens.png",
+              "name": "Lens",
+              "quantity": "2"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Hallowed_Bar.png",
+              "name": "Hallowed Bar",
+              "quantity": "12"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Soul_of_Sight.png",
+              "name": "Soul of Sight",
+              "quantity": "20"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Optic_Staff.png",
+          "name": "Optic Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3020,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Pygmy_Staff.png",
+    "name": "Pygmy Staff",
+    "type": "Weapon",
+    "damage": "40",
+    "mana": "10",
+    "useTime": "28 (Average)",
+    "knockback": "3 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a Pygmy to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Pygmy_1.png",
+        "name": "Pygmy 1"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Pygmy_2.png",
+        "name": "Pygmy 2"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Pygmy_3.png",
+        "name": "Pygmy 3"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/31/Pygmy_4.png",
+        "name": "Pygmy 4"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Pygmy_Spear.png",
+        "name": "Pygmy Spear"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "50"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "50"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3021,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Desert_Tiger_Staff.png",
+    "name": "Desert Tiger Staff",
+    "type": "Weapon",
+    "damage": "41",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "4 (Weak)",
+    "velocity": "40 (effective)",
+    "tooltip": [
+      [
+        "Summons a white tiger to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Desert_Tiger_%28flying%29.png",
+        "name": "Desert Tiger Pounce"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Desert_Tiger_%28ball%29.gif",
+        "name": "Desert Tiger Gem"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Desert_Tiger_%28tier_1%29.gif",
+        "name": "Desert Tiger (tier 1)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Desert_Tiger_%28tier_2%29.gif",
+        "name": "Desert Tiger (tier 2)"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c6/Desert_Tiger_%28tier_3%29.gif",
+        "name": "Desert Tiger (tier 3)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3022,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a7/Deadly_Sphere_Staff.png",
+    "name": "Deadly Sphere Staff",
+    "type": "Weapon",
+    "damage": "40",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a deadly sphere to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Deadly_Sphere_%28minion%29.gif",
+        "name": "Deadly Sphere"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Deadly Sphere",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6e/Deadly_Sphere.png",
+        "quantity": "1",
+        "rate": "2.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3023,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/10/Raven_Staff.png",
+    "name": "Raven Staff",
+    "type": "Weapon",
+    "damage": "55",
+    "mana": "10",
+    "useTime": "28 (Average)",
+    "knockback": "3 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a raven to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Raven_%28minion%29.gif",
+        "name": "Raven"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3024,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Xeno_Staff.png",
+    "name": "Xeno Staff",
+    "type": "Weapon",
+    "damage": "36",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a UFO to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/UFO_%28minion%29.gif",
+        "name": "UFO"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Martian Saucer",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Martian_Saucer.png",
+        "quantity": "1",
+        "rate": "16.66"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3025,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e0/Tempest_Staff.png",
+    "name": "Tempest Staff",
+    "type": "Weapon",
+    "damage": "50",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons sharknados to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Sharknado_%28minion%29.gif",
+        "name": "Tempest"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Mini_Sharkron_%28animated%29.gif",
+        "name": "Mini Sharkron"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Duke Fishron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Duke Fishron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3026,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Stardust_Dragon_Staff.png",
+    "name": "Stardust Dragon Staff",
+    "type": "Weapon",
+    "damage": "40",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a stardust dragon to fight for you",
+        "'Who needs a horde of minions when you have a giant dragon?'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Stardust_Dragon_%28head%29_%28projectile%29.png",
+        "name": "Stardust Dragon 1"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Stardust_Dragon_%28body_1%29_%28projectile%29.png",
+        "name": "Stardust Dragon 2"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Stardust_Dragon_%28body_2%29_%28projectile%29.png",
+        "name": "Stardust Dragon 3"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ee/Stardust_Dragon_%28tail%29_%28projectile%29.png",
+        "name": "Stardust Dragon 4"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Stardust_Fragment.png",
+              "name": "Stardust Fragment",
+              "quantity": "18"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Stardust_Dragon_Staff.png",
+          "name": "Stardust Dragon Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+            "name": "Ancient Manipulator"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3027,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Stardust_Cell_Staff.png",
+    "name": "Stardust Cell Staff",
+    "type": "Weapon",
+    "damage": "60",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "2 (Very weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons a stardust cell to fight for you",
+        "'Cultivate the most beautiful cellular infection'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Stardust_Cell_%28minion%29.gif",
+        "name": "Stardust Cell"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Stardust_Cell_%28mini%29.gif",
+        "name": "Stardust Cell Shot"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Stardust_Fragment.png",
+              "name": "Stardust Fragment",
+              "quantity": "18"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Stardust_Cell_Staff.png",
+          "name": "Stardust Cell Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Ancient_Manipulator.png",
+            "name": "Ancient Manipulator"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3028,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Terraprisma.png",
+    "name": "Terraprisma",
+    "type": "Weapon",
+    "damage": "90",
+    "mana": "10",
+    "useTime": "36 (Very slow)",
+    "knockback": "4 (Weak)",
+    "velocity": "10",
+    "tooltip": [
+      [
+        "Summons an Enchanted Sword to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Terraprisma_%28projectile%29.png",
+        "name": "Terraprisma"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3029,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Queen_Spider_Staff.png",
+    "name": "Queen Spider Staff",
+    "type": "Weapon",
+    "damage": "26",
+    "mana": "10",
+    "useTime": "30 (Average)",
+    "knockback": "7.5 (Very strong)",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "Summons a spider queen to spit eggs at your enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Queen_Spider_Minion.png",
+        "name": "Spider Turret"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Spider_Egg_%28projectile%29.png",
+        "name": "Spider Egg"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/ce/Baby_Spider.png",
+        "name": "Baby Spider"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Spider_Fang.png",
+              "name": "Spider Fang",
+              "quantity": "24"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Queen_Spider_Staff.png",
+          "name": "Queen Spider Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Iron_Anvil.png",
+            "name": "Iron Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Lead_Anvil.png",
+            "name": "Lead Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3030,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/20/Staff_of_the_Frost_Hydra.png",
+    "name": "Staff of the Frost Hydra",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "20",
+    "useTime": "30 (Average)",
+    "knockback": "7.5 (Very strong)",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "Summons a powerful frost hydra to spit ice at your enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/95/Frost_Hydra.png",
+        "name": "Frost Hydra"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3031,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Lunar_Portal_Staff.png",
+    "name": "Lunar Portal Staff",
+    "type": "Weapon",
+    "damage": "100",
+    "mana": "10",
+    "useTime": "30 (Average)",
+    "knockback": "7.5 (Very strong)",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "Summons a lunar portal to shoot lasers at your enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Lunar_Portal.png",
+        "name": "Lunar Portal"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Lunar_Portal_Laser.png",
+        "name": "Lunar Portal Laser"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3032,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Rainbow_Crystal_Staff.png",
+    "name": "Rainbow Crystal Staff",
+    "type": "Weapon",
+    "damage": "130",
+    "mana": "10",
+    "useTime": "30 (Average)",
+    "knockback": "7.5 (Very strong)",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "Summons a radiant crystal that banishes your enemies",
+        "'The colors, Duke, the colors!'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rainbow_Crystal_%28sentry%29.gif",
+        "name": "Rainbow Crystal"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Rainbow_Explosion.png",
+        "name": "Rainbow Explosion"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "22.2"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3033,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+    "name": "Lightning Aura StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "34",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "0.25 (Extremely weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "An aura that repeatedly zaps enemies that go inside",
+        "Aura damage penetrates enemy defense",
+        "Hits quickly at the expense of 50% tag damage",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Lightning_Aura_3.png",
+        "name": "Lightning Aura (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+              "name": "Explosive Trap Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+          "name": "Lightning Aura Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+              "name": "Explosive Trap Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+          "name": "Lightning Aura Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+              "name": "Explosive Trap Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+          "name": "Lightning Aura Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+              "name": "Lightning Aura Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+          "name": "Flameburst Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+              "name": "Lightning Aura Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+          "name": "Flameburst Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+              "name": "Lightning Aura Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+          "name": "Flameburst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3034,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+    "name": "Flameburst StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "88",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "3 (Very weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "An average speed tower that shoots exploding fireballs",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "33",
+        "duration": "3-5 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Hellfire",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "50",
+        "duration": "3-8 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "66",
+        "duration": "6-8 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Flameburst_Tower_3.png",
+        "name": "Flameburst Tower (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+              "name": "Lightning Aura Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+          "name": "Flameburst Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+              "name": "Lightning Aura Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+          "name": "Flameburst Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+              "name": "Lightning Aura Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+          "name": "Flameburst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+              "name": "Flameburst Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+          "name": "Ballista Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+              "name": "Flameburst Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+          "name": "Ballista Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+              "name": "Flameburst Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+          "name": "Ballista Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3035,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+    "name": "Explosive Trap StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "126",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "0.5 (Extremely weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "A trap that explodes when enemies come near",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Explosive_Trap_%28tier_3%29.gif",
+        "name": "Explosive Trap (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+              "name": "Ballista Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+          "name": "Explosive Trap Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+              "name": "Ballista Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+          "name": "Explosive Trap Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+              "name": "Ballista Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+          "name": "Explosive Trap Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+              "name": "Explosive Trap Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+          "name": "Lightning Aura Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+              "name": "Explosive Trap Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+          "name": "Lightning Aura Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+              "name": "Explosive Trap Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+          "name": "Lightning Aura Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3036,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+    "name": "Ballista StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "156",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "4.7 (Average)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "A slow but high damage tower that shoots piercing bolts",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Ballista_3.png",
+        "name": "Ballista (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+              "name": "Flameburst Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+          "name": "Ballista Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+              "name": "Flameburst Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+          "name": "Ballista Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+              "name": "Flameburst Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+          "name": "Ballista Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+              "name": "Ballista Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+          "name": "Explosive Trap Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+              "name": "Ballista Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+          "name": "Explosive Trap Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+              "name": "Ballista Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+          "name": "Explosive Trap Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3037,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+    "name": "Lightning Aura StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "34",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "0.25 (Extremely weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "An aura that repeatedly zaps enemies that go inside",
+        "Aura damage penetrates enemy defense",
+        "Hits quickly at the expense of 50% tag damage",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Lightning_Aura_3.png",
+        "name": "Lightning Aura (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+              "name": "Explosive Trap Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+          "name": "Lightning Aura Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+              "name": "Explosive Trap Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+          "name": "Lightning Aura Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+              "name": "Explosive Trap Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+          "name": "Lightning Aura Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+              "name": "Lightning Aura Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+          "name": "Flameburst Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+              "name": "Lightning Aura Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+          "name": "Flameburst Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+              "name": "Lightning Aura Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+          "name": "Flameburst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3038,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+    "name": "Flameburst StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "88",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "3 (Very weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "An average speed tower that shoots exploding fireballs",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "33",
+        "duration": "3-5 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Hellfire",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "50",
+        "duration": "3-8 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "66",
+        "duration": "6-8 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Flameburst_Tower_3.png",
+        "name": "Flameburst Tower (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+              "name": "Lightning Aura Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+          "name": "Flameburst Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+              "name": "Lightning Aura Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+          "name": "Flameburst Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+              "name": "Lightning Aura Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+          "name": "Flameburst Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+              "name": "Flameburst Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+          "name": "Ballista Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+              "name": "Flameburst Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+          "name": "Ballista Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+              "name": "Flameburst Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+          "name": "Ballista Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3039,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+    "name": "Explosive Trap StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "126",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "0.5 (Extremely weak)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "A trap that explodes when enemies come near",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Explosive_Trap_%28tier_3%29.gif",
+        "name": "Explosive Trap (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+              "name": "Ballista Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+          "name": "Explosive Trap Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+              "name": "Ballista Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+          "name": "Explosive Trap Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+              "name": "Ballista Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+          "name": "Explosive Trap Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+              "name": "Explosive Trap Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Lightning_Aura_Cane.png",
+          "name": "Lightning Aura Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+              "name": "Explosive Trap Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Lightning_Aura_Rod.png",
+          "name": "Lightning Aura Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+              "name": "Explosive Trap Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Lightning_Aura_Staff.png",
+          "name": "Lightning Aura Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3040,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+    "name": "Ballista StaffTier 3",
+    "type": "Weapon Crafting material",
+    "damage": "156",
+    "mana": "15",
+    "useTime": "30 (Average)",
+    "knockback": "4.7 (Average)",
+    "velocity": "1",
+    "tooltip": [
+      [
+        "Summons a sentry",
+        "A slow but high damage tower that shoots piercing bolts",
+        "Costs 10 Etherian Mana per use while defending an Eternia Crystal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Ballista_3.png",
+        "name": "Ballista (tier 3)"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Flameburst_Cane.png",
+              "name": "Flameburst Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+          "name": "Ballista Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Flameburst_Rod.png",
+              "name": "Flameburst Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+          "name": "Ballista Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Flameburst_Staff.png",
+              "name": "Flameburst Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+          "name": "Ballista Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png",
+              "name": "Ballista Cane",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Explosive_Trap_Cane.png",
+          "name": "Explosive Trap Cane",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Ballista_Rod.png",
+              "name": "Ballista Rod",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Explosive_Trap_Rod.png",
+          "name": "Explosive Trap Rod",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Ballista_Staff.png",
+              "name": "Ballista Staff",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Explosive_Trap_Staff.png",
+          "name": "Explosive Trap Staff",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3041,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Firecracker.png",
+    "name": "Firecracker",
+    "type": "Weapon",
+    "damage": "37",
+    "useTime": "30 (Average)",
+    "knockback": "2 (Very weak)",
+    "velocity": "8 (effective)",
+    "tooltip": [
+      [
+        "Your summons will focus struck enemies",
+        "Strike enemies with blazing energy",
+        "Blazing energy explodes from enemies hit by summons"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Hellfire",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "Hellfir",
+        "duration": "4 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Firecracker_%28projectile%29.png",
+        "name": "Firecracker"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Wall of Flesh Mouth",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "quantity": "1",
+        "rate": "25"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Wall of Flesh Mouth",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Wall_of_Flesh_Mouth.png",
+        "quantity": "1",
+        "rate": "25"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3042,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Cool_Whip.png",
+    "name": "Cool Whip",
+    "type": "Weapon",
+    "damage": "45",
+    "useTime": "30 (Average)",
+    "knockback": "1.5 (Extremely weak)",
+    "velocity": "8 (effective)",
+    "tooltip": [
+      [
+        "6 summon tag damage",
+        "Your summons will focus struck enemies",
+        "Strike enemies to summon a friendly snowflake",
+        "'Let me have some of that cool whip'"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostbite",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100%",
+        "duration": "4 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "A Nice Buff",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/63/A_Nice_Buff.png",
+        "duration": "3 seconds",
+        "tooltip": "Summons a snowflake to fight for you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Cool_Whip_%28projectile%29.png",
+        "name": "Cool Whip"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Cool_Flake.png",
+        "name": "Cool Flake"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Soul_of_Light.png",
+              "name": "Soul of Light",
+              "quantity": "8"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Soul_of_Night.png",
+              "name": "Soul of Night",
+              "quantity": "8"
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Frost_Core.png",
+              "name": "Frost Core",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Cool_Whip.png",
+          "name": "Cool Whip",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3043,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Durendal.png",
+    "name": "Durendal",
+    "type": "Weapon",
+    "damage": "55",
+    "useTime": "28 (Average)",
+    "knockback": "2 (Very weak)",
+    "velocity": "12 (effective)",
+    "tooltip": [
+      [
+        "9 summon tag damage",
+        "Your summons will focus struck enemies",
+        "Strike enemies to gain attack speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Durendal's Blessing",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Durendal%27s_Blessing.png",
+        "duration": "3 seconds",
+        "tooltip": "Melee speed is increased"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Durendal_%28projectile%29.png",
+        "name": "Sword Whip"
+      }
+    ],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Hallowed_Bar.png",
+              "name": "Hallowed Bar",
+              "quantity": "12"
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Durendal.png",
+          "name": "Durendal",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Mythril_Anvil.png",
+            "name": "Mythril Anvil"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Orichalcum_Anvil.png",
+            "name": "Orichalcum Anvil"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3044,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Dark_Harvest.png",
+    "name": "Dark Harvest",
+    "type": "Weapon",
+    "damage": "100",
+    "useTime": "27 (Average)",
+    "knockback": "3 (Very weak)",
+    "velocity": "12 (effective)",
+    "tooltip": [
+      [
+        "Your summons will focus struck enemies",
+        "Strike enemies with dark energy to gain attack speed",
+        "Dark energy jumps from enemies hit by summons"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Harvest Time",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Harvest_Time.png",
+        "duration": "3 seconds",
+        "tooltip": "Melee speed is increased"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Dark_Harvest_%28projectile%29.png",
+        "name": "Scythe Whip"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 3045,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Morning_Star.png",
+    "name": "Morning Star",
+    "type": "Weapon",
+    "damage": "165",
+    "useTime": "35 (Slow)",
+    "knockback": "11 (Extremely strong)",
+    "critChance": "0%",
+    "velocity": "8 (effective)",
+    "tooltip": [
+      [
+        "5 summon tag damage",
+        "5% summon tag critical strike chance",
+        "Your summons will focus struck enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Morning_Star_%28projectile%29.png",
+        "name": "Mace Whip"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "quantity": "1",
+        "rate": "0.5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "quantity": "1",
+        "rate": "0.5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Rusty Armored Bones",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rusty_Armored_Bones.gif",
+        "quantity": "1",
+        "rate": "0.5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 3046,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Kaleidoscope.png",
+    "name": "Kaleidoscope",
+    "type": "Weapon",
+    "damage": "180",
+    "useTime": "30 (Average)",
+    "knockback": "4 (Weak)",
+    "velocity": "12 (effective)",
+    "tooltip": [
+      [
+        "20 summon tag damage",
+        "10% summon tag critical strike chance",
+        "Your summons will focus struck enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Kaleidoscope_%28projectile%29.png",
+        "name": "Kaleidoscope"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

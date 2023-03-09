@@ -1,0 +1,1078 @@
+[
+  {
+    "id": 7000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Arcane_Flower.png",
+    "name": "Arcane Flower",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "8% reduced mana usage",
+        "Automatically use mana potions when needed",
+        "Enemies are less likely to target you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Putrid_Scent.png",
+              "name": "Putrid Scent",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Arcane_Flower.png",
+          "name": "Arcane Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+    "name": "Band of Regeneration",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Slowly regenerates life"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+              "name": "Band of Regeneration",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Philosopher%27s_Stone.png",
+              "name": "Philosopher's Stone",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Charm_of_Myths.png",
+          "name": "Charm of Myths",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Band_of_Starpower.png",
+              "name": "Band of Starpower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+              "name": "Band of Regeneration",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Mana_Regeneration_Band.png",
+          "name": "Mana Regeneration Band",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Band_of_Starpower.png",
+    "name": "Band of Starpower",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases maximum mana by 20"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Panic_Necklace.png",
+              "name": "Panic Necklace",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Mana_Crystal.png",
+              "name": "Mana Crystal",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Band_of_Starpower.png",
+          "name": "Band of Starpower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          },
+          {}
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Band_of_Starpower.png",
+              "name": "Band of Starpower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+              "name": "Band of Regeneration",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Mana_Regeneration_Band.png",
+          "name": "Mana Regeneration Band",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          },
+          {}
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Band_of_Starpower.png",
+              "name": "Band of Starpower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Life_Crystal.png",
+              "name": "Life Crystal",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Panic_Necklace.png",
+          "name": "Panic Necklace",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          },
+          {}
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Shadow Orb (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Orb (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "quantity": "1",
+        "rate": "20"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Orb (placed)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Shadow_Orb_%28placed%29.png",
+        "quantity": "1",
+        "rate": "20"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 7003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Celestial_Cuffs.png",
+    "name": "Celestial Cuffs",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases pickup range for mana stars",
+        "Restores mana when damaged",
+        "Increases maximum mana by 20"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Magic_Cuffs.png",
+              "name": "Magic Cuffs",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Celestial_Cuffs.png",
+          "name": "Celestial Cuffs",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+    "name": "Celestial Magnet",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases pickup range for mana stars"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Magic_Cuffs.png",
+              "name": "Magic Cuffs",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Celestial_Cuffs.png",
+          "name": "Celestial Cuffs",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Avenger_Emblem.png",
+              "name": "Avenger Emblem",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Celestial_Emblem.png",
+          "name": "Celestial Emblem",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Magnet_Flower.png",
+          "name": "Magnet Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Celestial_Emblem.png",
+    "name": "Celestial Emblem",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases pickup range for mana stars",
+        "15% increased magic damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Avenger_Emblem.png",
+              "name": "Avenger Emblem",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Celestial_Emblem.png",
+          "name": "Celestial Emblem",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Charm_of_Myths.png",
+    "name": "Charm of Myths",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Provides life regeneration and reduces the cooldown of healing potions by 25%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+              "name": "Band of Regeneration",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Philosopher%27s_Stone.png",
+              "name": "Philosopher's Stone",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Charm_of_Myths.png",
+          "name": "Charm of Myths",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Magic_Cuffs.png",
+    "name": "Magic Cuffs",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases maximum mana by 20",
+        "Restores mana when damaged"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Mana_Regeneration_Band.png",
+              "name": "Mana Regeneration Band",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Shackle.png",
+              "name": "Shackle",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Magic_Cuffs.png",
+          "name": "Magic Cuffs",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Magic_Cuffs.png",
+              "name": "Magic Cuffs",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Celestial_Cuffs.png",
+          "name": "Celestial Cuffs",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Magnet_Flower.png",
+    "name": "Magnet Flower",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "8% reduced mana usage",
+        "Automatically use mana potions when needed",
+        "Increases pickup range for mana stars"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Magnet_Flower.png",
+          "name": "Magnet Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Mana_Cloak_Star.png",
+    "name": "Mana Cloak Star",
+    "type": "Miscellaneous",
+    "tooltip": [
+      [
+        "8% reduced mana usage",
+        "Automatically use mana potions when needed",
+        "Causes stars to fall after taking damage",
+        "Stars restore mana when collected"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Star_Cloak.png",
+              "name": "Star Cloak",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Mana_Cloak.png",
+          "name": "Mana Cloak",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+    "name": "Mana Flower",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "8% reduced mana usage",
+        "Automatically use mana potions when needed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Nature%27s_Gift.png",
+              "name": "Nature's Gift",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Mana_Potion.png",
+              "name": "Mana Potion",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+          "name": "Mana Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Putrid_Scent.png",
+              "name": "Putrid Scent",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Arcane_Flower.png",
+          "name": "Arcane Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
+              "name": "Celestial Magnet",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Magnet_Flower.png",
+          "name": "Magnet Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+              "name": "Mana Flower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Star_Cloak.png",
+              "name": "Star Cloak",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/89/Mana_Cloak.png",
+          "name": "Mana Cloak",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Mana_Regeneration_Band.png",
+    "name": "Mana Regeneration Band",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases maximum mana by 20",
+        "Increases mana regeneration rate"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Band_of_Starpower.png",
+              "name": "Band of Starpower",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+              "name": "Band of Regeneration",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Mana_Regeneration_Band.png",
+          "name": "Mana Regeneration Band",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Mana_Regeneration_Band.png",
+              "name": "Mana Regeneration Band",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Shackle.png",
+              "name": "Shackle",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Magic_Cuffs.png",
+          "name": "Magic Cuffs",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7012,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Nature%27s_Gift.png",
+    "name": "Nature's Gift",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "6% reduced mana usage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Nature%27s_Gift.png",
+              "name": "Nature's Gift",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/80/Mana_Potion.png",
+              "name": "Mana Potion",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/49/Mana_Flower.png",
+          "name": "Mana Flower",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 7013,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Philosopher%27s_Stone.png",
+    "name": "Philosopher's Stone",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Reduces the cooldown of healing potions by 25%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Band_of_Regeneration.png",
+              "name": "Band of Regeneration",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b9/Philosopher%27s_Stone.png",
+              "name": "Philosopher's Stone",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Charm_of_Myths.png",
+          "name": "Charm of Myths",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Mimic",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Mimic.png",
+        "quantity": "1",
+        "rate": "16.67"
+      }
+    ],
+    "summons": []
+  }
+]

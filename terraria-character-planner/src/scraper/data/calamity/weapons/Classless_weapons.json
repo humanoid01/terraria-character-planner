@@ -1,0 +1,551 @@
+[
+  {
+    "id": 21000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/Aero_Dynamite.png",
+    "name": "Aero Dynamite",
+    "type": "Weapon",
+    "damage": "250 ",
+    "useTime": "39 Very Slow",
+    "knockback": "0 (No Knockback)",
+    "critChance": "0%",
+    "velocity": "5",
+    "tooltip": [
+      [
+        "You don't need an aerodynamics major to use this",
+        "Throws a floaty explosive that defies gravity"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cd/Aestheticus.png",
+    "name": "Aestheticus",
+    "type": "Weapon",
+    "damage": "8 ",
+    "useTime": "24 Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "0%",
+    "velocity": "5",
+    "tooltip": [
+      [
+        "Fires crystals that explode and slow enemies down",
+        "This weapon scales with all your damage stats at once"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Vaporfied",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Vaporfied.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (main)2 seconds (split)2 seconds (melee)",
+        "tooltip": "Vape"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/16/Aestheticus_Crystal.png",
+        "name": "Aestheticus Crystal"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Bazooka.png",
+    "name": "Bazooka",
+    "type": "Weapon",
+    "damage": "500 ",
+    "useTime": "30 Average",
+    "knockback": "10 (Extremely Strong)",
+    "critChance": "0%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Uses Grenade Shells",
+        "Can be used twice per boss battle"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21003,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Elephant_Killer.png",
+    "name": "Elephant Killer",
+    "type": "Weapon",
+    "damage": "2000 ",
+    "useTime": "19 Very Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "66%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Uses Magnum Rounds",
+        "Can be used thrice per boss battle"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21004,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bd/Eye_of_Magnus.png",
+    "name": "Eye of Magnus",
+    "type": "Weapon",
+    "damage": "32 ",
+    "useTime": "20 Very Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "0%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Fires powerful beams that reduce enemy protection",
+        "This weapon scales with all your damage stats at once",
+        "Heals mana and health on hit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Marked",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
+        "chance": "100% chance",
+        "duration": "8 seconds",
+        "tooltip": "Damage reduction reduced"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9b/Magnus_Beam.png",
+        "name": "Magnus Beam"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21005,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Golden_Gun.png",
+    "name": "Golden Gun",
+    "type": "Weapon",
+    "damage": "5 ",
+    "useTime": "15 Very Fast",
+    "knockback": "2 (Very Weak)",
+    "critChance": "0%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Shoots a straight line of ichor"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Ichor (debuff)",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Ichor_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "8 seconds",
+        "tooltip": "Defense reduced by 20"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21006,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Hydra.png",
+    "name": "Hydra",
+    "type": "Weapon",
+    "damage": "120 ",
+    "useTime": "33 Slow",
+    "knockback": "10 (Extremely Strong)",
+    "critChance": "0%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Uses Explosive Shotgun Shells",
+        "Can be used once per boss battle"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21007,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Lightning_Hawk.png",
+    "name": "Lightning Hawk",
+    "type": "Weapon – Crafting material",
+    "damage": "400 ",
+    "useTime": "21 Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "56%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Uses Magnum Rounds",
+        "Can be used thrice per boss battle"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21008,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Lunic_Eye.png",
+    "name": "Lunic Eye",
+    "type": "Weapon – Crafting material",
+    "damage": "9 ",
+    "useTime": "15 Very Fast",
+    "knockback": "4.5 (Average)",
+    "critChance": "0%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Fires lunic beams that reduce enemy protection",
+        "This weapon scales with all your damage stats at once"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Marked",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
+        "chance": "100% chance",
+        "duration": "8 seconds",
+        "tooltip": "Damage reduction reduced"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21009,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/90/Magnum.png",
+    "name": "Magnum",
+    "type": "Weapon – Crafting material",
+    "damage": "80 ",
+    "useTime": "25 Fast",
+    "knockback": "8 (Very Strong)",
+    "critChance": "46%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Uses Magnum Rounds",
+        "Can be used thrice per boss battle"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21010,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Marked_Magnum.png",
+    "name": "Marked Magnum",
+    "type": "Weapon",
+    "damage": "4 ",
+    "useTime": "15 Very Fast",
+    "knockback": "3.0 (Very Weak)",
+    "critChance": "0%",
+    "velocity": "12",
+    "tooltip": [
+      [
+        "Shots reduce enemy protection",
+        "This weapon scales with all your damage stats at once"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Marked",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/db/Marked.png",
+        "chance": "100% chance",
+        "duration": "8 seconds",
+        "tooltip": "Damage reduction reduced"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21011,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5b/Ogscule.png",
+    "name": "Ogscule",
+    "type": "Weapon",
+    "damage": "203 ",
+    "useTime": "45 Very Slow",
+    "knockback": "6 (Average)",
+    "critChance": "0%",
+    "velocity": "0",
+    "tooltip": [
+      [
+        "Channels to summon pandemonius rays in random directions"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21012,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Relic_of_Deliverance.png",
+    "name": "Relic of Deliverance",
+    "type": "Weapon",
+    "damage": "1350 ",
+    "useTime": "25 Fast",
+    "critChance": "16%",
+    "tooltip": [
+      [
+        "Summons a spear that causes you to lunge towards the mouse position",
+        "The spear requires a charge-up. The longer the charge, the stronger the lunge",
+        "The spear disappears immediately if you are not holding this item while charging",
+        "If enough time has passed or the spear collides into a wall, the spear dies and the lunge ends"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21013,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/18/Star_Struck_Water.png",
+    "name": "Star Struck Water",
+    "type": "Weapon",
+    "damage": "20 ",
+    "useTime": "14 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "0%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "Spreads the astral infection to some blocks"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21014,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/75/Tyrant_Shield.png",
+    "name": "Tyrant Shield",
+    "type": "Weapon",
+    "damage": "5980 ",
+    "useTime": "2 Insanely Fast",
+    "critChance": "4%",
+    "tooltip": [
+      [
+        "'auric man is always useful dead or alive'",
+        "Holds out a corpse shield that can deflect enemies or projectiles moving towards you",
+        "Hit enemies are dealt a significant amount of damage",
+        "Hit projectiles are deflected and empowered",
+        "If either deflection occurs, the corpse won't be able to be held out for 1 minute"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21015,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Wulfrum_Digging_Turtle.png",
+    "name": "Wulfrum Digging Turtle",
+    "type": "Weapon",
+    "damage": "200 ",
+    "useTime": "14 Very Fast",
+    "knockback": "3 (Very Weak)",
+    "critChance": "0%",
+    "velocity": "14",
+    "tooltip": [
+      [
+        "BOOM!",
+        "Throws out a Wulfrum Turtle that tries to find enemies and jump into them, exploding",
+        "Right click to lay the turtle on the ground to cause enemies to aggro on it",
+        "Only 4 turtles can be active at once"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 21016,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a7/Yanmei%27s_Knife.png",
+    "name": "Yanmei's Knife",
+    "type": "Weapon",
+    "damage": "8 ",
+    "useTime": "32 Slow",
+    "knockback": "4.5 (Average)",
+    "critChance": "4%",
+    "velocity": "24",
+    "tooltip": [
+      [
+        "When hitting a boss, miniboss, or their minions, you gain various boosts and cripple the enemy hit",
+        "A knife from an unknown world",
+        "An owner whose heart is pure and free of taint",
+        "A heart of iron and valor"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Kami Flu",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ca/Kami_Flu.png",
+        "chance": "100% chance",
+        "duration": "10 seconds",
+        "tooltip": "Defenseless and dying"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Kami Injection",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Kami_Injection.png",
+        "duration": "10 seconds",
+        "tooltip": "Increased movement speed and damage"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Yanmei%27s_Knife_Slash.gif",
+        "name": "Yanmei's Knife Slash"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "id": 8000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Toolbelt.png",
+    "name": "Toolbelt",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases block placement range by 1"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Toolbox.png",
+    "name": "Toolbox",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases block placement &amp; tool range by 1"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Present",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Present.png",
+        "quantity": "1",
+        "rate": "0.31"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 8002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Paint_Sprayer.png",
+    "name": "Paint Sprayer",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Automatically paints or coats placed objects"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Brick_Layer.png",
+              "name": "Brick Layer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Extendo_Grip.png",
+              "name": "Extendo Grip",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Paint_Sprayer.png",
+              "name": "Paint Sprayer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Portable_Cement_Mixer.png",
+              "name": "Portable Cement Mixer",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+          "name": "Architect Gizmo Pack",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Extendo_Grip.png",
+    "name": "Extendo Grip",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases block placement &amp; tool range by 3"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Brick_Layer.png",
+              "name": "Brick Layer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Extendo_Grip.png",
+              "name": "Extendo Grip",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Paint_Sprayer.png",
+              "name": "Paint Sprayer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Portable_Cement_Mixer.png",
+              "name": "Portable Cement Mixer",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+          "name": "Architect Gizmo Pack",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Portable_Cement_Mixer.png",
+    "name": "Portable Cement Mixer",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases wall placement speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Brick_Layer.png",
+              "name": "Brick Layer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Extendo_Grip.png",
+              "name": "Extendo Grip",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Paint_Sprayer.png",
+              "name": "Paint Sprayer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Portable_Cement_Mixer.png",
+              "name": "Portable Cement Mixer",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+          "name": "Architect Gizmo Pack",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Brick_Layer.png",
+    "name": "Brick Layer",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases tile placement speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Brick_Layer.png",
+              "name": "Brick Layer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Extendo_Grip.png",
+              "name": "Extendo Grip",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Paint_Sprayer.png",
+              "name": "Paint Sprayer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Portable_Cement_Mixer.png",
+              "name": "Portable Cement Mixer",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+          "name": "Architect Gizmo Pack",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+    "name": "Architect Gizmo Pack",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases block &amp; wall placement speed",
+        "Increases block placement &amp; tool range by 3",
+        "Automatically paints or coats placed objects"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Brick_Layer.png",
+              "name": "Brick Layer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Extendo_Grip.png",
+              "name": "Extendo Grip",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/45/Paint_Sprayer.png",
+              "name": "Paint Sprayer",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Portable_Cement_Mixer.png",
+              "name": "Portable Cement Mixer",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+          "name": "Architect Gizmo Pack",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+              "name": "Architect Gizmo Pack",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Ancient_Chisel.png",
+              "name": "Ancient Chisel",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Treasure_Magnet.png",
+              "name": "Treasure Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Step_Stool.png",
+              "name": "Step Stool",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Hand_Of_Creation.png",
+          "name": "Hand Of Creation",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Presserator.png",
+    "name": "Presserator",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Automatically places actuators on placed objects"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 8008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Ancient_Chisel.png",
+    "name": "Ancient Chisel",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases mining speed by 25%",
+        "'Ancient problems require ancient solutions'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+              "name": "Architect Gizmo Pack",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Ancient_Chisel.png",
+              "name": "Ancient Chisel",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Treasure_Magnet.png",
+              "name": "Treasure Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Step_Stool.png",
+              "name": "Step Stool",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Hand_Of_Creation.png",
+          "name": "Hand Of Creation",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Sandstone Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Sandstone Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Sandstone Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6f/Sandstone_Chest.png",
+        "quantity": "1",
+        "rate": "14.29*1/7 (14.29"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 8009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Hand_Of_Creation.png",
+    "name": "Hand Of Creation",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases mining speed by 25%",
+        "Increases block &amp; wall placement speed",
+        "Increases block placement &amp; tool range by 3",
+        "Increases pickup range for items",
+        "Automatically paints or coats placed objects",
+        "Hold Up to reach higher"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+              "name": "Architect Gizmo Pack",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Ancient_Chisel.png",
+              "name": "Ancient Chisel",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Treasure_Magnet.png",
+              "name": "Treasure Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Step_Stool.png",
+              "name": "Step Stool",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Hand_Of_Creation.png",
+          "name": "Hand Of Creation",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

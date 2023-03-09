@@ -16,7 +16,8 @@ export const isPCVersion = (el: cheerio.Element): boolean => {
     return pcVer;
   }
 
-  if (!version || version.includes('pc')) return true;
+  if (!version || version.includes('pc') || version.includes('desktop'))
+    return true;
 
   return false;
 };

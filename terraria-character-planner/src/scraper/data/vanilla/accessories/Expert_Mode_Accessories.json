@@ -1,0 +1,426 @@
+[
+  {
+    "id": 14000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Royal_Gel.png",
+    "name": "Royal Gel",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Slimes become friendly"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (King Slime)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Treasure_Bag_%28King_Slime%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Shield_of_Cthulhu.png",
+    "name": "Shield of Cthulhu",
+    "type": "Shield Accessory",
+    "damage": "30",
+    "knockback": "9 (Very strong)",
+    "critChance": "4%",
+    "tooltip": [
+      [
+        "Allows the player to dash into the enemy",
+        "Double tap a direction"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Eye of Cthulhu)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Treasure_Bag_%28Eye_of_Cthulhu%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Worm_Scarf.png",
+    "name": "Worm Scarf",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Reduces damage taken by 17%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Eater of Worlds)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fc/Treasure_Bag_%28Eater_of_Worlds%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Brain_of_Confusion.png",
+    "name": "Brain of Confusion",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Has a chance to create illusions and dodge an attack",
+        "Temporarily increase critical chance after dodge",
+        "May confuse nearby enemies after being struck"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Cerebral Mindtrick",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Cerebral_Mindtrick.png",
+        "chance": "Cerebral Mindtric",
+        "duration": "4  / 5  seconds",
+        "tooltip": "Increased critical chance"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Brain_of_Confusion_%28projectile%29.gif",
+        "name": "Brain of Confusion"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Brain of Cthulhu)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Treasure_Bag_%28Brain_of_Cthulhu%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Hive_Pack.png",
+    "name": "Hive Pack",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases the strength of friendly bees"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bd/Large_Bee.gif",
+        "name": "Giant Bee"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Queen Bee)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Treasure_Bag_%28Queen_Bee%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Bone_Glove.png",
+    "name": "Bone Glove",
+    "type": "Accessory",
+    "damage": "25",
+    "tooltip": [
+      [
+        "Shoots crossbones at enemies while you are attacking"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/XBone.png",
+        "name": "XBone"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Skeletron)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Treasure_Bag_%28Skeletron%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Bone_Helm.png",
+    "name": "Bone Helm",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Summons shadow hands to attack your foes",
+        "'I've got a headache just looking at it.'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a7/Shadow_Hand_%28friendly%29.png",
+        "name": "Shadow Hand (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Volatile_Gelatin.png",
+    "name": "Volatile Gelatin",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Releases volatile gelatin periodically that damages enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Volatile_Gelatin_%28projectile%29.png",
+        "name": "Volatile Gelatin"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Queen Slime)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Treasure_Bag_%28Queen_Slime%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Spore_Sac.png",
+    "name": "Spore Sac",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Summons spores over time that will damage enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Poisoned",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
+        "chance": "100",
+        "duration": "5-10 seconds",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Spore_Sac_%28projectile%29.png",
+        "name": "Spore Trap"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Spore_Sac_%28projectile_2%29.png",
+        "name": "Spore Trap 2"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Spore_Sac_%28projectile_3%29.png",
+        "name": "Spore Gas"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Spore_Sac_%28projectile_4%29.png",
+        "name": "Spore Gas 2"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Spore_Sac_%28projectile_5%29.png",
+        "name": "Spore Gas 3"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Plantera)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Treasure_Bag_%28Plantera%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Shiny_Stone.png",
+    "name": "Shiny Stone",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Greatly increases life regen when not moving"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Golem)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Treasure_Bag_%28Golem%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 14010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Soaring_Insignia.png",
+    "name": "Soaring Insignia",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Grants infinite wing and rocket boot flight",
+        "Increases flight and jump mobility"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 14011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Gravity_Globe.png",
+    "name": "Gravity Globe",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Allows the holder to reverse gravity",
+        "Press UP to change gravity"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Moon Lord)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Treasure_Bag_%28Moon_Lord%29.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  }
+]

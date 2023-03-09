@@ -1,0 +1,76 @@
+[
+  {
+    "id": 24000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Alluring_Bait.png",
+    "name": "Alluring Bait",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "30 increased fishing power during the day",
+        "45 increased fishing power during the night",
+        "60 increased fishing power during a solar eclipse",
+        "Greatly increases chance of catching potion ingredient fish"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 24001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Enchanted_Pearl.png",
+    "name": "Enchanted Pearl",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases fishing skill",
+        " Increases chance to catch crates"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 24002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/48/Supreme_Bait_Tackle_Box_Fishing_Station.png",
+    "name": "Supreme Bait Tackle Box Fishing Station",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "The ultimate fishing accessory",
+        "Increases fishing skill by 80",
+        "Fishing line will never break and decreases chances of bait consumption",
+        "Increases chance to catch crates",
+        "Sonar potion effect"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

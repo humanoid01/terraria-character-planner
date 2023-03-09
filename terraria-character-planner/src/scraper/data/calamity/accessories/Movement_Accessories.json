@@ -1,0 +1,803 @@
+[
+  {
+    "id": 26000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Abyssal_Diving_Gear.png",
+    "name": "Abyssal Diving Gear",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Reduces the damage caused by the pressure of the abyss while out of breath",
+        "Removes the bleed effect caused by the abyss",
+        "Grants the ability to swim and greatly extends underwater breathing",
+        "Provides light underwater and extra mobility on ice",
+        "Provides a moderate amount of light in the abyss",
+        "Greatly reduces breath loss in the abyss"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Aero_Stone.gif",
+    "name": "Aero Stone",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "One of the ancient relics",
+        "Increases flight time, movement speed and jump speed by 10%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Angel_Treads.png",
+    "name": "Angel Treads",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Extreme Speed!",
+        "36% increased running acceleration",
+        "Increased flight time",
+        "Greater mobility on ice",
+        "Water and lava walking",
+        "Immunity to the On Fire! debuff",
+        "Temporary immunity to lava"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26003,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Aquatic_Emblem.png",
+    "name": "Aquatic Emblem",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Most ocean enemies become friendly and provides waterbreathing",
+        "Being underwater slowly boosts your defense over time but also slows movement speed",
+        "The defense boost and movement speed reduction slowly vanish while outside of water",
+        "Maximum defense boost is 50, maximum movement speed reduction is 10%",
+        "Provides a small amount of light in the abyss",
+        "Moderately reduces breath loss in the abyss"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26004,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/Aureate_Booster.png",
+    "name": "Aureate Booster",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Mach speed with style!",
+        "Horizontal speed: 8",
+        "Acceleration multiplier: 1.5",
+        "Good vertical speed",
+        "Flight time: 80",
+        "10% increased movement speed while wearing the Reaver Armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26005,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a2/Celestial_Tracers.png",
+    "name": "Celestial Tracers",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Talking speed EVEN FURTHER BEYOND!",
+        "Counts as wings",
+        "Horizontal speed: 12",
+        "Acceleration multiplier: 3",
+        "Excellent vertical speed",
+        "Flight time: 250",
+        "50% increased running acceleration",
+        "Greater mobility on ice",
+        "Water and lava walking",
+        "Immunity to the On Fire! debuff",
+        "Temporary immunity to lava",
+        "Being hit for over 200 damage will make you immune for an extended period of time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26006,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Drew%27s_Wings.png",
+    "name": "Drew's Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Absolutely Fabulous",
+        "Horizontal speed: 12",
+        "Acceleration multiplier: 3",
+        "Excellent vertical speed",
+        "Flight time: 361"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26007,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Elysian_Tracers.png",
+    "name": "Elysian Tracers",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Ludicrous speed!",
+        "Counts as wings",
+        "Horizontal speed: 10.5",
+        "Acceleration multiplier: 2.75",
+        "Great vertical speed",
+        "Flight time: 180",
+        "36% increased running acceleration",
+        "Greater mobility on ice",
+        "Water and lava walking",
+        "Immunity to the On Fire! debuff",
+        "Temporary immunity to lava"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26008,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Elysian_Wings.png",
+    "name": "Elysian Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Blessed by the Profaned Flame",
+        "Horizontal speed: 9.75",
+        "Acceleration multiplier: 2.7",
+        "Great vertical speed",
+        "Flight time: 240",
+        "Temporary immunity to lava and 15% increased movement speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26009,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Exodus_Wings.png",
+    "name": "Exodus Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Pulsing with an alien heartbeat",
+        "Horizontal speed: 9",
+        "Acceleration multiplier: 2.5",
+        "Good vertical speed",
+        "Flight time: 180",
+        "5% increased rogue damage and critical strike chance while wearing the Empyrean Armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26010,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Giant_Shell.png",
+    "name": "Giant Shell",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "15% reduced movement speed and 5% damage reduction",
+        "Taking a hit will make you move very fast for a short time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Shell Speed Boost",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png",
+        "duration": "5 seconds (when hit)",
+        "tooltip": "Speed is boosted"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26011,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Hadal_Mantle.png",
+    "name": "Hadal Mantle",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Fueled by the fury of the depths",
+        "Horizontal speed: 7.75",
+        "Acceleration multiplier: 1.5",
+        "Average vertical speed",
+        "Flight time: 180",
+        "5% increased damage while wearing the Hydrothermic Armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26012,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e9/Hadarian_Wings.png",
+    "name": "Hadarian Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Powered by the Astral Infection",
+        "Hold down to hover during flight, greatly extending flight duration",
+        "Horizontal speed: 9",
+        "Acceleration multiplier: 1.75",
+        "Good vertical speed",
+        "Flight time: 120",
+        "10% increased movement and jump speed while wearing the Astral Armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26013,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/04/Harpy_Ring.png",
+    "name": "Harpy Ring",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased movement speed",
+        "Boosts your maximum flight time by 20%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26014,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0d/Holy_Mantle.png",
+    "name": "Holy Mantle",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Delirious thoughts...",
+        "Horizontal speed: 14",
+        "Acceleration multiplier: 3.2",
+        "Excellent vertical speed",
+        "Flight time: ∞"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26015,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c0/Iron_Boots.png",
+    "name": "Iron Boots",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Allows you to fall faster in liquids"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26016,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/MOAB.png",
+    "name": "MOAB",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "The mother of all balloons",
+        "Counts as wings",
+        "Horizontal speed: 6.5",
+        "Acceleration multiplier: 1",
+        "Good vertical speed",
+        "Flight time: 75",
+        "10% increased jump speed and allows constant jumping",
+        "Grants the player cloud, blizzard, and sandstorm mid-air jumps"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26017,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7e/Microxodonta.png",
+    "name": "Microxodonta",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "92% increased movement speed",
+        "Flying leaves behind batches of damaging microbial clusters"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26018,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Ocean_Crest.png",
+    "name": "Ocean Crest",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Most ocean enemies become friendly and provides waterbreathing"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26019,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Seraph_Tracers.png",
+    "name": "Seraph Tracers",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Ludicrous speed!",
+        "Counts as wings",
+        "Horizontal speed: 9",
+        "Acceleration multiplier: 2.5",
+        "Good vertical speed",
+        "Flight time: 140",
+        "24% increased running acceleration",
+        "Greater mobility on ice",
+        "Water and lava walking",
+        "Immunity to the On Fire! debuff",
+        "Temporary immunity to lava"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26020,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Silva_Wings.png",
+    "name": "Silva Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "The purest of nature",
+        "Horizontal speed: 11",
+        "Acceleration multiplier: 2.8",
+        "Excellent vertical speed",
+        "Flight time: 270",
+        "The Silva revive heals you to half health while wearing the Silva armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26021,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/92/Skyline_Wings.png",
+    "name": "Skyline Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Horizontal speed: 6.25",
+        "Acceleration multiplier: 1",
+        "No vertical speed",
+        "Flight time: 0",
+        "10% increased jump speed while wearing the Aerospec armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26022,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Soul_of_Cryogen.gif",
+    "name": "Soul of Cryogen",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "The magic of the ancient ice castle is yours",
+        "Counts as wings",
+        "Horizontal speed: 6.25",
+        "Acceleration multiplier: 1",
+        "Average vertical speed",
+        "Flight time: 120",
+        "7% increase to all damage",
+        "All melee attacks and projectiles inflict frostburn",
+        "Icicles rain down as you fly"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "2, 4, or 6 seconds (Melee attacks)",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Frost_Shard.gif",
+        "name": "Frost Shard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26023,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Starlight_Wings.png",
+    "name": "Starlight Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Wings of the Nightingale",
+        "Horizontal speed: 7.5",
+        "Acceleration multiplier: 1",
+        "Average vertical speed",
+        "Flight time: 150",
+        "5% increased damage and critical strike chance while wearing the Daedalus Armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26024,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/51/Statis%27_Ninja_Belt.png",
+    "name": "Statis' Ninja Belt",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "6% increased jump speed and allows constant jumping",
+        "Increased fall damage resistance by 35 blocks",
+        "Can climb walls, dash, and dodge attacks",
+        "The dodge has a 90 second cooldown",
+        "This cooldown is shared with all other dodges and reflects"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26025,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Statis%27_Void_Sash.gif",
+    "name": "Statis' Void Sash",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "12% increased jump speed and allows constant jumping",
+        "Grants immunity to fall damage",
+        "Can climb walls, dash and dodge attacks",
+        "The dodge has a 90 second cooldown",
+        "This cooldown is shared with all other dodges and reflects",
+        "Dashes leave homing scythes in your wake"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "God Slayer Inferno",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
+        "chance": "100% chance",
+        "duration": "1 second (Cosmic Scythe)",
+        "tooltip": "Your flesh is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/45/Cosmic_Scythe.png",
+        "name": "Cosmic Scythe"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26026,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Tarragon_Wings.png",
+    "name": "Tarragon Wings",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Born of the jungle",
+        "Horizontal speed: 9.5",
+        "Acceleration multiplier: 2.5",
+        "Great vertical speed",
+        "Flight time: 250",
+        "+15 defense and +2 life regen while wearing the Tarragon Armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26027,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/66/Vital_Jelly.png",
+    "name": "Vital Jelly",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased movement and jump speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 26028,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Wulfrum_Acrobatics_Pack.png",
+    "name": "Wulfrum Acrobatics Pack",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "While powered, allows for infinite jumping",
+        "Each subsequent jump without landing requires an increasingly narrow",
+        "window for when the jump can occur"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

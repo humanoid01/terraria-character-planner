@@ -8,23 +8,41 @@ export const scrapeDroppedBy = (html: string): DroppedBy[] => {
   const $ = cheerio.load(html);
   const allDrops: DroppedBy[] = [];
 
-  $('div.drop tbody tr').each((i, el) => {
+  $('div.drop').each((i, el) => {
     const droppedBy: DroppedBy = {
+      itemsName: [],
       entityName: undefined,
       entityImg: undefined,
       quantity: undefined,
       rate: undefined,
     };
 
+    $(el)
+      .find('div.title a')
+      .each((i, el) => {
+        const imgName = getImgName(el);
+        if (imgName) droppedBy.itemsName.push(imgName);
+      });
+
+    $(el)
+      .find('tbody tr')
+      .each((i, el) => {
+        if (i === 0) return;
+        if (isPCVersion(el)) {
+          droppedBy.entityImg = getImg(el);
+          droppedBy.entityName = getImgName(el);
+          droppedBy.quantity = getDroppedByQuantity(el);
+          droppedBy.rate = getDroppedByRate(el);
+          if (
+            droppedBy.entityImg ||
+            droppedBy.entityName ||
+            droppedBy.quantity ||
+            droppedBy.rate
+          )
+            allDrops.push(droppedBy);
+        }
+      });
     // skip first iteration because there's no useful data
-    if (i === 0) return;
-    if (isPCVersion(el)) {
-      droppedBy.entityImg = getImg(el);
-      droppedBy.entityName = getImgName(el);
-      droppedBy.quantity = getDroppedByQuantity(el);
-      droppedBy.rate = getDroppedByRate(el);
-      allDrops.push(droppedBy);
-    }
   });
   return allDrops;
 };

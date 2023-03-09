@@ -8,6 +8,7 @@ export const getImgName = (el: cheerio.Element): string | undefined => {
     : $(el).find('img').first().attr('data-image-key');
 
   if (imgName?.includes('.png')) return imgName.slice(0, -4);
+  if (imgName?.includes('.gif')) return imgName.slice(0, -4);
 
   return imgName;
 };

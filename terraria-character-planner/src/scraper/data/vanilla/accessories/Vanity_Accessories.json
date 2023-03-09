@@ -1,0 +1,462 @@
+[
+  {
+    "id": 12000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Crimson_Cloak.png",
+    "name": "Capes",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Crimson_Cloak.png",
+    "name": "Capes",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Crimson_Cloak.png",
+    "name": "Capes",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Crimson_Cloak.png",
+    "name": "Capes",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Diamond_Ring.png",
+    "name": "Diamond Ring",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Angel_Halo.png",
+    "name": "Angel Halo",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Ginger_Beard.png",
+    "name": "Ginger Beard",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Yoraiz0r%27s_Scowl.gif",
+    "name": "Yoraiz0r's Scowl",
+    "type": "Vanity Accessory",
+    "tooltip": [
+      [
+        "'Great for impersonating devs!'",
+        "If you see this you should probably run away..."
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Leinfors%27_Luxury_Shampoo.png",
+    "name": "Leinfors' Luxury Shampoo",
+    "type": "Vanity Accessory",
+    "tooltip": [
+      [
+        "'Great for impersonating devs!'",
+        "'Brought to you by LeinCorp'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Balloon_Animal.png",
+    "name": "Balloon Animal",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/31/Bundled_Party_Balloons.png",
+    "name": "Bundled Party Balloons",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Flame_Waker_Boots.png",
+    "name": "Flame Waker Boots",
+    "type": "Accessory Vanity Crafting material",
+    "tooltip": [
+      [
+        "'Never get cold feet again'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Flame_Waker_Boots.png",
+              "name": "Flame Waker Boots",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Spectre_Boots.png",
+              "name": "Spectre Boots",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Hellfire_Treads.png",
+          "name": "Hellfire Treads",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Obsidian Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Obsidian_Crate.png",
+        "quantity": "1",
+        "rate": "19*19/100 (19"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Obsidian Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Obsidian_Crate.png",
+        "quantity": "1",
+        "rate": "19*19/100 (19"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 12012,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Critter_Shampoo.png",
+    "name": "Critter Shampoo",
+    "type": "Accessory Vanity",
+    "tooltip": [
+      [
+        "Applies dye to minions"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12013,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Bunny_Tail.png",
+    "name": "Bunny Tail",
+    "type": "Vanity Accessory",
+    "tooltip": [
+      [
+        "'That's why they call me Thumper'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12014,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/71/Fox_Tail.png",
+    "name": "Fox Tail",
+    "type": "Vanity Accessory",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12015,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Dog_Tail.png",
+    "name": "Dog Tail",
+    "type": "Vanity Accessory",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12016,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Lizard_Tail.png",
+    "name": "Lizard Tail",
+    "type": "Vanity Accessory",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12017,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Fake_Unicorn_Horn.png",
+    "name": "Fake Unicorn Horn",
+    "type": "Vanity Accessory",
+    "tooltip": [
+      [
+        "'It's a new day, yes it is!'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12018,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e3/Hunter_Cloak.png",
+    "name": "Hunter Cloak",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12019,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Royal_Scepter.png",
+    "name": "Royal Scepter",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12020,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8c/Glass_Slipper.png",
+    "name": "Glass Slipper",
+    "type": "Accessory Vanity",
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 12021,
+    "tooltip": [],
+    "debuffs": [],
+    "buffs": [],
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

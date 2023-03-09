@@ -1,0 +1,966 @@
+[
+  {
+    "id": 11000,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Clothier_Voodoo_Doll.png",
+    "name": "Clothier Voodoo Doll",
+    "type": "Boss summon Accessory",
+    "tooltip": [
+      [
+        "'You are a terrible person'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Dark Caster",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Dark_Caster.png",
+        "quantity": "1",
+        "rate": "0.33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Dark Caster",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c1/Dark_Caster.png",
+        "quantity": "1",
+        "rate": "0.33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11001,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+    "name": "Coin Ring",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases coin pickup range",
+        "Hitting enemies will sometimes drop extra coins"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+              "name": "Gold Ring",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+              "name": "Lucky Coin",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+          "name": "Coin Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+              "name": "Coin Ring",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+              "name": "Discount Card",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Greedy_Ring.png",
+          "name": "Greedy Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 11002,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+    "name": "Discount Card",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Shops prices lowered by 20%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+              "name": "Gold Ring",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+          "name": "Discount Card",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+              "name": "Discount Card",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+          "name": "Lucky Coin",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+              "name": "Coin Ring",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+              "name": "Discount Card",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Greedy_Ring.png",
+          "name": "Greedy Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.05"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11003,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Flower_Boots.png",
+    "name": "Flower Boots",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Flowers grow on the grass you walk on"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Spectre_Boots.png",
+              "name": "Spectre Boots",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Flower_Boots.png",
+              "name": "Flower Boots",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Fairy_Boots.png",
+          "name": "Fairy Boots",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Jungle Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "quantity": "1",
+        "rate": "5*1/20 (5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Jungle Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "quantity": "1",
+        "rate": "5*1/20 (5"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Jungle Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Jungle_Crate.png",
+        "quantity": "1",
+        "rate": "5*1/20 (5"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11004,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+    "name": "Gold Ring",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases coin pickup range"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+              "name": "Gold Ring",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+          "name": "Discount Card",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+              "name": "Gold Ring",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+              "name": "Lucky Coin",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+          "name": "Coin Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.1"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11005,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Greedy_Ring.png",
+    "name": "Greedy Ring",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases coin pickup range and shops prices lowered by 20%",
+        "Hitting enemies will sometimes drop extra coins"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Rarity_color_6.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+              "name": "Coin Ring",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+              "name": "Discount Card",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Greedy_Ring.png",
+          "name": "Greedy Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 11006,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Guide_to_Plant_Fiber_Cordage.png",
+    "name": "Guide to Plant Fiber Cordage",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Allows the collection of Vine Rope from vines"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Wooden Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "quantity": "1",
+        "rate": "0.44*1/225 (0.44"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Wooden Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "quantity": "1",
+        "rate": "0.44*1/225 (0.44"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Wooden Crate",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Wooden_Crate.png",
+        "quantity": "1",
+        "rate": "0.44*1/225 (0.44"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11007,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Guide_Voodoo_Doll.png",
+    "name": "Guide Voodoo Doll",
+    "type": "Boss summon Accessory",
+    "tooltip": [
+      [
+        "'You are a terrible person.'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Rarity_color_0.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Voodoo Demon",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/00/Voodoo_Demon.png",
+        "quantity": "1",
+        "rate": "100"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11008,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Jellyfish_Necklace.png",
+    "name": "Jellyfish Necklace",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Generates a very subtle glow which becomes more vibrant underwater"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Diving_Gear.png",
+              "name": "Diving Gear",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Jellyfish_Necklace.png",
+              "name": "Jellyfish Necklace",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Jellyfish_Diving_Gear.png",
+          "name": "Jellyfish Diving Gear",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pink Jellyfish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Pink_Jellyfish.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pink Jellyfish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Pink_Jellyfish.png",
+        "quantity": "1",
+        "rate": "1"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pink Jellyfish",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Pink_Jellyfish.png",
+        "quantity": "1",
+        "rate": "1"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11009,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+    "name": "Lucky Coin",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Hitting enemies will sometimes drop extra coins",
+        "'I found a coin! It's my lucky day!'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ef/Discount_Card.png",
+              "name": "Discount Card",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+          "name": "Lucky Coin",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          }
+        ]
+      }
+    ],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+              "name": "Lucky Coin",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+          "name": "Gold Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      },
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Gold_Ring.png",
+              "name": "Gold Ring",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Lucky_Coin.png",
+              "name": "Lucky Coin",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Coin_Ring.png",
+          "name": "Coin Ring",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Shimmer.png",
+            "name": "Shimmer"
+          },
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.025"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.025"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.025"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.025"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.025"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Pirate Deckhand",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Pirate_Deckhand.png",
+        "quantity": "1",
+        "rate": "0.025"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11010,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Radio_Thing.png",
+    "name": "Radio Thing",
+    "type": "Accessory Vanity",
+    "tooltip": [
+      [
+        "Allows the user to see the world differently",
+        "'Forbidden Knowledge echoes from the radio...'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "33"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Treasure Bag (Deerclops)",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Treasure_Bag_%28Deerclops%29.png",
+        "quantity": "1",
+        "rate": "33"
+      }
+    ],
+    "summons": []
+  },
+  {
+    "id": 11011,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7d/Spectre_Goggles.png",
+    "name": "Spectre Goggles",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Enables Echo Sight, showing hidden blocks"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 11012,
+    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Treasure_Magnet.png",
+    "name": "Treasure Magnet",
+    "type": "Accessory Crafting material",
+    "tooltip": [
+      [
+        "Increases pickup range for items"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [
+      {
+        "ingredients": [
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/23/Architect_Gizmo_Pack.png",
+              "name": "Architect Gizmo Pack",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Ancient_Chisel.png",
+              "name": "Ancient Chisel",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Treasure_Magnet.png",
+              "name": "Treasure Magnet",
+              "quantity": ""
+            }
+          ],
+          [
+            {
+              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Step_Stool.png",
+              "name": "Step Stool",
+              "quantity": ""
+            }
+          ]
+        ],
+        "result": {
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Hand_Of_Creation.png",
+          "name": "Hand Of Creation",
+          "quantity": ""
+        },
+        "cStations": [
+          {
+            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
+            "name": "Tinkerer's Workshop"
+          }
+        ]
+      }
+    ],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Shadow Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "quantity": "1",
+        "rate": "28.57*2/7 (28.57"
+      },
+      {
+        "itemsName": [],
+        "entityName": "Shadow Chest",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Shadow_Chest.png",
+        "quantity": "1",
+        "rate": "28.57*2/7 (28.57"
+      }
+    ],
+    "summons": []
+  }
+]

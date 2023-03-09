@@ -43,8 +43,14 @@ const scrapeSet = (html: string) => {
       tooltip: [],
       rarity: undefined,
     };
+    const isFullArmor = $(el)
+      .find('div.title')
+      .first()
+      .text()
+      .toLowerCase()
+      .includes('armor');
 
-    if (isPCVersion(el)) {
+    if (isPCVersion(el) && !isFullArmor) {
       armorPiece.name = getName(el);
       armorPiece.img = getImg(el);
 
@@ -81,13 +87,13 @@ const scrapeSet = (html: string) => {
   });
   return armorPieces;
 };
-const scrapeArmor = async (
+export const scrapeArmor = async (
   url: string,
   id?: number,
   isModded: boolean = false
-) => {
+): Promise<Armor> => {
   const armor: Armor = {
-    id: undefined,
+    id,
     img: undefined,
     name: undefined,
     type: undefined,
@@ -116,12 +122,17 @@ const scrapeArmor = async (
     duration: undefined,
     tooltip: undefined,
   };
-
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
   $('div.infobox.item').each((i, el) => {
-    if (isPCVersion(el) || isModded) {
+    const isFullArmor = $(el)
+      .find('div.title')
+      .first()
+      .text()
+      .toLowerCase()
+      .includes('armor');
+    if (isPCVersion(el) && isFullArmor) {
       armor.img = getImg(el);
       armor.name = getName(el);
       let buffActive: boolean;
@@ -213,10 +224,8 @@ const scrapeArmor = async (
 
   armor.crafting = crafting;
   armor.usedIn = usedIn;
-
   armor.droppedBy = scrapeDroppedBy(data);
-
-  console.log(armor);
+  return armor;
 };
 
-scrapeArmor('https://terraria.fandom.com/wiki/Vampire_Frog_Staff');
+scrapeArmor('https://terraria.fandom.com/wiki/Rain_armor');

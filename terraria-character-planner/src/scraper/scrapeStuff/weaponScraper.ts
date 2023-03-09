@@ -13,6 +13,7 @@ import { getDebuffChance } from '../scraperFunctions/getDebuffChance.js';
 import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
 import { scrapeCrafting } from './craftingScraper.js';
 import { scrapeDroppedBy } from './droppedByScraper.js';
+import { getDamage } from '../scraperFunctions/getDamage.js';
 
 interface Weapon extends Item {
   damage: string | undefined;
@@ -23,19 +24,11 @@ interface Weapon extends Item {
   velocity: string | undefined;
 }
 
-const getDamage = (el: cheerio.Element) => {
-  const $ = cheerio.load(el);
-  const text = $('td').text();
-  const pcIndex = text.indexOf('/');
-  if (pcIndex === -1) return text;
-  return text.slice(0, pcIndex).trim() + ' (Melee)';
-};
-
 export const scrapeWeapon = async (
   url: string,
   id?: number,
   isModded: boolean = false
-) => {
+): Promise<Weapon> => {
   const buffs: Buffs = {
     name: undefined,
     img: undefined,
@@ -50,7 +43,7 @@ export const scrapeWeapon = async (
     tooltip: undefined,
   };
   const weapon: Weapon = {
-    id: undefined,
+    id,
     img: undefined,
     name: undefined,
     type: undefined,
@@ -70,6 +63,7 @@ export const scrapeWeapon = async (
     droppedBy: [],
     summons: [],
   };
+  console.log(url);
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
@@ -183,6 +177,6 @@ export const scrapeWeapon = async (
   weapon.usedIn = usedIn;
 
   weapon.droppedBy = scrapeDroppedBy(data);
-};
 
-scrapeWeapon('https://terraria.fandom.com/wiki/Daybreak');
+  return weapon;
+};

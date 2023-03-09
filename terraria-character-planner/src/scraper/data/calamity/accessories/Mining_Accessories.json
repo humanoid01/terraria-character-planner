@@ -1,0 +1,68 @@
+[
+  {
+    "id": 23000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/Ancient_Fossil.png",
+    "name": "Ancient Fossil",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Increases pick speed by 15% while underground"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 23001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b1/Archaic_Powder.png",
+    "name": "Archaic Powder",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "20% increased mining speed, 5% damage reduction, and +10 defense while underground or in the underworld"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 23002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Spelunker%27s_Amulet.png",
+    "name": "Spelunker's Amulet",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Spelunker effect and 15% increased mining speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]

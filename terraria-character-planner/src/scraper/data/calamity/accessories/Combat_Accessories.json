@@ -1,0 +1,5530 @@
+[
+  {
+    "id": 22000,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Abyssal_Amulet.png",
+    "name": "Abyssal Amulet",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Attacks inflict the Crush Depths debuff",
+        "Grants immunity to the Crush Depth debuff",
+        "While in the abyss you gain 10% increased max life"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "2, 4, or 6 seconds",
+        "tooltip": "Aquatic pressure"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22001,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/Abyssal_Mirror.png",
+    "name": "Abyssal Mirror",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Light does not reach the depths of the ocean",
+        "Significantly reduces enemy aggression, even in the abyss",
+        "Stealth generates 30% faster when standing still and 20% faster while moving",
+        "Grants the ability to evade attacks, releasing a cloud of lumenyl fluid which damages and stuns nearby enemies",
+        "Evading an attack grants a lot of stealth but has a 90 second cooldown",
+        "This cooldown is shared with all other dodges and reflects"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Abyssal Evade Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Abyssal_Evade_Cooldown.png",
+        "chance": "100% chance",
+        "duration": "90 seconds (when hit)",
+        "tooltip": "Your Abyssal Mirror's dodge is recharging"
+      },
+      {
+        "name": "Eutrophication",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
+        "chance": "100% chance",
+        "duration": "6 seconds (Lumenyl fluid)",
+        "tooltip": "Excessive nutrients restrict your movement"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Apoctolith_Shard.png",
+        "name": "Apoctolith Shard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22002,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/50/Amalgamated_Brain.png",
+    "name": "Amalgamated Brain",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased damage",
+        "Shade rains down when you are hit",
+        "You will confuse nearby enemies when you are struck"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Confused",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
+        "chance": "Confuse",
+        "duration": "5-8 seconds",
+        "tooltip": "Movement is reversed"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22003,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7b/Amidias%27_Pendant.png",
+    "name": "Amidias' Pendant",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Periodically rains down prism shards that can briefly stun enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Eutrophication",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Eutrophication.png",
+        "chance": "100% chance",
+        "duration": "0.25 seconds (Small Prism)0.5 seconds (Large Prism)",
+        "tooltip": "Excessive nutrients restrict your movement"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/19/Small_Prism_Shards.png",
+        "name": "Small Prism Shards"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Large_Prism_Shard.png",
+        "name": "Large Prism Shard"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22004,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/14/Angelic_Alliance.png",
+    "name": "Angelic Alliance",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Call upon the force of heaven to empower your attacks and minions ",
+        " Courage, Enlightenment, Bliss. United in Judgement ",
+        " +2 max minions, 15% increased summon damage, and 8% increased damage to all other classes ",
+        " Life regeneration is boosted while jumping ",
+        " Press Angelic Alliance Blessing to grace yourself in divinity for 15 seconds ",
+        " While under the effects of Divine Bless, a holy construct of the One Order is summoned which scales in damage for every minion you have ",
+        " All minion attacks inflict Banishing Fire and you are granted a flat health boost of four health per second ",
+        " This effect has a cooldown of 1 minute"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Divine Recharge",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Divine_Recharge.png",
+        "chance": "100% (After blessing usage) chance",
+        "duration": "1 minute",
+        "tooltip": "Your divine powers are recharging"
+      },
+      {
+        "name": "Banishing Fire",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ed/Banishing_Fire.png",
+        "chance": "100% chance",
+        "duration": "1 second (Minions)5 seconds (Construct Beam)",
+        "tooltip": "You shall not be forgiven for your sins"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Divine Bless",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/84/Divine_Bless.png",
+        "duration": "15 seconds",
+        "tooltip": "Increased health regen and minions inflict Banishing Fire"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5d/Angelic_Alliance_Archangel.png",
+        "name": "Angelic Alliance Archangel"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22005,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Assortegelatin.png",
+    "name": "Assortegelatin",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Summons slimes to fight for you based on your current biome",
+        "All wild slimes will fight for you",
+        "Pacifies all slimes, even bosses"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22006,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Badge_of_Bravery.png",
+    "name": "Badge of Bravery",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "15% increased melee speed",
+        "Increases melee damage and melee crit by 5%",
+        "+5 armor penetration"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22007,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Bloodstained_Glove.png",
+    "name": "Bloodstained Glove",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Stealth strikes have +10 armor peneration and heal for 1 HP"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22008,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Bloody_Worm_Scarf.png",
+    "name": "Bloody Worm Scarf",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "7 defense\n7% increased damage reduction\n\n7% increased melee damage and speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22009,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3a/Bloody_Worm_Tooth.png",
+    "name": "Bloody Worm Tooth",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "5% increased damage reduction and increased melee stats",
+        "10% increased damage reduction and melee stats when below 50% life"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22010,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Blunder_Booster.png",
+    "name": "Blunder Booster",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "12% increased rogue damage and 15% increased rogue projectile velocity",
+        "Stealth generates 10% faster",
+        "Summons a red lightning aura to surround the player and electrify nearby enemies",
+        "Press Booster Dash to consume 25% of your maximum stealth to perform a swift upwards/diagonal dash which leaves a trail of lightning bolts"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "You cannot move"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Blunder_Booster_Lightnings.gif",
+        "name": "Blunder Booster Lightnings"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22011,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Calamity.gif",
+    "name": "Calamity",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Lights your cursor ablaze with the Witch's flames, summoning a burning sigil around it",
+        "Enemies touching the sigil take immense damage and are inflicted with Vulnerability Hex",
+        "Equip in a vanity slot to change the cursor without dealing damage"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Vulnerability Hex",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b4/Vulnerability_Hex.png",
+        "chance": "100% chance",
+        "duration": "0.4 seconds",
+        "tooltip": "You are weak"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Calamity_Aura.gif",
+        "name": "Calamity Aura"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22012,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/51/Chaos_Stone.gif",
+    "name": "Chaos Stone",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "One of the ancient relics",
+        "Mana Sickness from drinking mana potions is replaced by Mana Burn",
+        "Mana Burn deals damage over time relative to the intensity of the debuff",
+        "This debuff does not reduce your magic damage"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Mana Burn",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Mana_Burn.png",
+        "chance": "Mana Bur",
+        "tooltip": "The excess of mana sears your body and mind"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22013,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Coin_of_Deceit.png",
+    "name": "Coin of Deceit",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Stealth strikes only expend 85% of your max stealth",
+        "6% increased rogue crit chance"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22014,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Corrosive_Spine.png",
+    "name": "Corrosive Spine",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "10% increased movement speed",
+        "All rogue weapons inflict venom and spawn clouds on enemy hits",
+        "You release a ton of clouds everywhere on hit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (On rogue hits)",
+        "tooltip": "Losing life"
+      },
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Clouds)",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/Corrosive_Clouds.gif",
+        "name": "Corrosive Clouds"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22015,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Counter_Scarf.png",
+    "name": "Counter Scarf",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "True melee strikes deal 10% more damage",
+        "Grants the ability to dash; dashing into an attack will cause you to dodge it",
+        "After a successful dodge you must wait 15 seconds before you can dodge again",
+        "This cooldown will be twice as long if you have Chaos State",
+        "While on cooldown, Chaos State will last twice as long"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Scarf Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Scarf_Cooldown.png",
+        "chance": "Scarf Cooldow",
+        "duration": "15 seconds",
+        "tooltip": "Your dodge is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22016,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/79/Daawnlight_Spirit_Origin.png",
+    "name": "Daawnlight Spirit Origin",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "All nearby enemies and bosses are marked with bullseyes",
+        "Ranged attacks that strike a bullseye always critically strike and deal massive damage",
+        "When a bullseye is struck, it vanishes and a new one appears elswhere",
+        "Explosions or large projectiles cannot strike bullseyes",
+        "Converts all ranged critical strike chance boosts into extra critical strike damage",
+        "All ranged weapons will deal even more critical strike damage the slower they are",
+        "Summons a heroic spirit from another world if accessory visibility is enabled",
+        "The heroic spirit is also summoned when this accessory is placed in vanity slots",
+        "'A strand of a lost cosmos remains, waiting for its master'"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Archer of Lunamoon",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/27/Archer_of_Lunamoon.png",
+        "tooltip": "You have a personal spotter"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22017,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Dark_God%27s_Sheath.png",
+    "name": "Dark God's Sheath",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "The Dark God’s void",
+        "+20 maximum stealth",
+        "20% increased rogue crit chance in space",
+        "Stealth strikes launch dark meteor blasts",
+        "Rogue projectile velocity is doubled"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22018,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Dark_Sun_Ring.gif",
+    "name": "Dark Sun Ring",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Contains the power of the dark sun",
+        "12% increase to damage and melee speed",
+        "+1 life regeneration, 15% increased pick speed, and +2 max minions",
+        "Increased minion knockback",
+        "During the day the player has +3 life regen",
+        "During the night the player has +15 defense",
+        "Both of these bonuses are granted during an eclipse"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22019,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Deadshot_Brooch.png",
+    "name": "Deadshot Brooch",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased ranged damage, 5% increased ranged critical strike chance, and 20% reduced ammo usage",
+        "5 increased defense, 2 increased life regen, and 15% increased pick speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22020,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c2/Dimensional_Soul_Artifact.png",
+    "name": "Dimensional Soul Artifact",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Power",
+        "Boosts all damage by 25%, but at what cost?",
+        "Increases all damage taken by 15%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22021,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Draedon%27s_Heart.gif",
+    "name": "Draedon's Heart",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Reduces the amount of defense damage you take by 50%",
+        "Standing still regenerates your life quickly, reduces your damage by 50% and boosts your defense by 75%",
+        "Nanomachines, son"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22022,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8c/Dragon_Scales.png",
+    "name": "Dragon Scales",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Only a living dragon holds true treasure",
+        "Rogue projectiles create slow fireballs as they travel",
+        "Stealth strikes create infernados on death",
+        "+10% max run speed and acceleration"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/83/Dragon_Scales_Fireball.gif",
+        "name": "Dragon Scales Fireball"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Infernado_%28friendly%29.gif",
+        "name": "Infernado (friendly)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22023,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b3/Dynamo_Stem_Cells.gif",
+    "name": "Dynamo Stem Cells",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "10% increased movement speed",
+        "Ranged weapons have a chance to fire mini swarmers"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Mini_Swarmer.gif",
+        "name": "Mini Swarmer"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22024,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2c/Eclipse_Mirror.png",
+    "name": "Eclipse Mirror",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Its reflection shows naught but darkness",
+        "+20 maximum stealth",
+        "6% increased rogue damage, and 6% increased rogue crit chance",
+        "Vastly reduces enemy aggression, even in the abyss",
+        "Stealth generates 20% faster when standing still",
+        "Mobile stealth generation exponentially accelerates while not attacking",
+        "Stealth strikes have a 100% critical hit chance",
+        "Stealth strikes only expend 50% of your max stealth",
+        "Grants the ability to evade attacks in a blast of darksun light, which inflicts extreme damage in a wide area",
+        "Evading an attack grants full stealth but has a 90 second cooldown",
+        "This cooldown is shared with all other dodges and reflects"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Eclipse Evade Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Eclipse_Evade_Cooldown.png",
+        "chance": "100% chance",
+        "duration": "90 seconds (when hit)",
+        "tooltip": "Your Eclipse Mirror's dodge is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Eclipse_Blast.png",
+        "name": "Eclipse Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22025,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Eldritch_Soul_Artifact.png",
+    "name": "Eldritch Soul Artifact",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Knowledge",
+        "Boosts melee speed by 10%, ranged velocity by 25%, rogue damage by 15%, max minions by 2, and reduces mana cost by 15%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22026,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Electrician%27s_Glove.png",
+    "name": "Electrician's Glove",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Stealth strikes summon sparks on enemy hits",
+        "Stealth strikes have +10 armor penetration, deal 10% more damage, and heal for 1 HP"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22027,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Elemental_Gauntlet.png",
+    "name": "Elemental Gauntlet",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Melee attacks and projectiles inflict on fire, frostburn and holy flames",
+        "15% increased melee speed, damage, and 5% increased melee critical strike chance",
+        "20% increased true melee damage",
+        "Temporary immunity to lava",
+        "Increased melee knockback"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22028,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/02/Elemental_Quiver.png",
+    "name": "Elemental Quiver",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "15% increased ranged damage, 5% increased ranged critical strike chance, and 20% reduced ammo usage",
+        " 5 increased defense, 2 increased life regen, and 15% increased pick speed",
+        "Greatly increases arrow speed and grants a 20% chance to not consume arrows"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22029,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/30/Ethereal_Extorter.png",
+    "name": "Ethereal Extorter",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Rogue projectiles explode into homing souls on death",
+        "10% increased rogue damage and +10 maximum stealth, however, life regen is reduced by 1"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/73/Phantasmal_Soul.gif",
+        "name": "Phantasmal Soul"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22030,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/10/Ethereal_Talisman.png",
+    "name": "Ethereal Talisman",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "15% increased magic damage, 5% increased magic critical strike chance, and 10% decreased mana usage",
+        "+150 max mana",
+        "Increases pickup range for mana stars",
+        "You automatically use mana potions when needed if visibility is on"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22031,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Evasion_Scarf.png",
+    "name": "Evasion Scarf",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "True melee strikes deal 15% more damage",
+        "Grants the ability to dash; dashing into an attack will cause you to dodge it",
+        "After a successful dodge you must wait 13 seconds before you can dodge again",
+        "This cooldown will be 50 percent longer if you have Chaos State",
+        "While on cooldown, Chaos State will be 50 percent longer"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Evasion Scarf Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Evasion_Scarf_Cooldown.png",
+        "chance": "Evasion Scarf Cooldow",
+        "duration": "13 seconds",
+        "tooltip": "Your dodge is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22032,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Feather_Crown.png",
+    "name": "Feather Crown",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "15% increased rogue projectile velocity",
+        "Stealth strikes cause feathers to fall from the sky on enemy hits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6f/Sticky_Feather.png",
+        "name": "Sticky Feather"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22033,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/Filthy_Glove.png",
+    "name": "Filthy Glove",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Stealth strikes have +10 armor peneration and deal 10% more damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22034,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/62/Frost_Flare.gif",
+    "name": "Frost Flare",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "All melee attacks and projectiles inflict frostburn",
+        "Immunity to frostburn, chilled, and frozen",
+        "Being above 75% life grants 10% increased damage",
+        "Being below 25% life grants 20 defense and 15% increased max movement speed and acceleration",
+        "Grants resistance against cold attacks"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "2, 4, or 6 seconds (Melee attacks)",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22035,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Fungal_Symbiote.png",
+    "name": "Fungal Symbiote",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Various melee weapons emit mushrooms in true melee range",
+        "True melee strikes deal 15% more damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Glowing_Mushroom.png",
+        "name": "Glowing Mushroom"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22036,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bd/Gehenna.png",
+    "name": "Gehenna",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Drops brimstone fireballs from the sky occasionally"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "10 seconds (Brimstone fireballs)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22037,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Gladiator%27s_Locket.png",
+    "name": "Gladiator's Locket",
+    "type": "Accessory",
+    "damage": "30 ",
+    "tooltip": [
+      [
+        "Summons two spirit swords to protect you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Gladiator Swords (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Gladiator_Swords_%28buff%29.png",
+        "tooltip": "The gladiator swords will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22038,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Glove_of_Precision.png",
+    "name": "Glove of Precision",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Decreases rogue attack speed by 20% but increases damage and crit by 12% and velocity by 25%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22039,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Glove_of_Recklessness.png",
+    "name": "Glove of Recklessness",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases rogue attack speed by 12% but decreases damage by 10%",
+        "Adds inaccuracy to rogue weapons"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22040,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3f/Hallowed_Rune.png",
+    "name": "Hallowed Rune",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Whenever your minions hit an enemy you will gain a random buff, does not stack with downgrades",
+        "These buffs will either boost your defense, summon damage, or life regen for a while",
+        "If you have the offensive boost, enemies hit by minions will sometimes be hit by stars"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Star)",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Hallowed Defense",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Hallowed_Defense.png",
+        "duration": "1 second",
+        "tooltip": "Defense boosted by 8 and damage reduction boosted by 4%"
+      },
+      {
+        "name": "Hallowed Power",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Hallowed_Power.png",
+        "duration": "1 second",
+        "tooltip": "Minion damage boosted by 10%"
+      },
+      {
+        "name": "Hallowed Regen",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Hallowed_Regen.png",
+        "duration": "1 second",
+        "tooltip": "Regenerating life"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Hallow_Star.png",
+        "name": "Hallow Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22041,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/17/Heart_of_Darkness.gif",
+    "name": "Heart of Darkness",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "You constantly gain rage over time",
+        "Rage does not fade away when out of combat",
+        "Revengeance drop"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22042,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2d/Ink_Bomb.png",
+    "name": "Ink Bomb",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Throws several ink bombs when hit that explode in a confusing cloud of ink",
+        "Gain a lot of stealth when struck",
+        "This effect has a 20s cooldown before it can occur again"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Ink Bomb Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/da/Ink_Bomb_Cooldown.png",
+        "chance": "100% chance",
+        "duration": "20 seconds (When hit)",
+        "tooltip": "Your Ink Bomb is recharging"
+      },
+      {
+        "name": "Confused",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Confused.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (Ink bombs)",
+        "tooltip": "Movement is reversed"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Ink_Bomb_Projectile.png",
+        "name": "Ink Bomb Projectile"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Ink_Clouds.png",
+        "name": "Ink Clouds"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22043,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Jelly-Charged_Battery.png",
+    "name": "Jelly-Charged Battery",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "+1 max minions and 7% minion damage",
+        "Minion attacks spawn orbs of energy and inflict Electrified"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "20% chance",
+        "duration": "1 second (On minion hits)",
+        "tooltip": "You cannot move"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5b/Jelly_Orb.png",
+        "name": "Jelly Orb"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22044,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Leviathan_Ambergris.png",
+    "name": "Leviathan Ambergris",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "You leave behind poisonous seawater as you move",
+        "30% increased movement speed, 10% increase to all damage, and plus 10 defense while submerged in liquid",
+        "If you are damaged while submerged in liquid you will gain a damaging aura for a short time",
+        "Being outside of liquid increases all damage by 5% and increases damage reduction by 5%"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Poisoned",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/11/Poisoned.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Poisonous seawater)",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Poisonous seawater)",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22045,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Lumenous_Amulet.png",
+    "name": "Lumenous Amulet",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Attacks inflict the Crush Depth debuff",
+        "Grants immunity to the Crush Depth debuff",
+        "While in the abyss you gain 25% increased max life",
+        "Provides a moderate amount of light in the abyss"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Crush Depth",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9a/Crush_Depth.png",
+        "chance": "100% chance",
+        "duration": "2, 4, or 6 seconds",
+        "tooltip": "Aquatic pressure"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22046,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Luxor%27s_Gift.png",
+    "name": "Luxor's Gift",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Weapons fire unique projectiles based on the damage type they have",
+        "Some weapons are unable to receive this bonus"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22047,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Magna_Core.png",
+    "name": "Magna Core",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "30% increased magic damage, 25% increased magic critical strike chance, and 100% decreased mana usage",
+        "+250 max mana",
+        "Increases pickup range for mana stars",
+        "Using a Mana Potion causes a burst of granite energy to assault enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22048,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9c/Mana_Polarizer.png",
+    "name": "Mana Polarizer",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases max mana by 50 and magic damage by 6%",
+        "Life regen lowered by 3 if mana is above 50% of its maximum",
+        "Grants spectre healing, the amount healed scales with your mana",
+        "The healing only works while holding a magic weapon",
+        "The more mana you have, the more you heal"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22049,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/be/Mirage_Mirror.png",
+    "name": "Mirage Mirror",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Bend light around you",
+        "Reduces enemy aggression outside of the abyss",
+        "Stealth generates 30% faster when standing still and 20% faster while moving"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22050,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Moonstone_Crown.png",
+    "name": "Moonstone Crown",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "15% increased rogue projectile velocity",
+        "Stealth strikes summon lunar flares on enemy hits",
+        "Rogue projectiles very occasionally summon moon sigils behind them"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2a/Moon_Sigil.png",
+        "name": "Moon Sigil"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Lunar_Flare_%28projectile%29.gif",
+        "name": "Lunar Flare (projectile)"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22051,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Nanotech.png",
+    "name": "Nanotech",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Rogue projectiles create nanoblades as they travel",
+        "Stealth strikes summon nanobeams and sparks on enemy hits",
+        "Stealth strikes have +20 armor penetration, deal 5% more damage, and heal for 1 HP",
+        "12% increased rogue damage and 15% increased rogue velocity",
+        "Whenever you crit an enemy with a rogue weapon your rogue damage increases",
+        "This effect can stack up to 150 times",
+        "Max rogue damage boost is 15%",
+        "Rogue Crit Level: [LEVEL HERE]"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/72/Nanoblade.png",
+        "name": "Nanoblade"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22052,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c1/Nebulous_Core.png",
+    "name": "Nebulous Core",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased damage ",
+        "Summons floating nebula stars to protect you",
+        "You will survive an attack that would have killed you and be healed 100 HP",
+        "This effect has a 90 second cooldown"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/41/Nebula_Star.png",
+        "name": "Nebula Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22053,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/00/Necklace_of_Vexation.png",
+    "name": "Necklace of Vexation",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Revenge",
+        "20% increased damage when under 50% life",
+        "All attacks inflict Cursed Inferno and Venom while wearing Reaver armor"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Cursed Inferno",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Cursed_Inferno.png",
+        "chance": "100% chance",
+        "duration": "1.5 seconds",
+        "tooltip": "Losing lifeAll damage taken increased by 20%"
+      },
+      {
+        "name": "Venom",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8a/Venom.png",
+        "chance": "100% chance",
+        "duration": "2 seconds",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22054,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/81/Nuclear_Rod.png",
+    "name": "Nuclear Rod",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Minions release an irradiated aura on enemy hits",
+        "+1 max minion"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Irradiated Aura)",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22055,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Nucleate_Gello.png",
+    "name": "Nucleate Gello",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Summons a nucleate to fight for you",
+        "Pacifies all boss servant slimes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22056,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/01/Nucleogenesis.png",
+    "name": "Nucleogenesis",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increased max minions by 4, does not stack with downgrades",
+        "15% increased minion damage",
+        "Increased minion knockback",
+        "Minions inflict a variety of debuffs",
+        "Minions spawn damaging sparks on enemy hits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1d/Nucleogenesis_Spark.gif",
+        "name": "Nucleogenesis Spark"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22057,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5e/Occult_Skull_Crown.png",
+    "name": "Occult Skull Crown",
+    "type": "Accessory – Armor",
+    "tooltip": [
+      [
+        "Only a fool would ever wear this...",
+        "You constantly gain rage over time and rage does not fade away when out of combat",
+        "Converts certain debuffs into buffs and extends their durations",
+        "Debuffs affected: Darkness, Blackout, Confused, Slow, Weak, Broken Armor,",
+        "Armor Crunch, War Cleave, Chilled, Ichor and Obstructed",
+        "Getting hit causes you to only lose half of your max adrenaline rather than all of it",
+        "Increases your max movement speed and acceleration by 5%",
+        "Can also be worn as a helmet",
+        "Revengeance item"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22058,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6c/Old_Die.png",
+    "name": "Old Die",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Lucky for you, the curse doesn't affect you. Mostly.",
+        "Increases the randomness of attack damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22059,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f3/Old_Duke%27s_Scales.png",
+    "name": "Old Duke's Scales",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "While under the effects of a damaging debuff, you gain 10% increased damage and 5% crit",
+        "For every 25% of lost life, you gain 6% increased damage and 3% crit",
+        "This will max out at 18% increased damage and 9% crit when under 25% life",
+        "Provides immunity to poisoned, venom, and sulphuric poisoning"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22060,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/42/Phantomic_Soul_Artifact.gif",
+    "name": "Phantomic Soul Artifact",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Judgement",
+        "Whenever your minions hit an enemy you will gain a random phantomic buff, does not stack with downgrades",
+        "These buffs will either boost your defense, summon damage, or life regen for a while",
+        "If you have the offensive boost, enemies hit by minions will sometimes be hit by phantomic knives",
+        "If you have the regenerative boost, a phantomic heart will occasionally materialise granting massive health regen",
+        "If you have the defensive boost, a phantomic bulwark will absorb 20% of the next projectile's damage that hits the bulwark, shattering it"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Phantomic Shield",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Phantomic_Shield.png",
+        "duration": "1 second",
+        "tooltip": "Defense boosted by 10 and damage reduction boosted by 5%An ephemeral bulwark protects you"
+      },
+      {
+        "name": "Phantomic Empowerment",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d0/Phantomic_Empowerment.png",
+        "duration": "1 second",
+        "tooltip": "Empowering minion damage by 10%"
+      },
+      {
+        "name": "Phantomic Regen",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Phantomic_Regen.png",
+        "duration": "1 second",
+        "tooltip": "Regenerating life"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Phantomic_Dagger.png",
+        "name": "Phantomic Dagger"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Phantom_Shield.gif",
+        "name": "Phantom Shield"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22061,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Plague_Hive.png",
+    "name": "Plague Hive",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "All attacks inflict the Plague debuff",
+        "Releases bees when damaged that inflict the Plague",
+        "Projectiles spawn plague seekers on enemy hits"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Plague",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
+        "chance": "100% chance",
+        "duration": "2, 4, or 6 seconds (On attack)5 seconds (Bee/wasp projectiles)3 seconds (Plague Seekers)",
+        "tooltip": "Rotting from the inside"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22062,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Plagued_Fuel_Pack.png",
+    "name": "Plagued Fuel Pack",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "5% increased rogue damage and 15% increased rogue projectile velocity",
+        "Stealth generates 10% faster",
+        "Press Booster Dash to consume 25% of your maximum stealth to perform a swift upwards/diagonal dash which leaves a trail of plagued clouds"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Plague",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Cloud)",
+        "tooltip": "Rotting from the inside"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/85/Plague_Cloud.png",
+        "name": "Plague Cloud"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22063,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Psychotic_Amulet.png",
+    "name": "Psychotic Amulet",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Boosts rogue and ranged damage and critical strike chance by 5%",
+        "Grants a massive boost to these stats if you aren't moving"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22064,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Quiver_of_Madness.png",
+    "name": "Quiver of Madness",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Most drink the wine to lose focus, while others transcend...",
+        "30% increased ranged damage, 25% increased ranged critical strike chance, and 100% reduced ammo usage",
+        " 15 increased defense, 2 increased life regen, and 35% increased pick speed",
+        "You are surrounded by 4 demonic portals that buff ranged projectiles that intersect them",
+        "Skull targets occasionally appear on enemies which increase damage taken when hit"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22065,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Raider%27s_Talisman.png",
+    "name": "Raider's Talisman",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Whenever you crit an enemy with a rogue weapon your rogue damage increases",
+        "This effect can stack up to 150 times",
+        "Max rogue damage boost is 15%",
+        "Rogue Crit Level: [LEVEL HERE]"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22066,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Reaper_Tooth_Necklace.png",
+    "name": "Reaper Tooth Necklace",
+    "type": "Accessory",
+    "damage": "200 summon",
+    "tooltip": [
+      [
+        "A grisly trophy from the ultimate predator",
+        "15% increased damage",
+        "Increases armor penetration by 15",
+        "Summons a smart Reaper Shark to protect you ",
+        " It can be controlled directly with the cursor while a summoning weapon is held, and will benefit from all minion bonuses"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Reaper Shark (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1a/Reaper_Shark_%28buff%29.png",
+        "tooltip": "The Reaper Shark awaits your command"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22067,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Rogue%27s_Lootbox.png",
+    "name": "Rogue's Lootbox",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "+30 maximum stealth",
+        "12% increased rogue damage, and 12% increased rogue crit chance",
+        "Vastly reduces enemy aggression, even in the abyss",
+        "Stealth generates 50% faster when standing still",
+        "Mobile stealth generation exponentially accelerates while not attacking",
+        "Stealth strikes have a 100% critical hit chance",
+        "Stealth strikes only expend 50% of your max stealth",
+        "A copy of your weapon falls downward from the sky each use which deals 30% of the weapon's damage",
+        "A burst of homing souls, bouncing jewels, and fireballs are released once the copy projectile dies",
+        "Sun Tornadoes are summoned on stealth strike hits with a cap of 2 at once",
+        "Grants the ability to evade attacks in a blast of darksun light, which inflicts extreme damage in a wide area",
+        "Evading an attack grants full stealth but has a 20 second cooldown",
+        "This cooldown is shared with all other dodges and reflects",
+        "Hit the spectral veil key to summon an eclipse aura that nullifies damage for 5 seconds with a 20 second cooldown."
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Eclipse Evade Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Eclipse_Evade_Cooldown.png",
+        "chance": "100% chance",
+        "duration": "20 seconds (when hit)",
+        "tooltip": "Your Eclipse Mirror's dodge is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Eclipse_Blast.png",
+        "name": "Eclipse Blast"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22068,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a8/Rogue_Emblem.png",
+    "name": "Rogue Emblem",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "15% increased rogue damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22069,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/61/Rotten_Brain.png",
+    "name": "Rotten Brain",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased damage when below 75% life",
+        "5% decreased movement speed when below 50% life",
+        "Shade rains down when you are hit"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22070,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/Rotten_Dogtooth.png",
+    "name": "Rotten Dogtooth",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Makes Stealth strikes inflict Armor Crunch, deal 10% more damage and cost 1 less unit of stealth."
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Armor Crunch",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Armor_Crunch.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Stealth strikes)",
+        "tooltip": "Your armor is shredded"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22071,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/60/Ruin_Medallion.png",
+    "name": "Ruin Medallion",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Stealth strikes only expend 50% of your max stealth",
+        "6% increased rogue damage, and 6% increased rogue crit chance"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22072,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Rusty_Medallion.png",
+    "name": "Rusty Medallion",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Causes most ranged weapons to sometimes release acid droplets from the sky"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Droplet)",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1e/Acid_Droplet.png",
+        "name": "Acid Droplet"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22073,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a4/Sand_Cloak.png",
+    "name": "Sand Cloak",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "+1 defense and 5% increased movement speed",
+        "Press Sand Cloak Effect to consume 25% of your maximum stealth to create a protective dust veil which provides +6 defense and +2 life regen",
+        "This effect has a 30 second cooldown before it can be used again"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Sand Cloak Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fe/Sand_Cloak_Cooldown.png",
+        "chance": "100% chance",
+        "duration": "30 seconds (After cloak's usage)",
+        "tooltip": "Your Sand Cloak is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/88/Sand_Cloak_Veil.png",
+        "name": "Sand Cloak Veil"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22074,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6d/Sand_Shark_Tooth_Necklace.png",
+    "name": "Sand Shark Tooth Necklace",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "You're the alpha now ",
+        "Increases all stats by 10%",
+        "Increases armor penetration by 10",
+        "Summons a smart Sand Shark to protect you ",
+        " It can be controlled directly with the cursor while a summoning weapon is held, and will benefit from all minion bonuses"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Sand Shark (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Sand_Shark_%28buff%29.png",
+        "tooltip": "The Sand Shark awaits your command"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22075,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/df/Scuttler%27s_Jewel.png",
+    "name": "Scuttler's Jewel",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Stealth strike projectiles spawn a jewel spike when destroyed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b0/Jewel_Spike.gif",
+        "name": "Jewel Spike"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22076,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Shattered_Community.gif",
+    "name": "Shattered Community",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Ruined by unknowable hatred, it still contains (most of) the power of The Community...",
+        "You generate rage over time and rage does not fade away out of combat",
+        "Taking damage gives rage, this effect is not hindered by your defensive stats",
+        "While Rage Mode is active, taking damage gives only half as much rage",
+        "Deal damage with Rage Mode to further empower your wrath",
+        "Current level: [LEVEL] (+[BOOST]% Rage Mode damage)",
+        "Progress to next level: [PROGRESS RATIO]%",
+        "Total Rage Mode damage: [CUMULATIVE DAMAGE DEALT]"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22077,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Sigil_of_Calamitas.gif",
+    "name": "Sigil of Calamitas",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "15% increased magic damage and 10% decreased mana usage",
+        "+100 max mana",
+        "Increases pickup range for mana stars"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22078,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/70/Silencing_Sheath.png",
+    "name": "Silencing Sheath",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Rogue weapons are silenced"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22079,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Slimelgamation.png",
+    "name": "Slimelgamation",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Extends the duration of potion buffs by 200% and potion buffs remain active even after you die",
+        "15% increased damage",
+        "Summons an evolved slime core to fight for you",
+        "All wild slimes will fight for you",
+        "Shade and brimstone flames rain down when you are hit",
+        "Nearby enemies receive a variety of debuffs when you are hit",
+        "Life drains over time in exchange for a significant damage boost as health decreases",
+        "You leave behind a trail of spores, toxic clouds, plague bees, and brine",
+        "Standing still generates an aura that slows enemies, and increases defense and life regen",
+        "All weapons have a chance to fire out mini birbs and miniature suns",
+        "50% of the items stats are granted to team members"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Mini_Swarmer.gif",
+        "name": "Mini Swarmer"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22080,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a9/Spectral_Veil.png",
+    "name": "Spectral Veil",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "The inside of the cloak is full of teeth...",
+        "Allows you to dodge attacks\nThe dodge has a 70 second cooldown",
+        "This cooldown is shared with all other dodges and reflects",
+        "Provides 10% increased movement speed",
+        "Stealth generates 20% faster while moving"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22081,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/43/Spirit_Glyph.png",
+    "name": "Spirit Glyph",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Whenever your minions hit an enemy you will gain a random buff",
+        "These buffs will either boost your defense, summon damage, or life regen for a while"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Spirit Defense",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/13/Spirit_Defense.png",
+        "duration": "1 second",
+        "tooltip": "Defense boosted by 6 and damage reduction boosted by 3%"
+      },
+      {
+        "name": "Spirit Power",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Spirit_Power.png",
+        "duration": "1 second",
+        "tooltip": "Minion damage boosted by 10%"
+      },
+      {
+        "name": "Spirit Regen",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Spirit_Regen.png",
+        "duration": "1 second",
+        "tooltip": "Regenerating life"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22082,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/87/Star-Tainted_Generator.png",
+    "name": "Star-Tainted Generator",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "+2 max minions, does not stack with downgrades",
+        "7% minion damage",
+        "Minion attacks spawn astral explosions and inflict several debuffs"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "100% chance",
+        "duration": "1 second (On minion hits)",
+        "tooltip": "You cannot move"
+      },
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (On minion hits)",
+        "tooltip": "Your flesh is melting off"
+      },
+      {
+        "name": "Irradiated",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Irradiated.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (On minion hits)",
+        "tooltip": "Your skin is burning off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22083,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Starbuster_Core.png",
+    "name": "Starbuster Core",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Summons release an astral explosion on enemy hits",
+        "+1 max minion"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22084,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Statis%27_Blessing.png",
+    "name": "Statis' Blessing",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Increased max minions by 2 and 10% increased minion damage",
+        "Increased minion knockback",
+        "Minions inflict holy flames on hit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (On minion hits)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22085,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/06/Statis%27_Curse.gif",
+    "name": "Statis' Curse",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Increased max minions by 3, does not stack with downgrades",
+        "10% increased minion damage",
+        "Increased minion knockback",
+        "Minions inflict holy flames and shadowflames on hit"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Shadowflame",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (On minion hits)",
+        "tooltip": "Losing life"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (On minion hits)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22086,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cb/The_Amalgam.gif",
+    "name": "The Amalgam",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Extends the duration of potion buffs by 100% and potion buffs remain active even after you die",
+        "15% increased damage",
+        "Shade and brimstone flames rain down when you are hit",
+        "Nearby enemies receive a variety of debuffs when you are hit",
+        "Life drains over time in exchange for a significant damage boost as health decreases",
+        "You leave behind a trail of spores, toxic clouds, plague bees, and brine",
+        "Standing still generates an aura that slows enemies, and increases defense and life regen",
+        "All weapons have a chance to fire out mini birbs and miniature suns",
+        "50% of the items stats are granted to team members"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Mini_Swarmer.gif",
+        "name": "Mini Swarmer"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22087,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cf/The_Bee.png",
+    "name": "The Bee",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "When at full HP, your damage is increased based on your damage reduction",
+        "Damage taken at full HP is halved",
+        "This has a 10 second cooldown"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22088,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/The_First_Shadowflame.gif",
+    "name": "The First Shadowflame",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "It is said that in the past, Prometheus descended from the heavens to grant man fire.",
+        "If that were true, then it is surely the demons of hell that would have risen from below to do the same.",
+        "Increases max minions by 1 and minions inflict the Shadowflame debuff on enemies."
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Shadowflame",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Shadowflame.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (On minion hits)",
+        "tooltip": "Losing life"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22089,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/The_Godfather.png",
+    "name": "The Godfather",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "All effects of ingredients",
+        "Additionally:",
+        "Extends the duration of potion buffs by 200% and potion buffs remain active even after you die",
+        "Summons an evolved slime core to fight for you",
+        "All wild slimes will fight for you",
+        "Hit the Plague Pack key to launch yourself towards your cursor while ignoring damage with a 20 second cooldown",
+        "All weapons including true melee have a chance to fire out mini birbs, shrooms, sigils, and miniature suns",
+        "Removes all of the Abyss' hindering effects",
+        "Provides a 20% chance to revive upon dying with a cooldown of 50 seconds",
+        "Immunity to electric-based attacks"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Mini_Swarmer.gif",
+        "name": "Mini Swarmer"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22090,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/The_Verboten_One_%28raw%29.png",
+    "name": "The Verboten One",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "\"The End\"",
+        "Provides all effects of its ingredients"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Aura_Rain.png",
+        "name": "Aura Rain"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      },
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/1b/Mini_Swarmer.gif",
+        "name": "Mini Swarmer"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22091,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Thief%27s_Dime.png",
+    "name": "Thief's Dime",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Those scurvy dogs don’t know the first thing about making bank",
+        "Summons a coin that revolves around you and steals money from enemies"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Midas",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Midas.png",
+        "chance": "100% chance",
+        "duration": "6 seconds",
+        "tooltip": "Drop more money on death"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22092,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7a/Thrower%27s_Gauntlet.png",
+    "name": "Thrower's Gauntlet",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Melee attacks and projectiles inflict a variety of debuffs",
+        "30% increased melee speed, damage, and 25% increased melee critical strike chance",
+        "100% increased true melee damage",
+        "Temporary immunity to lava",
+        "Increased melee knockback",
+        "Triples Yoyos, spawns 5 Counterweights, and quadruples yoyo range",
+        ""
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Slowly losing life"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22093,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/78/Toxic_Heart.png",
+    "name": "Toxic Heart",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Summons a plague aura around you that damages nearby enemies",
+        "Makes you immune to the Plague debuff"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Plague",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Aura)",
+        "tooltip": "Rotting from the inside"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22094,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/2f/Unstable_Granite_Core.gif",
+    "name": "Unstable Granite Core",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Three sparks are released on critical hits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22095,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Vampiric_Talisman.png",
+    "name": "Vampiric Talisman",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Rogue projectiles give lifesteal on crits",
+        "12% increased rogue damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22096,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/12/Venerated_Locket.png",
+    "name": "Venerated Locket",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "10% increased rogue damage",
+        "Using a rogue weapon summons a copy of the projectile that falls from the sky",
+        "Stealth strikes cause a circular fan of seeking cosmilite knives to be thrown",
+        "You'll never be alone, no matter where you go"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c4/Cosmilite_Knives.png",
+        "name": "Cosmilite Knives"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22097,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Void_of_Calamity.png",
+    "name": "Void of Calamity",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Cursed? Reduces damage reduction by 10%",
+        "15% increase to all damage",
+        "Brimstone fire rains down while invincibility is active"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Brimstone fire)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22098,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b9/Void_of_Extinction.png",
+    "name": "Void of Extinction",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "No longer cursed",
+        "Drops brimstone fireballs from the sky occasionally",
+        "15% increase to all damage",
+        "Brimstone fire rains down while invincibility is active",
+        "Temporary immunity to lava, greatly reduces lava burn damage, and 25% increased damage while in lava"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Brimstone fire)10 seconds (Brimstone fireballs)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22099,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d4/Voltaic_Jelly.png",
+    "name": "Voltaic Jelly",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "+1 max minions",
+        "Minion attacks inflict Electrified"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Electrified",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/56/Electrified.png",
+        "chance": "20% chance",
+        "duration": "1 second (On minion hits)",
+        "tooltip": "You cannot move"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22100,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/Warbanner_of_the_Sun.gif",
+    "name": "Warbanner of the Sun",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases melee damage, true melee damage and melee speed the closer you are to enemies",
+        "Max boost is 20% increased melee damage, true melee damage and melee speed"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22101,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Warloks%27_Moon_Fist.png",
+    "name": "Warloks' Moon Fist",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Melee attacks and projectiles inflict nightwither and have a 10% chance to instantly kill normal enemies",
+        "Grants the user 60% increased true melee damage on true melee hits",
+        "25% increased melee speed, damage, and 5% increased melee critical strike chance",
+        "50% increased true melee damage",
+        "Temporary immunity to lava",
+        "Increased melee knockback"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "tooltip": "Increased melee damage"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22102,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/74/Wulfrum_Battery.png",
+    "name": "Wulfrum Battery",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "7% increased summon damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22103,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Yharim%27s_Gift.png",
+    "name": "Yharim's Gift",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "The power of a god pulses from within this artifact",
+        "Flaming meteors rain down while invincibility is active",
+        "Exploding dragon dust is left behind as you move",
+        "Damage and movement speed increased by 15%"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Exploding dragon dust)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d1/Sky_Flare.gif",
+        "name": "Sky Flare"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22104,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6c/Yharim%27s_Insignia.png",
+    "name": "Yharim's Insignia",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% increased damage when under 50% life",
+        "10% increased melee speed",
+        "10% increased melee and true melee damage",
+        "Melee attacks and melee projectiles inflict holy fire",
+        "Temporary immunity to lava",
+        "Increased melee knockback"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "2, 4, or 6 seconds (Melee attacks)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22105,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0c/Abaddon.png",
+    "name": "Abaddon",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Reduces the damage caused by the Brimstone Flames debuff and provides immunity to Searing Lava"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22106,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/26/Abyssal_Diving_Suit.png",
+    "name": "Abyssal Diving Suit",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Transforms the holder into an armored diver",
+        "Increases max movement speed and acceleration while underwater but you move slowly outside of water",
+        "The suits' armored plates reduce damage taken by 15%",
+        "The plates will only take damage if the damage taken is over 50",
+        "After the suit has taken too much damage its armored plates will take 3 minutes to regenerate",
+        "Reduces the damage caused by the pressure of the abyss while out of breath",
+        "Removes the bleed effect caused by the abyss in all layers except the deepest one",
+        "Grants the ability to swim and greatly extends underwater breathing",
+        "Provides light underwater and extra mobility on ice",
+        "Provides a moderate amount of light in the abyss",
+        "Greatly reduces breath loss in the abyss",
+        "Reduces creature's ability to detect you in the abyss",
+        "Reduces the defense reduction that the abyss causes",
+        "Allows you to fall faster while in liquids"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Abyssal Diving Suit Plates Broken",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/47/Abyssal_Diving_Suit_Plates_Broken.png",
+        "chance": "Abyssal Diving Suit Plates Broke",
+        "duration": "3 minutes",
+        "tooltip": "The plates are regenerating"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Abyssal Diving Suit (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8a/Abyssal_Diving_Suit_%28buff%29.png",
+        "duration": "Infinite",
+        "tooltip": "You are made of metal"
+      },
+      {
+        "name": "Abyssal Diving Suit Plates",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f0/Abyssal_Diving_Suit_Plates.png",
+        "duration": "Infinite",
+        "tooltip": "The plates will absorb 15% damage"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Rarity_color_11.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22107,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Affliction.png",
+    "name": "Affliction",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Gives you and all other players on your team +1 life regen,",
+        "+10% max life, 7% damage reduction, 13 defense, and 10% increased damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Afflicted",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3a/Afflicted.png",
+        "duration": "Infinite (to teammates)",
+        "tooltip": "Empowered by otherworldly spirits"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22108,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5c/Alchemical_Flask.png",
+    "name": "Alchemical Flask",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Inflicts the player with the Plague debuff",
+        "2% increased damage"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Plague",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Plague.png",
+        "chance": "100% chance",
+        "duration": "Indefinite (while equipped)",
+        "tooltip": "Rotting from the inside"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4e/Plaguenade_Bee.gif",
+        "name": "Plaguenade Bee"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22109,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b8/Ambrosial_Ampoule.png",
+    "name": "Ambrosial Ampoule",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "You emit light",
+        "7% increased damage reduction and increased life regen",
+        "Freeze, chill, and frostburn immunity"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22110,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Amidias%27_Spark.png",
+    "name": "Amidias' Spark",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Taking damage releases a blast of sparks"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22111,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e1/Anechoic_Plating.png",
+    "name": "Anechoic Plating",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Reduces creature's ability to detect you in the abyss",
+        "Reduces the defense reduction that the abyss causes"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22112,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Aquatic_Heart.png",
+    "name": "Aquatic Heart",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Transforms the holder into a water elemental",
+        "Going underwater gives you a buff",
+        "Greatly reduces breath loss and provides a small amount of light in the abyss",
+        "Enemies become frozen when they touch you",
+        "You have a layer of ice around you that absorbs 20% damage but breaks after one hit",
+        "After 30 seconds the ice shield will regenerate",
+        "Wow, you can swim now!",
+        "Most of these effects are only active after Skeletron has been defeated"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Ice Shield Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/95/Ice_Shield_Cooldown.png",
+        "chance": "Ice Shield Cooldow",
+        "duration": "30 seconds",
+        "tooltip": "The shield is regenerating"
+      },
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "3-4 seconds",
+        "tooltip": "Cannot move and defense is shattered"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Water Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Water_Elemental_%28buff%29.png",
+        "tooltip": "You are a water elemental now"
+      },
+      {
+        "name": "Ocean's Blessing",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Ocean%27s_Blessing.png",
+        "duration": "Infinite (in water)6 seconds (out of water)",
+        "tooltip": "15% increased max speed and acceleration"
+      },
+      {
+        "name": "Ice Shield (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ae/Ice_Shield_%28buff%29.png",
+        "duration": "Infinite (when not broken)",
+        "tooltip": "Absorbs 20% damage from the next hit you take, then shatters"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22113,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/ba/Asgard%27s_Valor.png",
+    "name": "Asgard's Valor",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Grants immunity to knockback",
+        "Immune to most debuffs and reduces the damage caused by the Brimstone Flames debuff",
+        "+16 defense while submerged in liquid",
+        "+20 max life",
+        "Grants a holy dash which can be used to ram enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22114,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/33/Asgardian_Aegis.png",
+    "name": "Asgardian Aegis",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Grants immunity to knockback",
+        "Immune to most debuffs",
+        "+40 max life and increased life regeneration",
+        "Grants a supreme holy flame dash",
+        "Can be used to ram enemies",
+        "Press Elysian Guard to activate buffs to all damage, crit chance, and defense",
+        "Activating this buff will reduce your movement speed and increase enemy aggro",
+        "+20 defense while submerged in liquid"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "God Slayer Inferno",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/07/God_Slayer_Inferno.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (Shield bash)",
+        "tooltip": "Your flesh is burning off"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Holy eruptions)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Elysian Guard",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Elysian_Guard.png",
+        "duration": "Infinite (While active)",
+        "tooltip": "Movement speed reduced, other stats buffed"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22115,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Astral_Arcanum.png",
+    "name": "Astral Arcanum",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Provides immunity to the astral infection debuff",
+        "Boosts life regen even while under the effects of a damaging debuff",
+        "While under the effects of a damaging debuff you will gain 15 defense",
+        "Press Astral Arcanum UI Toggle to toggle teleportation UI while no bosses are alive"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22116,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c7/Blazing_Core.gif",
+    "name": "Blazing Core",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "The searing core of the profaned goddess",
+        "10% damage reduction",
+        "Being hit creates a miniature sun that lingers, dealing damage to nearby enemies",
+        "The sun will slowly drag enemies into it",
+        "Only one sun can be active at once",
+        "Provides a moderate amount of light in the Abyss"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "3 seconds",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Blazing_Sun.gif",
+        "name": "Blazing Sun"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22117,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/53/Bloodflare_Core.png",
+    "name": "Bloodflare Core",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "You lose up to half your defense after taking damage",
+        "Lost defense regenerates over time",
+        "You gain 1 health for every 1 defense gained as it regenerates"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22118,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/6a/Bloom_Stone.png",
+    "name": "Bloom Stone",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "One of the ancient relics",
+        "You quickly regenerate life while on the ground",
+        "This effect works best during daytime",
+        "Flowers grow if you are standing on grass",
+        "Random dye plants will grow while standing on grassless dirt"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22119,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bc/Celestial_Jewel.png",
+    "name": "Celestial Jewel",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Boosts life regen even while under the effects of a damaging debuff",
+        "While under the effects of a damaging debuff you will gain 11 defense",
+        "Press Astral Teleport to teleport to a random location while no bosses are alive"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22120,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9e/Core_of_the_Blood_God.gif",
+    "name": "Core of the Blood God",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "8% increased damage and damage reduction",
+        "Boosts your max HP by 10%",
+        "Healing Potions are 15% more effective",
+        "Halves enemy contact damage",
+        "When you take contact damage this effect has a 20 second cooldown"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Flesh Totem Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png",
+        "chance": "Flesh Totem Cooldow",
+        "duration": "20 seconds",
+        "tooltip": "The Flesh Totem effect is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22121,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bb/Corrupt_Flask.png",
+    "name": "Corrupt Flask",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "7% increased damage reduction and +3 defense while in the corruption"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22122,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f1/Cosmic_Stone.png",
+    "name": "Cosmic Stone",
+    "type": "Accessory – Crafting material",
+    "damage": "20 Summon",
+    "tooltip": [
+      [
+        "Summons a cosmic elemental to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Cosmic Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/83/Cosmic_Elemental_%28buff%29.png",
+        "tooltip": "The cosmic elemental will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22123,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4f/Craw_Carapace.png",
+    "name": "Craw Carapace",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "5% increased damage reduction",
+        "Enemies take damage when they touch you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22124,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5f/Crimson_Flask.png",
+    "name": "Crimson Flask",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "7% increased damage reduction and +3 defense while in the crimson"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22125,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d9/Crown_Jewel.png",
+    "name": "Crown Jewel",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Boosts life regen even while under the effects of a damaging debuff",
+        "While under the effects of a damaging debuff you will gain 8 defense"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22126,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Cryo_Stone.gif",
+    "name": "Cryo Stone",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "One of the ancient relics",
+        "Creates a rotating ice shield around you that damages and slows down enemies on contact"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "0.5 seconds (Shield)",
+        "tooltip": "Cannot move and defense is shattered"
+      },
+      {
+        "name": "Frostburn",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Frostburn.png",
+        "chance": "100% chance",
+        "duration": "3 seconds (Shield)",
+        "tooltip": "It's either really hot or really cold. Either way it REALLY hurts"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f9/Cryogen%27s_Shield.png",
+        "name": "Cryogen's Shield"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22127,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ae/Deep_Diver.png",
+    "name": "Deep Diver",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "15% increased damage, movement speed and +15 defense while underwater",
+        "While underwater you gain the ability to dash great distances"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22128,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Deific_Amulet.png",
+    "name": "Deific Amulet",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Causes stars to fall and grants increased immune time when damaged",
+        "Provides life regeneration and reduces the cooldown of healing potions"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Hallow_Star.png",
+        "name": "Hallow Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22129,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9f/Depths_Charm.png",
+    "name": "Depths Charm",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Reduces the damage caused by the pressure of the abyss while out of breath",
+        "Removes the bleed effect caused by the upper layers of the abyss"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22130,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/68/Elemental_in_a_Bottle.png",
+    "name": "Elemental in a Bottle",
+    "type": "Accessory – Crafting material",
+    "damage": "45 Summon",
+    "tooltip": [
+      [
+        "Summons a sand elemental to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Sand Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/23/Sand_Elemental_%28buff%29.png",
+        "tooltip": "The sand elemental will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22131,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Elysian_Aegis.png",
+    "name": "Elysian Aegis",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Blessed by the Profaned Flame",
+        "Grants immunity to knockback, and the Burning, On Fire! and Holy Flames debuffs",
+        "+30 max life",
+        "Grants a supreme holy flame dash",
+        "Can be used to ram enemies",
+        "Press Elysian Guard to activate buffs to all damage, crit chance, and defense",
+        "Activating this buff will reduce your movement speed and increase enemy aggro"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Holy eruptions)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Elysian Guard",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/29/Elysian_Guard.png",
+        "duration": "Infinite (While active)",
+        "tooltip": "Movement speed reduced, other stats buffed"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22132,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/99/Eye_of_the_Storm.png",
+    "name": "Eye of the Storm",
+    "type": "Accessory – Crafting material",
+    "damage": "45 Summon",
+    "tooltip": [
+      [
+        "Summons a cloud elemental to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Cloud Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/Cloud_Elemental_%28buff%29.png",
+        "tooltip": "The cloud elemental will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22133,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/2/28/Flame-Licked_Shell.png",
+    "name": "Flame-Licked Shell",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "35% decreased movement speed",
+        "Enemies take damage when they hit you",
+        "You move faster and lose 18 defense for 3 seconds if you take damage",
+        "Temporary immunity to lava"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Shell Speed Boost",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png",
+        "duration": "5 seconds (when hit)",
+        "tooltip": "Speed is boosted"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22134,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Flesh_Totem.png",
+    "name": "Flesh Totem",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Halves enemy contact damage",
+        "When you take contact damage this effect has a 20 second cooldown"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Flesh Totem Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0e/Flesh_Totem_Cooldown.png",
+        "chance": "Flesh Totem Cooldow",
+        "duration": "20 seconds",
+        "tooltip": "The Flesh Totem effect is recharging"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b5/Rarity_color_8.png",
+      "tier": "8"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22135,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/bd/Frigid_Bulwark.png",
+    "name": "Frigid Bulwark",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Absorbs 25% of damage done to players on your team",
+        "Only active above 25% life",
+        "Grants immunity to knockback",
+        "Puts a shell around the owner when below 50% life that reduces damage",
+        "The shell becomes more powerful when below 15% life and reduces damage even further"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Ice Barrier",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Ice_Barrier.png",
+        "duration": "Infinite (while under 50% life)",
+        "tooltip": "Damage taken is reduced by 15%"
+      },
+      {
+        "name": "Paladin's Shield (buff)",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Paladin%27s_Shield_%28buff%29.png",
+        "duration": "Infinite (while conditions are met, and only to other players)",
+        "tooltip": "25% of damage taken will be redirected to another player"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22136,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/76/Frost_Barrier.png",
+    "name": "Frost Barrier",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "You will freeze enemies near you when you are struck",
+        "You are immune to the chilled debuff"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "3-4 seconds",
+        "tooltip": "Cannot move and defense is shattered"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22137,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Fungal_Carapace.png",
+    "name": "Fungal Carapace",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "You emit a mushroom spore explosion when you are hit"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Truffle_Spore.gif",
+        "name": "Truffle Spore"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22138,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ca/Fungal_Clump.png",
+    "name": "Fungal Clump",
+    "type": "Accessory",
+    "damage": "10 Summon",
+    "tooltip": [
+      [
+        "Summons a fungal clump to fight for you",
+        "The clump latches onto enemies and steals their life for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Fungal Clump (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/89/Fungal_Clump_%28buff%29.png",
+        "tooltip": "The fungal clump will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22139,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a5/Giant_Pearl.png",
+    "name": "Giant Pearl",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "You have a light aura around you",
+        "Enemies within the aura are slowed down",
+        "Does not work while a boss is alive",
+        "Provides a small amount of light in the abyss"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Pearl Aura",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/ce/Pearl_Aura.png",
+        "chance": "100% chance",
+        "duration": "Infinite (while in aura)",
+        "tooltip": "Slowed down"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22140,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c9/Giant_Shell.png",
+    "name": "Giant Shell",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "15% reduced movement speed and 5% damage reduction",
+        "Taking a hit will make you move very fast for a short time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Shell Speed Boost",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/35/Shell_Speed_Boost.png",
+        "duration": "5 seconds (when hit)",
+        "tooltip": "Speed is boosted"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22141,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8f/Giant_Tortoise_Shell.png",
+    "name": "Giant Tortoise Shell",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "10% decreased movement speed",
+        "Enemies take damage when they hit you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22142,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/11/Gravistar_Sabaton.png",
+    "name": "Gravistar Sabaton",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Tap the DOWN key to increase your fall speed for 5 seconds",
+        "This has a 8 second cooldown",
+        "Striking the ground with increased fall speed will cause an astral explosion"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Explosion)",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22143,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d5/Heart_of_the_Elements.gif",
+    "name": "Heart of the Elements",
+    "type": "Accessory",
+    "damage": "90 Summon",
+    "tooltip": [
+      [
+        "The heart of the world",
+        "Summons all elementals to protect you"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Brimstone fireballs)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Heart of the Elements (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/0f/Heart_of_the_Elements_%28buff%29.png",
+        "tooltip": "All elementals will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22144,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/af/Hide_of_Astrum_Deus.png",
+    "name": "Hide of Astrum Deus",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Taking damage, or inflicting a true melee strike, drops an immense amount of astral stars from the sky",
+        "Taking damage boosts true melee damage by 50%",
+        "Boost duration is based on the amount of damage you took, the higher the damage the longer the boost",
+        "Provides immunity to the astral infection, cursed inferno, on fire, and frostburn debuffs",
+        "Enemies take damage when they hit you and are inflicted with the astral infection debuff"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Astral Infection (debuff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/65/Astral_Infection_%28debuff%29.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Astral stars)5 seconds (Explosion)",
+        "tooltip": "Your flesh is melting off"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/57/Astral_Star.png",
+        "name": "Astral Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22145,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b2/Honey_Dew.png",
+    "name": "Honey Dew",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "5% increased damage reduction, plus 9 defense and increased life regen while in the Jungle",
+        "Poison and Venom immunity",
+        "Honey-like life regen with no speed penalty",
+        "Most bee/hornet enemies and projectiles do 75% damage to you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22146,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3b/Howl%27s_Heart.gif",
+    "name": "Howl's Heart",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Summons Howl to fight for you, Calcifer to light your way, and Turnip-Head to follow you around",
+        "Placing this accessory in vanity slots will summon the trio without the combat or exploration utilities"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Howl's Heart (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a0/Howl%27s_Heart_%28buff%29.png",
+        "tooltip": "Howl protects you, Calcifer lights your way, Turnip-Head stalks you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Rarity_color_10.png",
+      "tier": "0"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ef/Howl%27s_Heart_Fireball.gif",
+        "name": "Howl's Heart Fireball"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22147,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/a1/Laudanum.png",
+    "name": "Laudanum",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Converts certain debuffs into buffs and extends their durations",
+        "Debuffs affected: Darkness, Blackout, Confused, Slow, Weak, Broken Armor,",
+        "Armor Crunch, War Cleave, Chilled, Ichor and Obstructed",
+        "Revengeance drop"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22148,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/40/Lead_Core.png",
+    "name": "Lead Core",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Grants immunity to the irradiated debuff"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22149,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7b/Living_Dew.png",
+    "name": "Living Dew",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "5% increased damage reduction, +5 defense, and increased life regen while in the Jungle",
+        "Immunity to Poison"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22150,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Metamorphic_Stone.png",
+    "name": "Metamorphic Stone",
+    "type": "Accessory – Crafting material",
+    "damage": "126 Summon",
+    "tooltip": [
+      [
+        "Summons an earth elemental to fight for you"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Earth Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/39/Earth_Elemental_%28buff%29.png",
+        "tooltip": "The earth elemental will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22151,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/ff/Mutated_Truffle.png",
+    "name": "Mutated Truffle",
+    "type": "Accessory",
+    "damage": "1200 Summon",
+    "tooltip": [
+      [
+        "Summons a small Old Duke to fight for you",
+        "When below 50% life, it moves much faster"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Mini Old Duke (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Mini_Old_Duke_%28buff%29.png",
+        "tooltip": "The young duke will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/36/Rarity_color_13.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22152,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/cc/Ornate_Shield.png",
+    "name": "Ornate Shield",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Boosted damage reduction and health while wearing the Daedalus armor",
+        "Grants a frost dash"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Glacial State",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/Glacial_State.png",
+        "chance": "100% chance",
+        "duration": "1 seconds",
+        "tooltip": "Cannot move and defense is shattered"
+      }
+    ],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22153,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/80/Pearl_of_Enthrallment.png",
+    "name": "Pearl of Enthrallment",
+    "type": "Accessory – Crafting material",
+    "damage": "65 Summon",
+    "tooltip": [
+      [
+        "Summons a water elemental to fight for you",
+        " The elemental stays above you, shooting water spears, ice mist, and treble clefs at nearby enemies"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Anahita (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/7c/Anahita_%28buff%29.png",
+        "tooltip": "Anahita will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22154,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/82/Permafrost%27s_Concoction.png",
+    "name": "Permafrost's Concoction",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Increases maximum mana by 50 and reduces mana cost by 15%",
+        "Increases life regen as life decreases",
+        "Increases life regen when afflicted with Poison, On Fire, or Brimstone Flames",
+        "You will survive fatal damage and revive with 30% life on a 3 minute cooldown",
+        "You are encased in an ice barrier for 3 seconds when revived"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Concoction Cooldown",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Concoction_Cooldown.png",
+        "chance": "Concoction Cooldow",
+        "duration": "3 minutes",
+        "tooltip": "Revive is recharging"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Encased",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4d/Encased.png",
+        "duration": "3 seconds",
+        "tooltip": "30 defense and +30% damage reduction, but..."
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22155,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d6/Profaned_Soul_Artifact.gif",
+    "name": "Profaned Soul Artifact",
+    "type": "Accessory – Crafting material",
+    "damage": "75",
+    "tooltip": [
+      [
+        "Purity",
+        "Summons a healer guardian which heals for a certain amount of health every few seconds",
+        "Summons a defensive guardian if you have at least 10 minion slots, which boosts your movement speed and your damage resistance",
+        "Summons an offensive guardian if you are wearing the tarragon summoner set (or stronger), which boosts your summon damage and your minion slots",
+        "If you get hit, most of their effects will disappear for 5 seconds"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Burnt Out",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Burnt_Out.png",
+        "chance": "Burnt Ou",
+        "duration": "5 seconds (when hit)",
+        "tooltip": "You've been burnt out and your guardians are less effective"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (On minion hits)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "The Profaned Soul",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/The_Profaned_Soul.png",
+        "tooltip": "The healer will heal your wounds (Only Healer) The Defensive Duo will protect and heal you! (Healer + Defensive) The Offensive Duo will fight for and heal you! (Healer + Offensive) The Profaned Babs will fight for and defend you! (All Three)"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22156,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/ad/Profaned_Soul_Crystal.gif",
+    "name": "Profaned Soul Crystal",
+    "type": "Accessory",
+    "damage": "495",
+    "tooltip": [
+      [
+        "Transforms Melee attacks into a barrage of spears"
+      ],
+      [
+        "Transforms Magic attacks into a powerful splitting fireball"
+      ],
+      [
+        "Transforms Ranged attacks into a flurry of fireballs and meteors"
+      ],
+      [
+        "Transforms Rogue attacks into a deadly crystalline spiral"
+      ],
+      [
+        "And so we burn it all in the name of purity"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Burnt Out",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e2/Burnt_Out.png",
+        "chance": "Burnt Ou",
+        "duration": "5 seconds (when hit before Exo Mechs and Supreme Calamitas are defeated)",
+        "tooltip": "You've been burnt out and your guardians are less effective"
+      },
+      {
+        "name": "Holy Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d7/Holy_Flames.png",
+        "chance": "100% chance",
+        "duration": "5 seconds (On minion hits pre-Exo Mechs and Supreme Calamitas)10 seconds (On minion hits post-Exo Mechs and Supreme Calamitas)",
+        "tooltip": "Dissolving from holy light"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Devotion",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/Devotion.png",
+        "duration": "Infinite",
+        "tooltip": "You are an emissary of the profaned goddess now!The light of the sun empowers your offensive capabilities"
+      },
+      {
+        "name": "The Profaned Soul",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/4b/The_Profaned_Soul.png",
+        "duration": "Infinite",
+        "tooltip": "The healer will heal your wounds (Only Healer)The Defensive Duo will protect and heal you! (Healer + Defensive)The Offensive Duo will fight for and heal you! (Healer + Offensive)The Profaned Babs will fight for and defend you! (All Three)"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Rarity_color_16.png",
+      "tier": "6"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22157,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/6/69/Rampart_of_Deities.png",
+    "name": "Rampart of Deities",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Causes stars to fall and gives increased immune time when damaged",
+        "Provides life regeneration and reduces the cooldown of healing potions",
+        "Absorbs 25% of damage done to players on your team",
+        "This effect is only active above 25% life",
+        "Grants immunity to knockback",
+        "Puts a shell around the owner when below 50% life that reduces damage",
+        "The shell becomes more powerful when below 15% life and reduces damage even further"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Ice Barrier",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8e/Ice_Barrier.png",
+        "duration": "Infinite (while under 50% life)",
+        "tooltip": "Damage taken is reduced by 15%"
+      },
+      {
+        "name": "Paladin's Shield (buff)",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Paladin%27s_Shield_%28buff%29.png",
+        "duration": "Infinite (while conditions are met, and only to other players)",
+        "tooltip": "25% of damage taken will be redirected to another player"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Hallow_Star.png",
+        "name": "Hallow Star"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22158,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/85/Rare_Elemental_in_a_Bottle.png",
+    "name": "Rare Elemental in a Bottle",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Summons a sand elemental to heal you",
+        ";D"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Rare Sand Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/97/Rare_Sand_Elemental_%28buff%29.png",
+        "tooltip": "The sand elemental will heal you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22159,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/4/44/Regenator.png",
+    "name": "Regenator",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Reduces max HP by 50% but greatly improves life regeneration"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22160,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c2/Rose_Stone.png",
+    "name": "Rose Stone",
+    "type": "Accessory – Crafting material",
+    "damage": "60 Summon",
+    "tooltip": [
+      [
+        "One of the ancient relics",
+        "Summons a brimstone elemental to fight for you"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "Brimstone Flames",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/7/71/Brimstone_Flames.png",
+        "chance": "100% chance",
+        "duration": "4 seconds (Projectiles)",
+        "tooltip": "Rapid health loss"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Brimstone Elemental (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f5/Brimstone_Elemental_%28buff%29.png",
+        "tooltip": "The brimstone elemental will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/59/Brimstone_Hellfireball.gif",
+        "name": "Brimstone Hellfireball"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22161,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/0/03/Rover_Drive.png",
+    "name": "Rover Drive",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Activates a protective shield that grants 15 defense for 10 seconds",
+        "The shield then dissipates and recharges for 20 seconds before being reactivated"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Rarity_color_1.png",
+      "tier": "1"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22162,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/f0/Sea_Shell.png",
+    "name": "Sea Shell",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Increased defense and damage reduction when submerged in liquid",
+        "Increased movement speed when submerged in liquid"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22163,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/5a/Shield_of_the_Ocean.png",
+    "name": "Shield of the Ocean",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Increased defense by 5 when submerged in liquid",
+        "Increases movement speed and life regen while wearing the Victide armor"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Rarity_color_2.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22164,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/38/Stress_Pills.png",
+    "name": "Stress Pills",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "Boosts your defense by 4 and max movement speed and acceleration by 5%",
+        "Receiving a hit causes you to only lose half of your max adrenaline rather than all of it",
+        "Revengeance drop"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22165,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/31/The_Absorber.png",
+    "name": "The Absorber",
+    "type": "Accessory – Crafting material",
+    "tooltip": [
+      [
+        "5% increased movement and jump speed",
+        "+20 max life and mana",
+        "Standing still boosts life and mana regen",
+        "Increased defense, movement speed and damage reduction while submerged in liquid",
+        "Enemies take damage when they hit you",
+        "You emit a cloud of mushroom spores when you are hit",
+        "10% increased damage reduction",
+        "3% reduced stealth costs",
+        "5% of the damage from enemy attacks is absorbed and converted into healing"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Rarity_color_9.png",
+      "tier": "9"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Truffle_Spore.gif",
+        "name": "Truffle Spore"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22166,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/f/fc/The_Camper.png",
+    "name": "The Camper",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "In rest may we find victory.",
+        "You deal 90% less damage unless stationary",
+        "Standing still grants buff(s) dependent on what weapon you're holding",
+        "Standing still provides a damaging aura around you",
+        "While moving, you regenerate health as if standing still",
+        "Provides a small amount of light in the Abyss"
+      ]
+    ],
+    "debuffs": [
+      {
+        "name": "On Fire!",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4f/On_Fire%21.png",
+        "chance": "100% chance",
+        "duration": "2 seconds (Aura)",
+        "tooltip": "Slowly losing life"
+      }
+    ],
+    "buffs": [
+      {
+        "name": "Cozy Fire",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Cozy_Fire.png",
+        "duration": "Infinite",
+        "tooltip": "Life regen is slightly increased"
+      },
+      {
+        "name": "Heart Lamp (buff)",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Heart_Lamp_%28buff%29.png",
+        "duration": "Infinite",
+        "tooltip": "Life regen is increased"
+      },
+      {
+        "name": "Well Fed",
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Well_Fed.png",
+        "duration": "Infinite",
+        "tooltip": "Minor improvements to all statsMinor improvements to all stats and increased life regeneration"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Rarity_color_7.png",
+      "tier": "7"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22167,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/d8/The_Community.gif",
+    "name": "The Community",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "The heart of (most of) the Terraria community",
+        "Starts off with weak buffs to all of your stats",
+        "The stat buffs become more powerful as you progress",
+        "Reduces the DoT effects of harmful debuffs inflicted on you",
+        "Thank you to all of my supporters that made this mod a reality"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Rarity_color_rainbow.gif",
+      "tier": "w"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22168,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/98/The_Evolution.gif",
+    "name": "The Evolution",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "You reflect projectiles when they hit you",
+        "Reflected projectiles deal no damage to you",
+        "This reflect has a 120 second cooldown which is shared with all other dodges and reflects",
+        "If this effect triggers you get a health regeneration boost for 5 seconds",
+        "If the same enemy projectile type hits you again you will resist its damage 15%"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/ec/Rarity_color_12.png",
+      "tier": "2"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22169,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/1/15/The_Sponge.gif",
+    "name": "The Sponge",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "15% increased damage reduction",
+        "+30 max life and mana",
+        "5% increased movement and jump speed",
+        "Standing still boosts life and mana regen",
+        "Increased defense, movement speed and damage reduction while submerged in liquid",
+        "Enemies take damage when they hit you",
+        "You emit a cloud of mushroom spores and sparks when you are hit",
+        "2% reduced stealth costs",
+        "6.25% of the damage from enemy attacks is absorbed and converted into healing",
+        "Increased healing as health lowers",
+        "Dying revives you inside of an encumbering shell for 3 seconds with a 1 minute cooldown",
+        "Generates an energy shield over 1 minute that takes one hit"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/15/Truffle_Spore.gif",
+        "name": "Truffle Spore"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22170,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3a/The_Transformer.gif",
+    "name": "The Transformer",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Taking damage releases a blast of sparks",
+        "Immunity to Electrified and you resist all electrical projectile and enemy damage",
+        "Enemy bullets do half damage to you and are reflected back at the enemy for 800% their original damage"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22171,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/a/aa/Trinket_of_Chi.png",
+    "name": "Trinket of Chi",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "After 1 second of standing still and not attacking you gain a buff",
+        "The buff boosts your damage by 50% and decreases damage taken by 15%",
+        "The buff deactivates if you move or attack once"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Chi",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8b/Chi.png",
+        "duration": "Infinite (when not moving or attacking)",
+        "tooltip": "Your next attack is boosted and you are more resilient"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Rarity_color_3.png",
+      "tier": "3"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22172,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/3/3d/Universal_Stone.png",
+    "name": "Universal Stone",
+    "type": "Accessory – Crafting material",
+    "damage": "4002 Summon",
+    "tooltip": [
+      [
+        "The true potential of a lesser elemental",
+        "Summons an cosmic conflict construct to fight for you",
+        "Summons a cosmic shield around you that inflicts God Slayer Inferno",
+        "Collecting Cosmichid plants boosts damage by 1% up to 30%",
+        "While the item's visibility is on, Mana Sickness is replaced with Mana Burn",
+        "50% increased flight time"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "Cosmic Conflict Construct (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/d/de/Cosmic_Conflict_Construct_%28buff%29.png",
+        "tooltip": "The cosmic conflict construct will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/e/e7/Rarity_color_14.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22173,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/c/c2/Ursa_Sergeant.png",
+    "name": "Ursa Sergeant",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "15% reduced movement speed",
+        "Immune to Astral Infection and Feral Bite",
+        "Increased regeneration at lower health"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Rarity_color_4.png",
+      "tier": "4"
+    },
+    "projectiles": [],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  },
+  {
+    "id": 22174,
+    "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/b/b6/Zenith_Arcanum.png",
+    "name": "Zenith Arcanum",
+    "type": "Accessory",
+    "tooltip": [
+      [
+        "Top of the food chain",
+        "Summons various spirits of the world to protect you",
+        "20% increase to summon damage and defense",
+        "+4 life regeneration, 15% increased pick speed, and +8 max minions",
+        "Increased minion knockback",
+        "Minions inflict a variety of debuffs and spawn skeletal limbs on enemy hits"
+      ]
+    ],
+    "debuffs": [],
+    "buffs": [
+      {
+        "name": "The World (buff)",
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/5/55/The_World_%28buff%29.png",
+        "tooltip": "The world will protect you"
+      }
+    ],
+    "rarity": {
+      "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/8/8d/Rarity_color_15.png",
+      "tier": "5"
+    },
+    "projectiles": [
+      {
+        "img": "https://static.wikia.nocookie.net/calamitymod_gamepedia_en/images/9/9d/Skeletal_Limb.png",
+        "name": "Skeletal Limb"
+      }
+    ],
+    "crafting": [],
+    "usedIn": [],
+    "droppedBy": [],
+    "summons": []
+  }
+]
