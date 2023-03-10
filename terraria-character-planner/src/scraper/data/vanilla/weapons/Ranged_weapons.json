@@ -14901,7 +14901,15 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
-    "droppedBy": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pumpking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Pumpking.png",
+        "quantity": "Candy Corn Rifle\n+ Candy Corn (50-100)",
+        "rate": "1.04"
+      }
+    ],
     "summons": []
   },
   {

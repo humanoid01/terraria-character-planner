@@ -2053,7 +2053,15 @@
     ],
     "crafting": [],
     "usedIn": [],
-    "droppedBy": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pumpking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Pumpking.png",
+        "quantity": "1",
+        "rate": "1.04"
+      }
+    ],
     "summons": []
   },
   {
@@ -4159,7 +4167,15 @@
     ],
     "crafting": [],
     "usedIn": [],
-    "droppedBy": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pumpking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Pumpking.png",
+        "quantity": "1",
+        "rate": "1.04"
+      }
+    ],
     "summons": []
   },
   {

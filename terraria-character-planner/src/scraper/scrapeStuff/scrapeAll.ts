@@ -210,7 +210,7 @@ async function saveItemsData(isModded: boolean = false) {
 
 const scrapeAll = async () => {
   await saveItemsData();
-  await saveItemsData(true);
+  // await saveItemsData(true);
 };
 
 scrapeAll();
