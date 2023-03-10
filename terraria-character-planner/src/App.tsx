@@ -1,7 +1,9 @@
+import { Accessories } from './components/Accessories/Accessories';
+
 function App() {
   return (
     <div className='App'>
-      <header className='App-header'></header>
+      <Accessories />
     </div>
   );
 }
