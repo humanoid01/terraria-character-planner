@@ -18,6 +18,10 @@ import vanillaRanged from '../data/vanilla/weapons/Ranged_weapons.json' assert {
 import vanillaSummon from '../data/vanilla/weapons/Summon_weapons.json' assert { type: 'json' };
 
 const dataMerger = () => {
+  const newVanillaMove = vanillaMove.filter(
+    item => !item.name.toLowerCase().includes('wing')
+  );
+
   const vanillaAccessories = [
     ...vanillaCombat,
     ...vanillaConstrction,
@@ -26,9 +30,9 @@ const dataMerger = () => {
     ...vanillaHealthMana,
     ...vanillaInfo,
     ...vanillaMisc,
-    ...vanillaMove,
-    ...vanillaVanity,
-    ...vanillaYoyo,
+    ...newVanillaMove,
+    // ...vanillaVanity, it's bugged for now
+    // ...vanillaYoyo, it's bugged for now
   ];
 
   const vanillaWeapons = [
