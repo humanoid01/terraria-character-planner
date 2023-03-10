@@ -4,11 +4,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/78/Adhesive_Bandage.png",
     "name": "Adhesive Bandage",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Bleeding"
-      ]
-    ],
+    "tooltip": [["Immunity to Bleeding"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -108,11 +104,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d5/Ankh_Charm.png",
     "name": "Ankh Charm",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Grants immunity to most debuffs"
-      ]
-    ],
+    "tooltip": [["Grants immunity to most debuffs"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -311,11 +303,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Armor_Bracing.png",
     "name": "Armor Bracing",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Weakness and Broken Armor"
-      ]
-    ],
+    "tooltip": [["Immunity to Weakness and Broken Armor"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -460,11 +448,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bd/Armor_Polish.png",
     "name": "Armor Polish",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Broken Armor"
-      ]
-    ],
+    "tooltip": [["Immunity to Broken Armor"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -557,11 +541,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Avenger_Emblem.png",
     "name": "Avenger Emblem",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "12% increased damage"
-      ]
-    ],
+    "tooltip": [["12% increased damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -985,11 +965,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Bezoar.png",
     "name": "Bezoar",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Poison"
-      ]
-    ],
+    "tooltip": [["Immunity to Poison"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1089,11 +1065,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f4/Black_Belt.png",
     "name": "Black Belt",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Gives a chance to dodge attacks"
-      ]
-    ],
+    "tooltip": [["Gives a chance to dodge attacks"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1156,11 +1128,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Blindfold.png",
     "name": "Blindfold",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Darkness"
-      ]
-    ],
+    "tooltip": [["Immunity to Darkness"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1336,10 +1304,7 @@
     "name": "Celestial Emblem",
     "type": "Accessory",
     "tooltip": [
-      [
-        "Increases pickup range for mana stars",
-        "15% increased magic damage"
-      ]
+      ["Increases pickup range for mana stars", "15% increased magic damage"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -1388,11 +1353,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Moon_Charm.png",
     "name": "Moon Charm",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Turns the holder into a werewolf at night"
-      ]
-    ],
+    "tooltip": [["Turns the holder into a werewolf at night"]],
     "debuffs": [],
     "buffs": [
       {
@@ -1675,11 +1636,7 @@
     "name": "Cobalt Shield",
     "type": "Shield Accessory Crafting material",
     "defense": "1",
-    "tooltip": [
-      [
-        "Grants immunity to knockback"
-      ]
-    ],
+    "tooltip": [["Grants immunity to knockback"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1735,11 +1692,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Countercurse_Mantra.png",
     "name": "Countercurse Mantra",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Silence and Curse"
-      ]
-    ],
+    "tooltip": [["Immunity to Silence and Curse"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1884,11 +1837,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Cross_Necklace.png",
     "name": "Cross Necklace",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Increases length of invincibility after taking damage"
-      ]
-    ],
+    "tooltip": [["Increases length of invincibility after taking damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -1945,10 +1894,7 @@
     "name": "Destroyer Emblem",
     "type": "Accessory Crafting material",
     "tooltip": [
-      [
-        "10% increased damage",
-        "8% increased critical strike chance"
-      ]
+      ["10% increased damage", "8% increased critical strike chance"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -2027,11 +1973,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f1/Eye_of_the_Golem.png",
     "name": "Eye of the Golem",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "10% increased critical strike chance"
-      ]
-    ],
+    "tooltip": [["10% increased critical strike chance"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2094,11 +2036,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f7/Fast_Clock.png",
     "name": "Fast Clock",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Slow"
-      ]
-    ],
+    "tooltip": [["Immunity to Slow"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2199,10 +2137,7 @@
     "name": "Feral Claws",
     "type": "Accessory Crafting material",
     "tooltip": [
-      [
-        "12% increased melee speed",
-        "Enables auto swing for melee weapons"
-      ]
+      ["12% increased melee speed", "Enables auto swing for melee weapons"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -2337,11 +2272,7 @@
     "name": "Flesh Knuckles",
     "type": "Accessory Crafting material",
     "defense": "8  / 7 ",
-    "tooltip": [
-      [
-        "Enemies are more likely to target you"
-      ]
-    ],
+    "tooltip": [["Enemies are more likely to target you"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2561,11 +2492,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bb/Hand_Warmer.png",
     "name": "Hand Warmer",
     "type": "Accessory",
-    "tooltip": [
-      [
-        "Provides immunity to chill and freezing effects"
-      ]
-    ],
+    "tooltip": [["Provides immunity to chill and freezing effects"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -2653,11 +2580,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Honey_Comb.png",
     "name": "Honey Comb",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Releases bees and douses the user in honey when damaged"
-      ]
-    ],
+    "tooltip": [["Releases bees and douses the user in honey when damaged"]],
     "debuffs": [],
     "buffs": [
       {
@@ -2905,10 +2828,7 @@
     "name": "Magma Skull",
     "type": "Accessory Crafting material",
     "tooltip": [
-      [
-        "Melee attacks inflict fire damage",
-        "Grants immunity to fire blocks"
-      ]
+      ["Melee attacks inflict fire damage", "Grants immunity to fire blocks"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -3012,11 +2932,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/33/Magma_Stone.png",
     "name": "Magma Stone",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Melee attacks inflict fire damage"
-      ]
-    ],
+    "tooltip": [["Melee attacks inflict fire damage"]],
     "debuffs": [
       {
         "name": "Hellfire",
@@ -3242,11 +3158,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Medicated_Bandage.png",
     "name": "Medicated Bandage",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Poison and Bleeding"
-      ]
-    ],
+    "tooltip": [["Immunity to Poison and Bleeding"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -3391,11 +3303,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Megaphone.png",
     "name": "Megaphone",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Silence"
-      ]
-    ],
+    "tooltip": [["Immunity to Silence"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -3729,11 +3637,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Obsidian_Rose.png",
     "name": "Obsidian Rose",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Reduces damage from touching lava"
-      ]
-    ],
+    "tooltip": [["Reduces damage from touching lava"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -3920,10 +3824,7 @@
     "type": "Shield Accessory Crafting material",
     "defense": "2",
     "tooltip": [
-      [
-        "Grants immunity to knockback",
-        "Grants immunity to fire blocks"
-      ]
+      ["Grants immunity to knockback", "Grants immunity to fire blocks"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -4003,11 +3904,7 @@
     "name": "Obsidian Skull",
     "type": "Accessory Crafting material",
     "defense": "1",
-    "tooltip": [
-      [
-        "Grants immunity to fire blocks"
-      ]
-    ],
+    "tooltip": [["Grants immunity to fire blocks"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -4224,10 +4121,7 @@
     "name": "Obsidian Skull Rose",
     "type": "Accessory Crafting material",
     "tooltip": [
-      [
-        "Grants immunity to fire blocks",
-        "Reduces damage from touching lava"
-      ]
+      ["Grants immunity to fire blocks", "Reduces damage from touching lava"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -4429,11 +4323,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/40/Panic_Necklace.png",
     "name": "Panic Necklace",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Increases movement speed after taking damage"
-      ]
-    ],
+    "tooltip": [["Increases movement speed after taking damage"]],
     "debuffs": [],
     "buffs": [
       {
@@ -4580,11 +4470,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Pocket_Mirror.png",
     "name": "Pocket Mirror",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to petrification"
-      ]
-    ],
+    "tooltip": [["Immunity to petrification"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -4926,11 +4812,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/31/Ranger_Emblem.png",
     "name": "Ranger Emblem",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "15% increased ranged damage"
-      ]
-    ],
+    "tooltip": [["15% increased ranged damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -5132,12 +5014,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Rifle_Scope.png",
     "name": "Rifle Scope",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Increases view range for guns",
-        "Right click to zoom out"
-      ]
-    ],
+    "tooltip": [["Increases view range for guns", "Right click to zoom out"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -5271,11 +5148,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4a/Shark_Tooth_Necklace.png",
     "name": "Shark Tooth Necklace",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Increases armor penetration by 5"
-      ]
-    ],
+    "tooltip": [["Increases armor penetration by 5"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -5421,11 +5294,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Sorcerer_Emblem.png",
     "name": "Sorcerer Emblem",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "15% increased magic damage"
-      ]
-    ],
+    "tooltip": [["15% increased magic damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -5649,11 +5518,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d4/Star_Cloak.png",
     "name": "Star Cloak",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Causes stars to fall after taking damage"
-      ]
-    ],
+    "tooltip": [["Causes stars to fall after taking damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -5927,11 +5792,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Summoner_Emblem.png",
     "name": "Summoner Emblem",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "15% increased minion damage"
-      ]
-    ],
+    "tooltip": [["15% increased minion damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -6171,11 +6032,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/The_Plan.png",
     "name": "The Plan",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Slow and Confusion"
-      ]
-    ],
+    "tooltip": [["Immunity to Slow and Confusion"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -6321,10 +6178,7 @@
     "name": "Titan Glove",
     "type": "Accessory Crafting material",
     "tooltip": [
-      [
-        "Increases melee knockback",
-        "Increases the size of melee weapons"
-      ]
+      ["Increases melee knockback", "Increases the size of melee weapons"]
     ],
     "debuffs": [],
     "buffs": [],
@@ -6381,11 +6235,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a4/Vitamins.png",
     "name": "Vitamins",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "Immunity to Weakness"
-      ]
-    ],
+    "tooltip": [["Immunity to Weakness"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -6478,11 +6328,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Warrior_Emblem.png",
     "name": "Warrior Emblem",
     "type": "Accessory Crafting material",
-    "tooltip": [
-      [
-        "15% increased melee damage"
-      ]
-    ],
+    "tooltip": [["15% increased melee damage"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {
@@ -6948,11 +6794,7 @@
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Pygmy_Necklace.png",
     "name": "Pygmy Necklace",
     "type": "Accessory",
-    "tooltip": [
-      [
-        "Increases your max number of minions by 1"
-      ]
-    ],
+    "tooltip": [["Increases your max number of minions by 1"]],
     "debuffs": [],
     "buffs": [],
     "rarity": {

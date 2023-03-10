@@ -196,7 +196,9 @@ async function saveItemsData(isModded: boolean = false) {
       const data = await Promise.all(promisedData);
       fs.writeFileSync(
         `./${
-          isModded ? `../data/calamity/${type}` : `../data/vanilla/${type}`
+          isModded
+            ? `../../data/calamity/${type}`
+            : `../../data/vanilla/${type}`
         }/${name}.json`,
         JSON.stringify(data, null, 2)
       );
