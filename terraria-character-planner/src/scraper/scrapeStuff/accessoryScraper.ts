@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import axios from 'axios';
-import { Buffs, Debuffs, Item } from '../types/types';
+import { Buffs, Debuffs, DroppedBy, Item, Summons } from '../types/types';
 import { getTooltip } from '../scraperFunctions/getTooltip.js';
 import { getImg } from '../scraperFunctions/getImg.js';
 import { getRarity } from '../scraperFunctions/getRarity.js';
@@ -14,6 +14,7 @@ import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
 import { scrapeCrafting } from './craftingScraper.js';
 import { scrapeDroppedBy } from './droppedByScraper.js';
 import { getDamage } from './../scraperFunctions/getDamage.js';
+import { scrapeCalamityInfobox } from './calInfoboxScraper.js';
 
 interface Accessory extends Item {
   defense: string | undefined;
@@ -151,8 +152,17 @@ export const scrapeAccessory = async (
 
     accessory.projectiles = getProjectiles(el);
   });
-  const [crafting, usedIn] = scrapeCrafting(data);
 
+  if (isModded) {
+    const [crafting, usedIn] = scrapeCrafting(data, true);
+    const { droppedBy, summons } = scrapeCalamityInfobox(data);
+    accessory.crafting = crafting;
+    accessory.usedIn = usedIn;
+    accessory.droppedBy = [droppedBy as DroppedBy];
+    accessory.summons = [summons as Summons];
+    return accessory;
+  }
+  const [crafting, usedIn] = scrapeCrafting(data);
   accessory.crafting = crafting;
   accessory.usedIn = usedIn;
   accessory.droppedBy = scrapeDroppedBy(data);

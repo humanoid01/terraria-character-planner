@@ -1,6 +1,13 @@
 import * as cheerio from 'cheerio';
 import axios from 'axios';
-import { Debuffs, Buffs, Rarity, Item } from '../types/types';
+import {
+  Debuffs,
+  Buffs,
+  Rarity,
+  Item,
+  DroppedBy,
+  Summons,
+} from '../types/types';
 import { getTooltip } from '../scraperFunctions/getTooltip.js';
 import { getImg } from '../scraperFunctions/getImg.js';
 import { getRarity } from '../scraperFunctions/getRarity.js';
@@ -13,6 +20,7 @@ import { getDebuffChance } from '../scraperFunctions/getDebuffChance.js';
 import { getProjectiles } from '../scraperFunctions/getProjectiles.js';
 import { scrapeCrafting } from './craftingScraper.js';
 import { scrapeDroppedBy } from './droppedByScraper.js';
+import { scrapeCalamityInfobox } from './calInfoboxScraper.js';
 
 interface ArmorPiece {
   img: string | undefined;
@@ -220,12 +228,19 @@ export const scrapeArmor = async (
   });
   armor.set = scrapeSet(data);
 
-  const [crafting, usedIn] = scrapeCrafting(data);
+  if (isModded) {
+    const [crafting, usedIn] = scrapeCrafting(data, true);
+    const { droppedBy, summons } = scrapeCalamityInfobox(data);
+    armor.crafting = crafting;
+    armor.usedIn = usedIn;
+    armor.droppedBy = [droppedBy as DroppedBy];
+    armor.summons = [summons as Summons];
+    return armor;
+  }
 
+  const [crafting, usedIn] = scrapeCrafting(data);
   armor.crafting = crafting;
   armor.usedIn = usedIn;
   armor.droppedBy = scrapeDroppedBy(data);
   return armor;
 };
-
-scrapeArmor('https://terraria.fandom.com/wiki/Rain_armor');

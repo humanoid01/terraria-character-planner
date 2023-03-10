@@ -43,7 +43,6 @@ async function getItemsNames(url: string, isModded: boolean) {
             });
           }
         });
-      itemNames.forEach(name => console.log(name));
 
       return itemNames;
     } else {
@@ -55,7 +54,6 @@ async function getItemsNames(url: string, isModded: boolean) {
         if (name?.includes(`'`)) name = name.replaceAll(`'`, '%27');
         if (name) itemNames.push(name);
       });
-      itemNames.forEach(name => console.log(name));
 
       return itemNames;
     }
@@ -91,7 +89,6 @@ async function getItemsNames(url: string, isModded: boolean) {
         });
       }
     });
-  itemNames.forEach(name => console.log(name));
 
   return itemNames;
 }
@@ -159,7 +156,8 @@ async function saveItemsData(isModded: boolean = false) {
             `https://${
               isModded ? 'calamitymod' : 'terraria'
             }.fandom.com/wiki/${name}`,
-            id + i
+            id + i,
+            isModded
           )
         );
       }
@@ -169,7 +167,8 @@ async function saveItemsData(isModded: boolean = false) {
             `https://${
               isModded ? 'calamitymod' : 'terraria'
             }.fandom.com/wiki/${name}`,
-            id + i
+            id + i,
+            isModded
           )
         );
       }
