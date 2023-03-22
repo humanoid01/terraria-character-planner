@@ -9,8 +9,8 @@ import vanillaHealthMana from '../data/vanilla/accessories/Health_and_Mana_Acces
 import vanillaInfo from '../data/vanilla/accessories/Informational_Accessories.json' assert { type: 'json' };
 import vanillaMisc from '../data/vanilla/accessories/Miscellaneous_Accessories.json' assert { type: 'json' };
 import vanillaMove from '../data/vanilla/accessories/Movement_Accessories.json' assert { type: 'json' };
-import vanillaVanity from '../data/vanilla/accessories/Vanity_Accessories.json' assert { type: 'json' };
-import vanillaYoyo from '../data/vanilla/accessories/Yoyo_Accessories.json' assert { type: 'json' };
+// import vanillaVanity from '../data/vanilla/accessories/Vanity_Accessories.json' assert { type: 'json' };
+// import vanillaYoyo from '../data/vanilla/accessories/Yoyo_Accessories.json' assert { type: 'json' };
 // Weapons
 import vanillaMelee from '../data/vanilla/weapons/Melee_weapons.json' assert { type: 'json' };
 import vanillaMagic from '../data/vanilla/weapons/Magic_weapons.json' assert { type: 'json' };
