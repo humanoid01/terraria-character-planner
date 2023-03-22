@@ -97,7 +97,7 @@ async function saveItemsData(isModded: boolean = false) {
   const terrariaItems = {
     vanillaWeapons: [
       ['Melee_weapons', 1],
-      ['Ranged_weapons', 100],
+      ['Ranged_weapons', 1000],
       ['Magic_weapons', 2000],
       ['Summon_weapons', 3000],
     ],
