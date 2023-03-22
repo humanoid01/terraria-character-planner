@@ -2144,13 +2144,6 @@
         "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Duke_Fishron.png",
         "quantity": "1",
         "rate": "20"
-      },
-      {
-        "itemsName": [],
-        "entityName": "Treasure Bag (Duke Fishron)",
-        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0d/Treasure_Bag_%28Duke_Fishron%29.png",
-        "quantity": "1",
-        "rate": "20"
       }
     ],
     "summons": []

@@ -1,6 +1,6 @@
 [
   {
-    "id": 100,
+    "id": 1000,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2e/Wooden_Bow.png",
     "name": "Wooden Bow",
     "type": "Weapon",
@@ -46,7 +46,7 @@
     "summons": []
   },
   {
-    "id": 101,
+    "id": 1001,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Boreal_Wood_Bow.png",
     "name": "Boreal Wood Bow",
     "type": "Weapon",
@@ -92,7 +92,7 @@
     "summons": []
   },
   {
-    "id": 102,
+    "id": 1002,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/44/Palm_Wood_Bow.png",
     "name": "Palm Wood Bow",
     "type": "Weapon",
@@ -138,7 +138,7 @@
     "summons": []
   },
   {
-    "id": 103,
+    "id": 1003,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3b/Rich_Mahogany_Bow.png",
     "name": "Rich Mahogany Bow",
     "type": "Weapon",
@@ -184,7 +184,7 @@
     "summons": []
   },
   {
-    "id": 104,
+    "id": 1004,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4c/Copper_Bow.png",
     "name": "Copper Bow",
     "type": "Weapon",
@@ -234,7 +234,7 @@
     "summons": []
   },
   {
-    "id": 105,
+    "id": 1005,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Tin_Bow.png",
     "name": "Tin Bow",
     "type": "Weapon",
@@ -284,7 +284,7 @@
     "summons": []
   },
   {
-    "id": 106,
+    "id": 1006,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a2/Ebonwood_Bow.png",
     "name": "Ebonwood Bow",
     "type": "Weapon",
@@ -330,7 +330,7 @@
     "summons": []
   },
   {
-    "id": 107,
+    "id": 1007,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Shadewood_Bow.png",
     "name": "Shadewood Bow",
     "type": "Weapon",
@@ -376,7 +376,7 @@
     "summons": []
   },
   {
-    "id": 108,
+    "id": 1008,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Iron_Bow.png",
     "name": "Iron Bow",
     "type": "Weapon",
@@ -426,7 +426,7 @@
     "summons": []
   },
   {
-    "id": 109,
+    "id": 1009,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Lead_Bow.png",
     "name": "Lead Bow",
     "type": "Weapon",
@@ -476,7 +476,7 @@
     "summons": []
   },
   {
-    "id": 110,
+    "id": 1010,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e8/Silver_Bow.png",
     "name": "Silver Bow",
     "type": "Weapon",
@@ -526,7 +526,7 @@
     "summons": []
   },
   {
-    "id": 111,
+    "id": 1011,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1c/Tungsten_Bow.png",
     "name": "Tungsten Bow",
     "type": "Weapon",
@@ -576,7 +576,7 @@
     "summons": []
   },
   {
-    "id": 112,
+    "id": 1012,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Gold_Bow.png",
     "name": "Gold Bow",
     "type": "Weapon",
@@ -626,7 +626,7 @@
     "summons": []
   },
   {
-    "id": 113,
+    "id": 1013,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/db/Platinum_Bow.png",
     "name": "Platinum Bow",
     "type": "Weapon",
@@ -676,7 +676,7 @@
     "summons": []
   },
   {
-    "id": 114,
+    "id": 1014,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Demon_Bow.png",
     "name": "Demon Bow",
     "type": "Weapon",
@@ -726,7 +726,7 @@
     "summons": []
   },
   {
-    "id": 115,
+    "id": 1015,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/84/Tendon_Bow.png",
     "name": "Tendon Bow",
     "type": "Weapon",
@@ -776,7 +776,7 @@
     "summons": []
   },
   {
-    "id": 116,
+    "id": 1016,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1e/Blood_Rain_Bow.png",
     "name": "Blood Rain Bow",
     "type": "Weapon",
@@ -824,7 +824,7 @@
     "summons": []
   },
   {
-    "id": 117,
+    "id": 1017,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Molten_Fury.png",
     "name": "Molten Fury",
     "type": "Weapon Crafting material",
@@ -878,7 +878,7 @@
     "summons": []
   },
   {
-    "id": 118,
+    "id": 1018,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/The_Bee%27s_Knees.png",
     "name": "The Bee's Knees",
     "type": "Weapon",
@@ -925,7 +925,7 @@
     "summons": []
   },
   {
-    "id": 119,
+    "id": 1019,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/df/Hellwing_Bow.png",
     "name": "Hellwing Bow",
     "type": "Weapon",
@@ -972,7 +972,7 @@
     "summons": []
   },
   {
-    "id": 120,
+    "id": 1020,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Flare.png",
     "name": "Flares",
     "type": "Ammunition",
@@ -994,7 +994,7 @@
     "summons": []
   },
   {
-    "id": 121,
+    "id": 1021,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/96/Minishark.png",
     "name": "Minishark",
     "type": "Weapon Crafting material",
@@ -1126,7 +1126,7 @@
     "summons": []
   },
   {
-    "id": 122,
+    "id": 1022,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/68/Blowpipe.png",
     "name": "Blowpipe",
     "type": "Weapon",
@@ -1153,7 +1153,7 @@
     "summons": []
   },
   {
-    "id": 123,
+    "id": 1023,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Flintlock_Pistol.png",
     "name": "Flintlock Pistol",
     "type": "Weapon",
@@ -1176,7 +1176,7 @@
     "summons": []
   },
   {
-    "id": 124,
+    "id": 1024,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cd/Snowball_Cannon.png",
     "name": "Snowball Cannon",
     "type": "Weapon",
@@ -1221,7 +1221,7 @@
     "summons": []
   },
   {
-    "id": 125,
+    "id": 1025,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e1/Boomstick.png",
     "name": "Boomstick",
     "type": "Weapon",
@@ -1270,7 +1270,7 @@
     "summons": []
   },
   {
-    "id": 126,
+    "id": 1026,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6d/Revolver.png",
     "name": "Revolver",
     "type": "Weapon",
@@ -1293,7 +1293,7 @@
     "summons": []
   },
   {
-    "id": 127,
+    "id": 1027,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Red_Ryder.png",
     "name": "Red Ryder",
     "type": "Weapon",
@@ -1328,7 +1328,7 @@
     "summons": []
   },
   {
-    "id": 128,
+    "id": 1028,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Sandgun.png",
     "name": "Sandgun",
     "type": "Weapon",
@@ -1409,7 +1409,7 @@
     "summons": []
   },
   {
-    "id": 129,
+    "id": 1029,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Musket.png",
     "name": "Musket",
     "type": "Weapon",
@@ -1458,7 +1458,7 @@
     "summons": []
   },
   {
-    "id": 130,
+    "id": 1030,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/The_Undertaker.png",
     "name": "The Undertaker",
     "type": "Weapon",
@@ -1503,7 +1503,7 @@
     "summons": []
   },
   {
-    "id": 131,
+    "id": 1031,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Star_Cannon.png",
     "name": "Star Cannon",
     "type": "Weapon Crafting material",
@@ -1529,8 +1529,7 @@
         "name": "Star Cannon Star"
       }
     ],
-    "crafting": [],
-    "usedIn": [
+    "crafting": [
       {
         "ingredients": [
           [
@@ -1570,7 +1569,9 @@
             "name": "Lead Anvil"
           }
         ]
-      },
+      }
+    ],
+    "usedIn": [
       {
         "ingredients": [
           [
@@ -1609,7 +1610,7 @@
     "summons": []
   },
   {
-    "id": 132,
+    "id": 1032,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Blowgun.png",
     "name": "Blowgun",
     "type": "Weapon",
@@ -1636,7 +1637,7 @@
     "summons": []
   },
   {
-    "id": 133,
+    "id": 1033,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Quad-Barrel_Shotgun.png",
     "name": "Quad-Barrel Shotgun",
     "type": "Weapon",
@@ -1663,7 +1664,7 @@
     "summons": []
   },
   {
-    "id": 134,
+    "id": 1034,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Handgun.png",
     "name": "Handgun",
     "type": "Weapon Crafting material",
@@ -1728,7 +1729,7 @@
     "summons": []
   },
   {
-    "id": 135,
+    "id": 1035,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Pew-matic_Horn.png",
     "name": "Pew-matic Horn",
     "type": "Weapon",
@@ -1776,7 +1777,7 @@
     "summons": []
   },
   {
-    "id": 136,
+    "id": 1036,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/af/Phoenix_Blaster.png",
     "name": "Phoenix Blaster",
     "type": "Weapon",
@@ -1833,7 +1834,7 @@
     "summons": []
   },
   {
-    "id": 137,
+    "id": 1037,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Snowball.png",
     "name": "Snowball",
     "type": "Weapon Ammunition",
@@ -1861,7 +1862,7 @@
     "summons": []
   },
   {
-    "id": 138,
+    "id": 1038,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Shuriken.png",
     "name": "Shuriken",
     "type": "Weapon",
@@ -1889,7 +1890,7 @@
     "summons": []
   },
   {
-    "id": 139,
+    "id": 1039,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/03/Rotten_Egg.png",
     "name": "Rotten Egg",
     "type": "Weapon",
@@ -1929,7 +1930,7 @@
     "summons": []
   },
   {
-    "id": 140,
+    "id": 1040,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Throwing_Knife.png",
     "name": "Throwing Knife",
     "type": "Weapon Crafting material",
@@ -1957,7 +1958,7 @@
     "summons": []
   },
   {
-    "id": 141,
+    "id": 1041,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Poisoned_Knife.png",
     "name": "Poisoned Knife",
     "type": "Weapon",
@@ -1993,7 +1994,7 @@
     "summons": []
   },
   {
-    "id": 142,
+    "id": 1042,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/02/Beenade.png",
     "name": "Beenade",
     "type": "Weapon",
@@ -2074,7 +2075,7 @@
     "summons": []
   },
   {
-    "id": 143,
+    "id": 1043,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Bone_Throwing_Knife.png",
     "name": "Bone Throwing Knife",
     "type": "Weapon",
@@ -2155,7 +2156,7 @@
     "summons": []
   },
   {
-    "id": 144,
+    "id": 1044,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/90/Star_Anise.png",
     "name": "Star Anise",
     "type": "Weapon",
@@ -2191,7 +2192,7 @@
     "summons": []
   },
   {
-    "id": 145,
+    "id": 1045,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d9/Spiky_Ball.png",
     "name": "Spiky Ball",
     "type": "Weapon",
@@ -2255,7 +2256,7 @@
     "summons": []
   },
   {
-    "id": 146,
+    "id": 1046,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Javelin.png",
     "name": "Javelin",
     "type": "Weapon",
@@ -2291,7 +2292,7 @@
     "summons": []
   },
   {
-    "id": 147,
+    "id": 1047,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Frost_Daggerfish.png",
     "name": "Frost Daggerfish",
     "type": "Weapon",
@@ -2319,7 +2320,7 @@
     "summons": []
   },
   {
-    "id": 148,
+    "id": 1048,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2c/Bone.png",
     "name": "Bone",
     "type": "Weapon Crafting material",
@@ -12665,7 +12666,7 @@
     "summons": []
   },
   {
-    "id": 149,
+    "id": 1049,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Molotov_Cocktail.png",
     "name": "Molotov Cocktail",
     "type": "Weapon",
@@ -12718,7 +12719,7 @@
     "summons": []
   },
   {
-    "id": 150,
+    "id": 1050,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Bone_Javelin.png",
     "name": "Bone Javelin",
     "type": "Weapon",
@@ -12807,7 +12808,7 @@
     "summons": []
   },
   {
-    "id": 151,
+    "id": 1051,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Happy_Grenade.png",
     "name": "Happy Grenade",
     "type": "Weapon",
@@ -12847,7 +12848,7 @@
     "summons": []
   },
   {
-    "id": 152,
+    "id": 1052,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fb/Grenade.png",
     "name": "Grenade",
     "type": "Weapon Crafting material",
@@ -12979,7 +12980,7 @@
     "summons": []
   },
   {
-    "id": 153,
+    "id": 1053,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9d/Sticky_Grenade.png",
     "name": "Sticky Grenade",
     "type": "Weapon",
@@ -13037,7 +13038,7 @@
     "summons": []
   },
   {
-    "id": 154,
+    "id": 1054,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Bouncy_Grenade.png",
     "name": "Bouncy Grenade",
     "type": "Weapon",
@@ -13095,7 +13096,7 @@
     "summons": []
   },
   {
-    "id": 155,
+    "id": 1055,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d1/Ale_Tosser.png",
     "name": "Ale Tosser",
     "type": "Weapon",
@@ -13131,7 +13132,7 @@
     "summons": []
   },
   {
-    "id": 156,
+    "id": 1056,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/70/Bone_Glove.png",
     "name": "Bone Glove",
     "type": "Accessory",
@@ -13167,7 +13168,7 @@
     "summons": []
   },
   {
-    "id": 157,
+    "id": 1057,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Paintball_Gun.png",
     "name": "Paintball Gun",
     "type": "Weapon",
@@ -13203,7 +13204,7 @@
     "summons": []
   },
   {
-    "id": 158,
+    "id": 1058,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/dc/Harpoon.png",
     "name": "Harpoon",
     "type": "Weapon",
@@ -13267,7 +13268,7 @@
     "summons": []
   },
   {
-    "id": 159,
+    "id": 1059,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/53/Pearlwood_Bow.png",
     "name": "Pearlwood Bow",
     "type": "Weapon",
@@ -13313,7 +13314,7 @@
     "summons": []
   },
   {
-    "id": 160,
+    "id": 1060,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b0/Daedalus_Stormbow.png",
     "name": "Daedalus Stormbow",
     "type": "Weapon",
@@ -13348,7 +13349,7 @@
     "summons": []
   },
   {
-    "id": 161,
+    "id": 1061,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Ice_Bow.png",
     "name": "Ice Bow",
     "type": "Weapon",
@@ -13388,7 +13389,7 @@
     "summons": []
   },
   {
-    "id": 162,
+    "id": 1062,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Shadowflame_Bow.png",
     "name": "Shadowflame Bow",
     "type": "Weapon",
@@ -13436,7 +13437,7 @@
     "summons": []
   },
   {
-    "id": 163,
+    "id": 1063,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6a/Marrow.png",
     "name": "Marrow",
     "type": "Weapon",
@@ -13467,7 +13468,7 @@
     "summons": []
   },
   {
-    "id": 164,
+    "id": 1064,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/44/Pulse_Bow.png",
     "name": "Pulse Bow",
     "type": "Weapon",
@@ -13499,7 +13500,7 @@
     "summons": []
   },
   {
-    "id": 165,
+    "id": 1065,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Phantom_Phoenix.png",
     "name": "Phantom Phoenix",
     "type": "Weapon",
@@ -13558,7 +13559,7 @@
     "summons": []
   },
   {
-    "id": 166,
+    "id": 1066,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Tsunami.png",
     "name": "Tsunami",
     "type": "Weapon",
@@ -13600,7 +13601,7 @@
     "summons": []
   },
   {
-    "id": 167,
+    "id": 1067,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Aerial_Bane.png",
     "name": "Aerial Bane",
     "type": "Weapon",
@@ -13647,7 +13648,7 @@
     "summons": []
   },
   {
-    "id": 168,
+    "id": 1068,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Eventide.png",
     "name": "Eventide",
     "type": "Weapon",
@@ -13675,7 +13676,7 @@
     "summons": []
   },
   {
-    "id": 169,
+    "id": 1069,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a7/Phantasm.png",
     "name": "Phantasm",
     "type": "Weapon",
@@ -13734,7 +13735,7 @@
     "summons": []
   },
   {
-    "id": 170,
+    "id": 1070,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4d/Cobalt_Repeater.png",
     "name": "Cobalt Repeater",
     "type": "Weapon",
@@ -13784,7 +13785,7 @@
     "summons": []
   },
   {
-    "id": 171,
+    "id": 1071,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Palladium_Repeater.png",
     "name": "Palladium Repeater",
     "type": "Weapon",
@@ -13834,7 +13835,7 @@
     "summons": []
   },
   {
-    "id": 172,
+    "id": 1072,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Mythril_Repeater.png",
     "name": "Mythril Repeater",
     "type": "Weapon",
@@ -13884,7 +13885,7 @@
     "summons": []
   },
   {
-    "id": 173,
+    "id": 1073,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Orichalcum_Repeater.png",
     "name": "Orichalcum Repeater",
     "type": "Weapon",
@@ -13934,7 +13935,7 @@
     "summons": []
   },
   {
-    "id": 174,
+    "id": 1074,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Adamantite_Repeater.png",
     "name": "Adamantite Repeater",
     "type": "Weapon",
@@ -13984,7 +13985,7 @@
     "summons": []
   },
   {
-    "id": 175,
+    "id": 1075,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Titanium_Repeater.png",
     "name": "Titanium Repeater",
     "type": "Weapon",
@@ -14034,7 +14035,7 @@
     "summons": []
   },
   {
-    "id": 176,
+    "id": 1076,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Hallowed_Repeater.png",
     "name": "Hallowed Repeater",
     "type": "Weapon Crafting material",
@@ -14084,7 +14085,7 @@
     "summons": []
   },
   {
-    "id": 177,
+    "id": 1077,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Chlorophyte_Shotbow.png",
     "name": "Chlorophyte Shotbow",
     "type": "Weapon",
@@ -14134,7 +14135,7 @@
     "summons": []
   },
   {
-    "id": 178,
+    "id": 1078,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Stake_Launcher.png",
     "name": "Stake Launcher",
     "type": "Weapon",
@@ -14165,7 +14166,7 @@
     "summons": []
   },
   {
-    "id": 179,
+    "id": 1079,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Clockwork_Assault_Rifle.png",
     "name": "Clockwork Assault Rifle",
     "type": "Weapon",
@@ -14208,7 +14209,7 @@
     "summons": []
   },
   {
-    "id": 180,
+    "id": 1080,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/32/Gatligator.png",
     "name": "Gatligator",
     "type": "Weapon",
@@ -14236,7 +14237,7 @@
     "summons": []
   },
   {
-    "id": 181,
+    "id": 1081,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Shotgun.png",
     "name": "Shotgun",
     "type": "Weapon Crafting material",
@@ -14304,7 +14305,7 @@
     "summons": []
   },
   {
-    "id": 182,
+    "id": 1082,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Onyx_Blaster.png",
     "name": "Onyx Blaster",
     "type": "Weapon",
@@ -14373,7 +14374,7 @@
     "summons": []
   },
   {
-    "id": 183,
+    "id": 1083,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Coin_Gun.png",
     "name": "Coin Gun",
     "type": "Weapon",
@@ -14444,7 +14445,7 @@
     "summons": []
   },
   {
-    "id": 184,
+    "id": 1084,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Uzi.png",
     "name": "Uzi",
     "type": "Weapon",
@@ -14479,7 +14480,7 @@
     "summons": []
   },
   {
-    "id": 185,
+    "id": 1085,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Dart_Rifle.png",
     "name": "Dart Rifle",
     "type": "Weapon",
@@ -14510,7 +14511,7 @@
     "summons": []
   },
   {
-    "id": 186,
+    "id": 1086,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Dart_Pistol.png",
     "name": "Dart Pistol",
     "type": "Weapon",
@@ -14541,7 +14542,7 @@
     "summons": []
   },
   {
-    "id": 187,
+    "id": 1087,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Super_Star_Shooter.png",
     "name": "Super Star Shooter",
     "type": "Weapon",
@@ -14611,7 +14612,7 @@
     "summons": []
   },
   {
-    "id": 188,
+    "id": 1088,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Megashark.png",
     "name": "Megashark",
     "type": "Weapon",
@@ -14687,7 +14688,7 @@
     "summons": []
   },
   {
-    "id": 189,
+    "id": 1089,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Flamethrower.png",
     "name": "Flamethrower",
     "type": "Weapon",
@@ -14769,7 +14770,7 @@
     "summons": []
   },
   {
-    "id": 190,
+    "id": 1090,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Venus_Magnum.png",
     "name": "Venus Magnum",
     "type": "Weapon",
@@ -14811,7 +14812,7 @@
     "summons": []
   },
   {
-    "id": 191,
+    "id": 1091,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Tactical_Shotgun.png",
     "name": "Tactical Shotgun",
     "type": "Weapon",
@@ -14842,7 +14843,7 @@
     "summons": []
   },
   {
-    "id": 192,
+    "id": 1092,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Sniper_Rifle.png",
     "name": "Sniper Rifle",
     "type": "Weapon",
@@ -14878,7 +14879,7 @@
     "summons": []
   },
   {
-    "id": 193,
+    "id": 1093,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Candy_Corn_Rifle.png",
     "name": "Candy Corn Rifle",
     "type": "Weapon",
@@ -14913,7 +14914,7 @@
     "summons": []
   },
   {
-    "id": 194,
+    "id": 1094,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Chain_Gun.png",
     "name": "Chain Gun",
     "type": "Weapon",
@@ -14946,7 +14947,7 @@
     "summons": []
   },
   {
-    "id": 195,
+    "id": 1095,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Elf_Melter.png",
     "name": "Elf Melter",
     "type": "Weapon",
@@ -14993,7 +14994,7 @@
     "summons": []
   },
   {
-    "id": 196,
+    "id": 1096,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1b/Xenopopper.png",
     "name": "Xenopopper",
     "type": "Weapon",
@@ -15029,7 +15030,7 @@
     "summons": []
   },
   {
-    "id": 197,
+    "id": 1097,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b6/Vortex_Beater.png",
     "name": "Vortex Beater",
     "type": "Weapon",
@@ -15089,7 +15090,7 @@
     "summons": []
   },
   {
-    "id": 198,
+    "id": 1098,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/S.D.M.G..png",
     "name": "S.D.M.G.",
     "type": "Weapon",
@@ -15117,7 +15118,7 @@
     "summons": []
   },
   {
-    "id": 199,
+    "id": 1099,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Grenade_Launcher.png",
     "name": "Grenade Launcher",
     "type": "Weapon",
@@ -15204,7 +15205,7 @@
     "summons": []
   },
   {
-    "id": 200,
+    "id": 1100,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/ff/Proximity_Mine_Launcher.png",
     "name": "Proximity Mine Launcher",
     "type": "Weapon",
@@ -15280,7 +15281,7 @@
     "summons": []
   },
   {
-    "id": 201,
+    "id": 1101,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/05/Rocket_Launcher.png",
     "name": "Rocket Launcher",
     "type": "Weapon",
@@ -15364,7 +15365,7 @@
     "summons": []
   },
   {
-    "id": 202,
+    "id": 1102,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Nail_Gun.png",
     "name": "Nail Gun",
     "type": "Weapon",
@@ -15395,7 +15396,7 @@
     "summons": []
   },
   {
-    "id": 203,
+    "id": 1103,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Jack_%27O_Lantern_Launcher.png",
     "name": "Jack 'O Lantern Launcher",
     "type": "Weapon",
@@ -15414,11 +15415,19 @@
     "projectiles": [],
     "crafting": [],
     "usedIn": [],
-    "droppedBy": [],
+    "droppedBy": [
+      {
+        "itemsName": [],
+        "entityName": "Pumpking",
+        "entityImg": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Pumpking.png",
+        "quantity": "Jack 'O Lantern Launcher\n+ Explosive Jack 'O Lantern (25-50)",
+        "rate": "1.04"
+      }
+    ],
     "summons": []
   },
   {
-    "id": 204,
+    "id": 1104,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/35/Snowman_Cannon.png",
     "name": "Snowman Cannon",
     "type": "Weapon",
@@ -15502,7 +15511,7 @@
     "summons": []
   },
   {
-    "id": 205,
+    "id": 1105,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8f/Stynger.png",
     "name": "Stynger",
     "type": "Weapon",
@@ -15545,7 +15554,7 @@
     "summons": []
   },
   {
-    "id": 206,
+    "id": 1106,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/da/Electrosphere_Launcher.png",
     "name": "Electrosphere Launcher",
     "type": "Weapon",
@@ -15585,7 +15594,7 @@
     "summons": []
   },
   {
-    "id": 207,
+    "id": 1107,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4e/Celebration.png",
     "name": "Celebration",
     "type": "Weapon",
@@ -15625,7 +15634,7 @@
     "summons": []
   },
   {
-    "id": 208,
+    "id": 1108,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Celebration_Mk2.png",
     "name": "Celebration Mk2",
     "type": "Weapon",
@@ -15689,7 +15698,7 @@
     "summons": []
   },
   {
-    "id": 209,
+    "id": 1109,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c9/Toxikarp.png",
     "name": "Toxikarp",
     "type": "Weapon",
@@ -15729,7 +15738,7 @@
     "summons": []
   },
   {
-    "id": 210,
+    "id": 1110,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a5/Piranha_Gun.png",
     "name": "Piranha Gun",
     "type": "Weapon",
