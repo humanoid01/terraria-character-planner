@@ -17,31 +17,36 @@ import vanillaMagic from '../data/vanilla/weapons/Magic_weapons.json' assert { t
 import vanillaRanged from '../data/vanilla/weapons/Ranged_weapons.json' assert { type: 'json' };
 import vanillaSummon from '../data/vanilla/weapons/Summon_weapons.json' assert { type: 'json' };
 import { deleteDuplicates } from './deleteDuplicates.js';
+import { deleteEmpty } from './deleteEmpty.js';
 
 const dataMerger = () => {
   const newVanillaMove = vanillaMove.filter(
     item => !item.name.toLowerCase().includes('wing')
   );
 
-  const vanillaAccessories = deleteDuplicates([
-    ...vanillaCombat,
-    ...vanillaConstrction,
-    ...vanillaExpert,
-    ...vanillaFishing,
-    ...vanillaHealthMana,
-    ...vanillaInfo,
-    ...vanillaMisc,
-    ...newVanillaMove,
-    // ...vanillaVanity, it's bugged for now
-    // ...vanillaYoyo, it's bugged for now
-  ]);
+  const vanillaAccessories = deleteEmpty(
+    deleteDuplicates([
+      ...vanillaCombat,
+      ...vanillaConstrction,
+      ...vanillaExpert,
+      ...vanillaFishing,
+      ...vanillaHealthMana,
+      ...vanillaInfo,
+      ...vanillaMisc,
+      ...newVanillaMove,
+      // ...vanillaVanity, it's bugged for now
+      // ...vanillaYoyo, it's bugged for now
+    ])
+  );
 
-  const vanillaWeapons = deleteDuplicates([
-    ...vanillaMelee,
-    ...vanillaMagic,
-    ...vanillaRanged,
-    ...vanillaSummon,
-  ]);
+  const vanillaWeapons = deleteEmpty(
+    deleteDuplicates([
+      ...vanillaMelee,
+      ...vanillaMagic,
+      ...vanillaRanged,
+      ...vanillaSummon,
+    ])
+  );
 
   fs.writeFileSync(
     `../data/vanilla/accessories/allAccessories.json`,
