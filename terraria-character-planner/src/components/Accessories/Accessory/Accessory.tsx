@@ -1,5 +1,5 @@
 import allAccessories from '../../../data/vanilla/accessories/allAccessories.json';
-import { CustomSelect } from './../../CustomSelect/CustomSelect';
+import { SelectItem } from './../../SelectItem/SelectItem';
 
 interface SelectProps {
   img: string;
@@ -9,9 +9,10 @@ interface SelectProps {
 
 export const Accessory = () => {
   return (
-    <CustomSelect
+    <SelectItem
       options={allAccessories as SelectProps[]}
       placeholder={'Accessory'}
+      width={'200px'}
     />
   );
 };

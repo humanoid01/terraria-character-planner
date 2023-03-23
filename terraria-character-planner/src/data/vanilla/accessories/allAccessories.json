@@ -9204,59 +9204,6 @@
     "summons": []
   },
   {
-    "id": 7005,
-    "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Celestial_Emblem.png",
-    "name": "Celestial Emblem",
-    "type": "Accessory",
-    "tooltip": [
-      [
-        "Increases pickup range for mana stars",
-        "15% increased magic damage"
-      ]
-    ],
-    "debuffs": [],
-    "buffs": [],
-    "rarity": {
-      "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/Rarity_color_5.png",
-      "tier": "5"
-    },
-    "projectiles": [],
-    "crafting": [
-      {
-        "ingredients": [
-          [
-            {
-              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8d/Celestial_Magnet.png",
-              "name": "Celestial Magnet",
-              "quantity": ""
-            }
-          ],
-          [
-            {
-              "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Avenger_Emblem.png",
-              "name": "Avenger Emblem",
-              "quantity": ""
-            }
-          ]
-        ],
-        "result": {
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/Celestial_Emblem.png",
-          "name": "Celestial Emblem",
-          "quantity": ""
-        },
-        "cStations": [
-          {
-            "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/17/Tinkerer%27s_Workshop.png",
-            "name": "Tinkerer's Workshop"
-          }
-        ]
-      }
-    ],
-    "usedIn": [],
-    "droppedBy": [],
-    "summons": []
-  },
-  {
     "id": 7006,
     "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Charm_of_Myths.png",
     "name": "Charm of Myths",

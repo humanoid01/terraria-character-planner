@@ -1,9 +1,9 @@
-import { Accessories } from './components/Accessories/Accessories';
+import { Character } from './components/Character/Character';
 
 function App() {
   return (
     <div className='App'>
-      <Accessories />
+      <Character />
     </div>
   );
 }
